@@ -151,7 +151,7 @@ func _on_check_button_pressed() -> void:
 	# Let the user guess again
 	if attempt < 3 && !passed: return
 	
-	if was_fullscreen:
+	if was_fullscreen and DisplayServer.window_get_mode() == DisplayServer.WINDOW_MODE_WINDOWED:
 		print("Changing back to Fullscreen")
 		DisplayServer.window_set_mode(DisplayServer.WINDOW_MODE_FULLSCREEN)
 	
@@ -176,6 +176,10 @@ func _on_feedback_button_pressed() -> void:
 
 
 func _on_next_button_pressed() -> void:
+	if was_fullscreen and DisplayServer.window_get_mode() == DisplayServer.WINDOW_MODE_WINDOWED:
+		print("Changing back to Fullscreen")
+		DisplayServer.window_set_mode(DisplayServer.WINDOW_MODE_FULLSCREEN)
+		
 	if Global.got_questions == Global.total_points:
 		questions_done.emit()
 		return
