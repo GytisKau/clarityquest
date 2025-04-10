@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://kgegtvvkasmh"
-path="res://.godot/imported/Joystick.png-e4c16cf7cfabb1213c08960d699e15d6.ctex"
+uid="uid://3s2n2pi4u3p4"
+path="res://.godot/imported/JoystickSplitted.png-db1f55652bdc0dc069de0222a0d4e2db.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Joystick/textures/VirtualJoystickPack/Joystick.png"
-dest_files=["res://.godot/imported/Joystick.png-e4c16cf7cfabb1213c08960d699e15d6.ctex"]
+source_file="res://addons/Joystick/textures/VirtualJoystickPack/JoystickSplitted.png"
+dest_files=["res://.godot/imported/JoystickSplitted.png-db1f55652bdc0dc069de0222a0d4e2db.ctex"]
 
 [params]
 

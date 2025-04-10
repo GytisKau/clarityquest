@@ -16,6 +16,7 @@ var question_count: int
 var correct_option: String
 var stylebox_norm: StyleBox
 var attempt: int = 0
+var was_fullscreen := false
 
 signal questions_done
 
@@ -26,7 +27,6 @@ func _ready() -> void:
 	next_button.text = Global.translation["Next"]
 	_show_question()
 	stylebox_norm = inputs[0].get_theme_stylebox("normal").duplicate(true)
-	DisplayServer.virtual_keyboard_show("Labas")
 	
 
 func initialize(p_question_group: Dictionary, p_feedback: PanelContainer, p_score_label: Label) -> void:
@@ -84,6 +84,12 @@ func _show_question():
 				
 			question_container.add_child(lineEdit)
 			inputs.append(lineEdit)
+	
+	if DisplayServer.window_get_mode() == DisplayServer.WINDOW_MODE_FULLSCREEN && not inputs.is_empty():
+		was_fullscreen = true
+		print("Changing to Windowed")
+		DisplayServer.window_set_mode(DisplayServer.WINDOW_MODE_WINDOWED)
+		inputs[0].grab_click_focus()
 
 
 func _on_check_button_pressed() -> void:
@@ -144,6 +150,10 @@ func _on_check_button_pressed() -> void:
 
 	# Let the user guess again
 	if attempt < 3 && !passed: return
+	
+	if was_fullscreen:
+		print("Changing back to Fullscreen")
+		DisplayServer.window_set_mode(DisplayServer.WINDOW_MODE_FULLSCREEN)
 	
 	display_correct_answers()
 	check_button.hide()

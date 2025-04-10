@@ -1,7 +1,7 @@
 ##  RESPONSIVE TOUCHSCREEN JOYSTICK 1.0.2 ##
 
 @tool
-@icon("res://touchscreenjoystickicon.png")
+@icon("res://addons/Joystick/icon.png")
 extends Control
 class_name TouchScreenJoystick
 

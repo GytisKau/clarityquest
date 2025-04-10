@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dstq5nmmahvtb"
-path="res://.godot/imported/SmallHandleFilledGrey.png-9bd9a01d55aa7e2f0c10bd2c0521a53d.ctex"
+path="res://.godot/imported/SmallHandleFilledGrey.png-3cad47a076996ca8c80ce79762fe7132.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Joystick/textures/VirtualJoystickPack/SmallHandleFilledGrey.png"
-dest_files=["res://.godot/imported/SmallHandleFilledGrey.png-9bd9a01d55aa7e2f0c10bd2c0521a53d.ctex"]
+source_file="res://addons/Joystick/textures/VirtualJoystickPack/SmallHandleFilledGrey.png"
+dest_files=["res://.godot/imported/SmallHandleFilledGrey.png-3cad47a076996ca8c80ce79762fe7132.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cimue7to0w30k"
-path="res://.godot/imported/SmallHandleFilled.png-7eb9ea577272977a117726a2a0559b01.ctex"
+uid="uid://dqgoyfgebhqmt"
+path="res://.godot/imported/JoystickPack Preview.png-97114fd2e97cd571dbcd7ee011939344.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Joystick/textures/VirtualJoystickPack/SmallHandleFilled.png"
-dest_files=["res://.godot/imported/SmallHandleFilled.png-7eb9ea577272977a117726a2a0559b01.ctex"]
+source_file="res://addons/Joystick/textures/VirtualJoystickPack/JoystickPack Preview.png"
+dest_files=["res://.godot/imported/JoystickPack Preview.png-97114fd2e97cd571dbcd7ee011939344.ctex"]
 
 [params]
 
