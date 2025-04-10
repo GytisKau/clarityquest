@@ -1,0 +1,709 @@
+{
+  "ChooseTheCorrectAnswer": [
+    {
+      "author": "CESIE",
+      "topic": "Primjena medijske pismenosti u praktičnim okruženjima",
+      "questions": [
+        {
+          "question": "Novinski članak tvrdi da novoobjavljena studija pokazuje dramatičan porast određenog zdravstvenog stanja zbog široko raširenog proizvoda za kućanstvo. Kako biste provjerili točnost ovog zahtjeva, koje korake trebate poduzeti?",
+          "options": [
+            "Vjerujte članku ako se pojavi na popularnoj internetskoj stranici s vijestima",
+            "Podijelite članak s prijateljima kako biste vidjeli jesu li čuli isto",
+            "Potražite izvornu studiju i provjerite njezinu metodologiju i vjerodostojnost",
+            "Zanemarite članak jer zvuči pretjerano"
+          ],
+          "correctOption": "Potražite izvornu studiju i provjerite njezinu metodologiju i vjerodostojnost",
+          "feedback_incorrect": "Probajmo opet . Umjesto da vjerujete članku samo zato što se pojavljuje na popularnoj internetskoj stranici s vijestima ili ga dijelite s prijateljima, najbolji je pristup potražiti izvornu studiju i provjeriti njezinu metodologiju i vjerodostojnost. Time se osigurava dobivanje informacija izravno iz pouzdanog izvora i omogućuje procjena kvalitete i pouzdanosti ispitivanja. Ispitivanjem čimbenika kao što su veličina uzorka studije, metodologija i potencijalne pristranosti, možete donijeti informiraniju prosudbu o valjanosti tvrdnji članka.",
+          "feedback_correct": "Izvrstan posao! Ispravno ste utvrdili da je najbolji način za provjeru točnosti takve tvrdnje potražiti izvornu studiju i provjeriti njezinu metodologiju i vjerodostojnost. Time se osigurava dobivanje informacija izravno iz pouzdanog izvora i omogućuje procjena kvalitete i pouzdanosti ispitivanja. Ispitivanjem čimbenika kao što su veličina uzorka studije, metodologija i potencijalne pristranosti, možete donijeti informiraniju prosudbu o valjanosti tvrdnji članka. Dobro obavljeno!"
+        },
+        {
+          "question": "Dobit ćete e-mail od poznate tvrtke koja nudi besplatan odmor ako kliknete na poveznicu i navedete osobne podatke. Kako biste se trebali nositi s ovom situacijom?",
+          "options": [
+            "Kliknite poveznicu i navedite informacije jer je tvrtka poznata",
+            "Izbrišite e-mail jer je vjerojatno neželjena pošta",
+            "Nazovite tvrtku putem službenog broja za kontakt kako biste provjerili ponudu",
+            "Proslijedi e-mail prijateljima i provjeri jesu li dobili istu ponudu"
+          ],
+          "correctOption": "Nazovite tvrtku putem službenog broja za kontakt kako biste provjerili ponudu",
+          "feedback_incorrect": "Čini se da je došlo do nesporazuma u vezi s postupanjem sa sumnjivim e-mailovima. Umjesto da odmah kliknete na poveznice ili proslijedite e-poštu prijateljima, najsigurniji pristup kada naiđete na takve poruke e-pošte jest nazvati tvrtku koristeći službeni broj za kontakt kako biste potvrdili ponudu. Ova metoda omogućuje vam da potvrdite legitimnost e-pošte izravno s tvrtkom bez rizika od vaših osobnih podataka. Ne zaboravite uvijek provjeriti legitimnost ponuda ili zahtjeva prije poduzimanja bilo kakvih radnji. Jačanje ovih praksi pomoći će u zaštiti vaše online sigurnosti i privatnosti.",
+          "feedback_correct": "Sjajno! Ispravno ste utvrdili da je pozivanje tvrtke putem službenog broja za kontakt kako biste potvrdili ponudu najbolji pristup kada naiđete na sumnjive poruke e-pošte. Ova metoda omogućuje vam da potvrdite legitimnost e-pošte izravno s tvrtkom bez rizika od vaših osobnih podataka. Važno je biti oprezan s neželjenim e-mailovima kako biste se zaštitili od potencijalnih krađa identiteta. Provjerom autentičnosti ponuda ili zahtjeva putem službenih kanala možete osigurati sigurnost i privatnost na mreži. Nastavite primjenjivati ove pametne prakse kako biste ostali sigurni na mreži!"
+        },
+        {
+          "question": "U objavi na društvenoj mreži s računa visokog profila tvrdi se da je određena politička osoba počinila teško kazneno djelo. Kako biste potvrdili valjanost ovih podataka, što trebate učiniti?",
+          "options": [
+            "Vjerujte objavi jer dolazi s računa visokog profila",
+            "Potražite informacije na uglednim internetskim stranicama s vijestima i službenim izjavama",
+            "Podijelite objavu kako biste odmah obavijestili druge",
+            "Zanemari objavu osim ako ne postane popularna tema"
+          ],
+          "correctOption": "Potražite informacije na uglednim internetskim stranicama s vijestima i službenim izjavama",
+          "feedback_incorrect": "Čini se da je možda došlo do nesporazuma u pristupu objavama na društvenim mrežama, posebno onima koje uključuju ozbiljne navode. Umjesto da odmah povjerujete objavi jer dolazi s visokoprofilnog računa ili je dijelite kako biste upozorili druge, najbolja je praksa tražiti informacije na uglednim web stranicama s vijestima i službenim izjavama. Oslanjajući se na vjerodostojne izvore i izbjegavajući širenje neprovjerenih tvrdnji, možete doprinijeti smanjenju širenja dezinformacija i održavanju informiranih rasprava na internetu.",
+          "feedback_correct": "Izvrstan posao! Ispravno ste utvrdili da je najbolji pristup kada naiđete na objavu na društvenim mrežama koja tvrdi da se radi o ozbiljnim navodima o političkoj figuri traženje informacija na uglednim web stranicama s vijestima i službenim izjavama. Ova metoda osigurava da svoje razumijevanje temeljiš na vjerodostojnim izvorima i provjerenim informacijama. Tražeći pouzdane izvore vijesti i službene izjave, možete donositi informirane prosudbe i izbjegavati širenje potencijalno lažnih ili obmanjujućih informacija."
+        }
+      ]
+    },
+    {
+      "author": "CPIP",
+      "topic": "Teorije istine",
+      "questions": [
+        {
+          "question": "Teorija korespondencije istine navodi da je izjava istinita ako odgovara činjenici ili stvarnosti. Što to znači u medijskoj i digitalnoj pismenosti?",
+          "options": [
+            "Ocjenjivanje nedavnih medijskih vijesti",
+            "Procjena ponašanja medija",
+            "Ocjenjivanje i uspoređivanje medijskih događaja",
+            "Procjena informacija na temelju njihove usklađenosti s dokazima i podacima"
+          ],
+          "correctOption": "Procjena informacija na temelju njihove usklađenosti s dokazima i podacima",
+          "feedback_incorrect": "Bili ste blizu! U redu je, svi griješimo. Trebali biste provjeriti pouzdane izvore vijesti kako biste potvrdili točnost informacija.",
+          "feedback_correct": "Wow, točno ste odgovorili! Vrlo ste dobri u ovome! Pitanje istine postaje sve složenije, a događaji i činjenice rijetko imaju jedno tumačenje."
+        },
+        {
+          "question": "Teorija konsenzusa o istini pokazuje da je istina ono o čemu se slažu neke specifične/profesionalne skupine. Što to znači u medijskoj i digitalnoj pismenosti?",
+          "options": [
+            "Procjena informacija s osobnog stajališta",
+            "Procjena informacija s vanjske točke gledišta",
+            "Procjena informacija s objektivnog stajališta",
+            "Procjena vjerodostojnosti informacija na temelju konsenzusa stručnjaka ili zajednice"
+          ],
+          "correctOption": "Procjena vjerodostojnosti informacija na temelju konsenzusa stručnjaka ili zajednice",
+          "feedback_incorrect": "Bili ste blizu! U redu je, svi griješimo. Teorija konsenzusa kaže da se procjena vjerodostojnosti informacija temelji na konsenzusu stručnjaka ili zajednice.",
+          "feedback_correct": "Wow, točno ste odgovorili! Vrlo ste dobri u ovome! Razumijevanje teorije konsenzusa o istini pomaže pojedincima u donošenju informiranih odluka u digitalnom dobu."
+        },
+        {
+          "question": "Teorija koherentnosti istine pokazuje da se izjava smatra istinitom ako je logički usklađena s kohezivnim i skladnim skupom uvjerenja ili izjava. Što to znači u medijskoj i digitalnoj pismenosti?",
+          "options": [
+            "Procjena praktičnog pristupa informacijama",
+            "Procjena vjerodostojnosti informacija",
+            "Procjena izvora informacija",
+            "Procjena usklađenosti novih informacija s onim što je već poznato i prihvaćeno kao istinito"
+          ],
+          "correctOption": "Procjena usklađenosti novih informacija s onim što je već poznato i prihvaćeno kao istinito",
+          "feedback_incorrect": "Bili ste blizu! U redu je, svi griješimo. Ne radi se o korespondenciji s vanjskom stvarnošću.",
+          "feedback_correct": "Wow, točno ste odgovorili! Vrlo ste dobri u ovome! U ovoj teoriji, istina je definirana slaganjem i logičkom koherentnošću izjave s drugim prihvaćenim istinama ili uvjerenjima."
+        }
+      ]
+    },
+    {
+      "author": "DANTE",
+      "topic": "Procjena antidisinformacijskih mehanizama",
+      "questions": [
+        {
+          "question": "Kakvu ulogu imaju istraživanje i analiza podataka u procjeni mehanizama za borbu protiv dezinformiranja?",
+          "options": [
+            "Podrška donošenju politika utemeljenih na dokazima",
+            "Promicanje stranačkih stajališta",
+            "Suzbijanje javnog diskursa",
+            "Poticanje špekulacija i glasina"
+          ],
+          "correctOption": "Podrška donošenju politika utemeljenih na dokazima",
+          "feedback_incorrect": "Istraživanje i analiza podataka ključni su za razumijevanje učinkovitosti antidisinformacijskih mehanizama. Koja opcija najbolje opisuje njihov doprinos procjeni učinka i ishoda tih strategija?",
+          "feedback_correct": "Istraživanje uključuje prikupljanje podataka o rasprostranjenosti, izvorima i obrascima širenja dezinformacija na različitim platformama i demografskim podacima. Tehnike analize podataka, kao što su kvantitativna analiza i mapiranje mreže, pomažu u otkrivanju trendova, prepoznavanju influencera i razumijevanju načina širenja lažnih informacija."
+        },
+        {
+          "question": "Što je etičko razmatranje pri procjeni antidisinformacijskih mehanizama?",
+          "options": [
+            "Promicanje cenzure nepopularnih mišljenja",
+            "Zaštita prava pojedinaca na privatnost",
+            "Ograničavanje pristupa pouzdanim izvorima vijesti",
+            "Povećanje nadzora online aktivnosti"
+          ],
+          "correctOption": "Zaštita prava pojedinaca na privatnost",
+          "feedback_incorrect": "Pri procjeni mehanizama za borbu protiv dezinformiranja važno je uzeti u obzir etičke implikacije prikupljanja podataka i intervencijskih strategija. Koja opcija odražava ključnu etičku zabrinutost u procjeni tih mehanizama?",
+          "feedback_correct": "Napori u borbi protiv dezinformiranja često uključuju prikupljanje podataka za analizu trendova i obrazaca. Etička razmatranja uključuju osiguravanje da metode prikupljanja podataka poštuju prava pojedinaca na privatnost i da su u skladu s propisima o zaštiti podataka."
+        }
+      ]
+    },
+    {
+      "author": "DANTE",
+      "topic": "Osmišljavanje projekata za borbu protiv dezinformacija",
+      "questions": [
+        {
+          "question": "Koji je prvi korak u osmišljavanju projekta za borbu protiv dezinformacija?",
+          "options": [
+            "Procjena trenutne razine medijske pismenosti ciljane publike",
+            "Implementacija digitalnih alata za prepoznavanje lažnih vijesti",
+            "Kreiranje kampanje podizanja svijesti",
+            "Angažiranje stručnjaka za društvene mreže"
+          ],
+          "correctOption": "Procjena trenutne razine medijske pismenosti ciljane publike",
+          "feedback_incorrect": "Razumijevanje sposobnosti vaše publike da prepozna i procijeni informacije temelj je učinkovitog planiranja.",
+          "feedback_correct": "Uspostavljanje osnovnog razumijevanja medijske pismenosti publike pomaže u prilagođavanju programa njihovim specifičnim potrebama."
+        }
+      ]
+    },
+    {
+      "author": "ODYSSEA",
+      "topic": "Karakteristike razdoblja nakon istine",
+      "questions": [
+        {
+          "question": "Što od sljedećeg najbolje opisuje pojam \"post-istina\"?",
+          "options": [
+            "Povećano oslanjanje na provjerene izvore informacija.",
+            "Dominacija emocionalnih i osobnih uvjerenja nad objektivnim činjenicama.",
+            "Smanjen utjecaj društvenih mreža na javno mnijenje.",
+            "Viša razina kritičkog mišljenja u široj javnosti."
+          ],
+          "correctOption": "Dominacija emocionalnih i osobnih uvjerenja nad objektivnim činjenicama.",
+          "feedback_incorrect": "U post-istinskom društvu, ljudi se često oslanjaju na emocionalno nabijene narative i pristranost potvrde, umjesto da kritički procjenjuju dokaze iz vjerodostojnih izvora. Društveni mediji pojačavaju dezinformacije i odjekuju komore, koje jačaju osobna uvjerenja i smanjuju izloženost različitim perspektivama. Eru post-istine karakterizira erozija povjerenja u tradicionalne medije i stručno znanje, što dovodi do smanjenog naglaska na kritičko razmišljanje i činjeničnu točnost.",
+          "feedback_correct": "Dominacija emocionalnih i osobnih uvjerenja nad objektivnim činjenicama ključna je karakteristika razdoblja nakon istine jer naglašava temeljni pomak u načinu na koji ljudi obrađuju informacije i oblikuju mišljenja. U ovom dobu, pojedinci će vjerojatnije dati prednost svojim osjećajima, identitetima i unaprijed stvorenim pojmovima nad dokazima i racionalnom argumentacijom. Ovaj fenomen potaknut je čimbenicima kao što su širenje dezinformacija na društvenim medijima, pad povjerenja u tradicionalne medije i stručnjake te sklonost traženju informacija koje potvrđuju postojeće predrasude."
+        },
+        {
+          "question": "Što od sljedećeg najbolje opisuje pojam \"post-istina\"?",
+          "options": [
+            "Razdoblje u kojem su činjenice važnije od mišljenja.",
+            "Situacija u kojoj su objektivne činjenice manje utjecajne od emocionalnih apela.",
+            "Doba koje karakterizira raširena znanstvena pismenost.",
+            "Vrijeme kada su tradicionalni mediji jedini izvor istine."
+          ],
+          "correctOption": "Situacija u kojoj su objektivne činjenice manje utjecajne od emocionalnih apela.",
+          "feedback_incorrect": "U postistinskoj eri činjenice, znanstvena literatura i tradicionalni mediji nisu važan čimbenik. Umjesto toga, oni su namjerno marginalizirani kako bi manipulirali javnošću.",
+          "feedback_correct": "U eri nakon istine, pojedinci daju prioritet osobnim uvjerenjima i emocionalnim odgovorima nad činjeničnom točnošću. Taj je pomak često potaknut raširenim širenjem dezinformacija i komorama odjeka koje stvaraju društveni mediji, gdje su ljudi prvenstveno izloženi informacijama koje jačaju njihove postojeće stavove. Slijedom toga, emocionalni apeli odjekuju snažnije, jer se usklađuju s identitetima i predrasudama pojedinaca, što objektivnim činjenicama otežava prodiranje i mijenjanje duboko ukorijenjenih uvjerenja."
+        },
+        {
+          "question": "U postistinskoj eri, što od navedenog ima značajan utjecaj na oblikovanje javnog mnijenja?",
+          "options": [
+            "Recenzirani znanstveni časopisi.",
+            "Emocionalni i senzacionalistički medijski sadržaj.",
+            "Izvješća izdana od strane vlade.",
+            "Obrazovne institucije"
+          ],
+          "correctOption": "Emocionalni i senzacionalistički medijski sadržaj.",
+          "feedback_incorrect": "Pristupačnost i brzina širenja informacija putem platformi društvenih medija često zasjenjuju sporije, rigoroznije procese tradicionalnih institucija. Dezinformacije i emocionalno nabijeni sadržaji brzo se šire internetom i brzo dopiru do široke publike. Osim toga, raste nepovjerenje u tradicionalne vlasti i stručnjake, potaknuto političkom polarizacijom i skepticizmom prema institucionalnom integritetu. Nadalje, kognitivne predrasude navode pojedince da favoriziraju informacije koje su u skladu s njihovim postojećim uvjerenjima, bez obzira na njihov izvor. ",
+          "feedback_correct": "Emocionalni i senzacionalistički medijski sadržaj značajno utječe na javno mnijenje jer privlači pažnju i izaziva snažne reakcije učinkovitije od činjeničnog izvještavanja. Ova vrsta sadržaja često pojednostavljuje složena pitanja u uvjerljive priče koje se lako razumiju i dijele, privlačeći emocije i predrasude ljudi. Senzacionalizam koristi strah, ljutnju i uzbuđenje, koji su snažni pokretači angažmana i zadržavanja pamćenja. U digitalnom dobu, gdje je medijska potrošnja brza i fragmentirana, sadržaj koji izaziva snažne emocionalne reakcije vjerojatnije će se pojačati i utjecati na javno mnijenje, zasjenjujući nijansirane informacije utemeljene na činjenicama."
+        }
+      ]
+    },
+    {
+      "author": "SYNCNIFY",
+      "topic": "Utjecaj „dezinfodemije“ na zdravlje",
+      "questions": [
+        {
+          "question": "Što se smatra „dezinfodemijom”?",
+          "options": [
+            "Pandemija uzrokovana dezinformacijama",
+            "Rasprostranjena epidemija dezinformacija",
+            "Novo zdravstveno stanje",
+            "Internetski virus"
+          ],
+          "correctOption": "Rasprostranjena epidemija dezinformacija",
+          "feedback_incorrect": "„Dezinfodemija” nije pandemija uzrokovana dezinformacijama, zdravstvenim stanjem ili internetskim virusom. Odnosi se na široko rasprostranjenu epidemiju dezinformacija, posebno u vezi sa zdravstvenim informacijama.",
+          "feedback_correct": "Točno! Odnosi se na široko rasprostranjenu epidemiju dezinformacija, posebno u vezi sa zdravstvenim informacijama."
+        },
+        {
+          "question": "Što od navedenog predstavlja potencijalni utjecaj „dezinfodemije“ na zdravlje?",
+          "options": [
+            "Poboljšano znanje o javnom zdravlju",
+            "Povećano oklijevanje s cijepljenjem",
+            "Poboljšano povjerenje zajednice",
+            "Smanjena razina stresa"
+          ],
+          "correctOption": "Povećano oklijevanje s cijepljenjem",
+          "feedback_incorrect": "Netočno \"Dezinfodemija\" često dovodi do povećanog oklijevanja s cijepljenjem, a ne do poboljšanog znanja o javnom zdravlju, povećanog povjerenja zajednice ili smanjene razine stresa.",
+          "feedback_correct": "Točno! \"Dezinfodemija\" može dovesti do povećanog oklijevanja s cijepljenjem, što potkopava javnozdravstvene napore."
+        },
+        {
+          "question": "Kako „dezinfodemija“ može negativno utjecati na javnozdravstvene odgovore?",
+          "options": [
+            "Širenjem točnih informacija",
+            "Unaprjeđenjem zdravstvene komunikacije",
+            "Podrivanjem povjerenja u zdravstvena tijela",
+            "Poticanjem zdravog ponašanja"
+          ],
+          "correctOption": "Podrivanjem povjerenja u zdravstvena tijela",
+          "feedback_incorrect": "Razmislite još jednom. \"Dezinfodemija\" potkopava povjerenje u zdravstvene vlasti, umjesto da širi točne informacije, poboljšava zdravstvenu komunikaciju ili potiče zdravo ponašanje.",
+          "feedback_correct": "Točno! \"Dezinfodemija\" potkopava povjerenje u zdravstvena tijela, što može oslabiti javnozdravstvene odgovore."
+        }
+      ]
+    },
+    {
+      "author": "SYNCNIFY",
+      "topic": "Osmišljavanje projekata za borbu protiv dezinformacija",
+      "questions": [
+        {
+          "question": "U kontekstu osmišljavanja intervencija za suzbijanje dezinformacija, koji je značaj primjene multidisciplinarnog pristupa koji uključuje bihevioralnu znanost, analitiku podataka i komunikacijske studije?",
+          "options": [
+            "Osigurava jedinstvenu perspektivu u rješavanju problema",
+            "Nepotrebno komplicira proces upravljanja projektom",
+            "Pruža sveobuhvatno razumijevanje dinamike dezinformiranja i povećava učinkovitost intervencije",
+            "Usredotočuje se isključivo na tehnološka rješenja uz isključenje ljudskih čimbenika"
+          ],
+          "correctOption": "Pruža sveobuhvatno razumijevanje dinamike dezinformiranja i povećava učinkovitost intervencije",
+          "feedback_incorrect": "Pokušajte ponovno Ovaj izbor ne uspijeva točno ilustrirati prednosti i ciljeve multidisciplinarnog pristupa u borbi protiv dezinformacija.",
+          "feedback_correct": "Upravo tako. Multidisciplinarni pristup kombinira različita stručna područja kako bi se temeljito razumjele i učinkovito suzbile dezinformacije."
+        },
+        {
+          "question": "Zašto je bitno uključiti etička razmatranja u osmišljavanje i provedbu projekata borbe protiv dezinformacija?",
+          "options": [
+            "Ubrzati postupak odobrenja istraživanja",
+            "Osigurati da intervencije poštuju individualna prava, promiču povjerenje i izbjegavaju neželjene negativne posljedice",
+            "Smanjiti proračun potreban za projekt",
+            "Uskladiti se s interesima svih dionika ujednačeno"
+          ],
+          "correctOption": "Osigurati da intervencije poštuju individualna prava, promiču povjerenje i izbjegavaju neželjene negativne posljedice",
+          "feedback_incorrect": "Ova opcija ne obuhvaća u potpunosti važnost etičkih razmatranja u projektima borbe protiv dezinformacija.",
+          "feedback_correct": "Točno Etička razmatranja ključna su kako bi se osiguralo da se strategije borbe protiv dezinformacija provode odgovorno, poštujući individualna prava, promičući povjerenje i sprečavajući potencijalne negativne posljedice."
+        }
+      ]
+    },
+    {
+      "author": "TRH",
+      "topic": "Važnost istine u novinarstvu",
+      "questions": [
+        {
+          "question": "Koja je društvena posljedica širenja lažnih informacija u novinarstvu?",
+          "options": [
+            "Povećani prihodi od oglašavanja",
+            "Gubitak povjerenja javnosti",
+            "Veća angažiranost na društvenim mrežama",
+            "Veća zabavna vrijednost"
+          ],
+          "correctOption": "Gubitak povjerenja javnosti",
+          "feedback_incorrect": "Još samo malo! Pokušajte ponovno! Širenje lažnih informacija u novinarstvu moglo bi potencijalno povećati prihode, stvoriti veći angažman na društvenim mrežama i zabaviti neke ljude; ali to nisu društvene posljedice. Prava društvena posljedica novinarskih dezinformacija je gubitak povjerenja javnosti.",
+          "feedback_correct": "Dobar posao, to je točno! Širenje lažnih informacija u novinarstvu moglo bi potencijalno povećati prihode, stvoriti veći angažman na društvenim mrežama i zabaviti neke ljude; ali to nisu društvene posljedice. Prava društvena posljedica novinarskih dezinformacija je gubitak povjerenja javnosti."
+        },
+        {
+          "question": "Što je od navedenog znak kvalitetnog novinarstva?",
+          "options": [
+            "Članci s puno oglasa",
+            "Senzacionalni naslovi",
+            "Temeljito istraživanje i više izvora",
+            "Brzo objavljivanje uz minimalno uređivanje"
+          ],
+          "correctOption": "Temeljito istraživanje i više izvora",
+          "feedback_incorrect": "Još samo malo! Pokušajte ponovno! Zapamtite, visokokvalitetno novinarstvo je ono što se strogo provjerava kako bi se osigurala točnost, vjerodostojnost i što je moguće uravnoteženije stajalište.",
+          "feedback_correct": "Dobar posao, to je točno! Zapamtite, visokokvalitetno novinarstvo je ono što se strogo provjerava kako bi se osigurala točnost, vjerodostojnost i što je moguće uravnoteženije stajalište."
+        }
+      ]
+    }
+  ],
+  "MultipleChoice": [
+    {
+      "author": "CESIE",
+      "topic": "Primjena medijske pismenosti u praktičnim okruženjima",
+      "questions": [
+        {
+          "question": "U objavi na društvenoj mreži s računa visokog profila tvrdi se da je određena politička osoba počinila teško kazneno djelo. Kako biste potvrdili valjanost ovih podataka, što trebate učiniti?",
+          "options": [
+            "Vjerujte objavi jer dolazi s računa visokog profila",
+            "Potražite informacije na uglednim internetskim stranicama s vijestima i službenim izjavama",
+            "Podijelite objavu kako biste odmah obavijestili druge",
+            "Zanemari objavu osim ako ne postane popularna tema"
+          ],
+          "answers": [
+            "Potražite informacije na uglednim internetskim stranicama s vijestima i službenim izjavama"
+          ],
+          "feedback_incorrect": "Čini se da je možda došlo do nesporazuma u pristupu objavama na društvenim mrežama, posebno onima koje uključuju ozbiljne navode. Umjesto da odmah povjerujete objavi jer dolazi s visokoprofilnog računa ili je dijelite kako biste upozorili druge, najbolja je praksa tražiti informacije na uglednim web stranicama s vijestima i službenim izjavama. Oslanjajući se na vjerodostojne izvore i izbjegavajući širenje neprovjerenih tvrdnji, možete doprinijeti smanjenju širenja dezinformacija i održavanju informiranih rasprava na internetu.",
+          "feedback_correct": "Izvrstan posao! Ispravno ste utvrdili da je najbolji pristup kada naiđete na objavu na društvenim mrežama koja tvrdi da se radi o ozbiljnim navodima o političkoj figuri traženje informacija na uglednim web stranicama s vijestima i službenim izjavama. Ova metoda osigurava da svoje razumijevanje temeljite na vjerodostojnim izvorima i provjerenim informacijama. Tražeći pouzdane izvore vijesti i službene izjave, možete donositi informirane prosudbe i izbjegavati širenje potencijalno lažnih ili obmanjujućih informacija."
+        },
+        {
+          "question": "Naiđete na proslijeđenu poruku u kojoj se tvrdi da novi dodatak prehrani može izliječiti uobičajeno kronično stanje. Kako biste provjerili njegovu valjanost, što trebate učiniti?",
+          "options": [
+            "Proslijedite poruku prijateljima i obitelji kako biste proširili svijest",
+            "Provjerite izvor poruke i posavjetujte se sa zdravstvenim radnicima ili uglednim medicinskim web stranicama",
+            "Vjerujte poruci jer ju je proslijedila osoba kojoj vjerujete",
+            "Zanemarite poruku jer su proslijeđene poruke često netočne"
+          ],
+          "answers": [
+            "Provjerite izvor poruke i posavjetujte se sa zdravstvenim radnicima ili uglednim medicinskim web stranicama"
+          ],
+          "feedback_incorrect": "Čini se da je došlo do nesporazuma u pogledu provjere zdravstvenih tvrdnji iz proslijeđenih poruka. Umjesto prosljeđivanja poruke prijateljima i obitelji ili povjerenja u nju jer ju je proslijedio netko kome vjerujete, najbolji je pristup provjeriti izvor poruke i posavjetovati se sa zdravstvenim radnicima ili uglednim medicinskim web stranicama. Nastavite prakticirati ove vještine kritičkog razmišljanja kako biste odgovorno upravljali informacijama!",
+          "feedback_correct": "Dobro obavljeno! Ispravno ste utvrdili da je provjera izvora proslijeđene poruke i savjetovanje sa zdravstvenim radnicima ili uglednim medicinskim web stranicama najbolji pristup za provjeru valjanosti zdravstvenih tvrdnji. Ova metoda osigurava da se vaše razumijevanje temelji na vjerodostojnim informacijama koje su pregledali stručnjaci. Nastavite primjenjivati ove vještine kritičkog razmišljanja kako biste odgovorno procijenili zdravstvene informacije. Dobro obavljeno!"
+        },
+        {
+          "question": "Pročitali ste naslov na internetskoj stranici s vijestima u kojem se navodi značajan porast stope kriminala u vašem gradu. Koji je najbolji korak za provjeru točnosti ovog zahtjeva?",
+          "options": [
+            "Podijelite naslov na društvenim mrežama kako biste obavijestili svoju zajednicu",
+            "Provjerite datum i izvor novinskog članka te ga provjerite s lokalnim tijelima nadležnim za provedbu zakona ili službenim izvješćima",
+            "Vjerujte članku ako se pojavi na popularnoj internetskoj stranici s vijestima",
+            "Zanemarite naslov osim ako se o njemu ne raspravlja na televizijskim vijestima"
+          ],
+          "answers": [
+            "Provjerite datum i izvor novinskog članka te ga provjerite s lokalnim tijelima nadležnim za provedbu zakona ili službenim izvješćima"
+          ],
+          "feedback_incorrect": "Nastavite pokušavati! Najbolji korak za provjeru točnosti takvog zahtjeva jest provjera datuma i izvora novinskog članka te provjera u skladu s lokalnim nadležnim tijelima ili službenim izvješćima. Ova metoda osigurava da svoje razumijevanje temeljite na pouzdanim i autoritativnim izvorima, a ne da potencijalno širite dezinformacije. Traženjem službenih izvješća ili izjava možete dobiti točne informacije i donositi informirane odluke o vijestima koje utječu na vašu zajednicu. Nastavite prakticirati ove vještine kritičkog razmišljanja kako biste učinkovito upravljali vijestima i medijima!",
+          "feedback_correct": "Sjajno! Pravilno ste utvrdili da je najbolji korak za provjeru točnosti tvrdnje o znatnom povećanju stope kriminala u vašem gradu provjera datuma i izvora novinskog članka te provjera s lokalnim tijelima nadležnim za provedbu zakona ili državnim izvješćima. Ovaj pristup osigurava da dobivate informacije iz pouzdanih i autoritativnih izvora. Usporedbom novinskog članka sa službenim izvješćima ili izjavama možete steći jasnije razumijevanje situacije i donositi informirane odluke. Nastavite koristiti ove vještine kritičkog razmišljanja kako biste odgovorno upravljali vijestima i medijima."
+        }
+      ]
+    },
+    {
+      "author": "CPIP",
+      "topic": "Teorije istine",
+      "questions": [
+        {
+          "question": "Pragmatična teorija sugerira da je istinitost izjave određena njezinom praktičnom korisnošću. Što to znači u medijskoj i digitalnoj pismenosti?",
+          "options": [
+            "Procjena vjerodostojnosti i praktičnosti informacija",
+            "Procjena praktičnih implikacija informacija i rezultata njihove primjene",
+            "Procjena korpusa znanja",
+            "Procjena izvora informacija"
+          ],
+          "answers": [
+            "Procjena vjerodostojnosti i praktičnosti informacija",
+            "Procjena praktičnih implikacija informacija i rezultata njihove primjene"
+          ],
+          "feedback_incorrect": "Bili ste blizu! U redu je, svi griješimo. Na istinitost informacija u medijima može utjecati koliko učinkovito služe praktičnim potrebama ili ciljevima.",
+          "feedback_correct": "Wow, točno ste odgovorili! Vrlo ste dobri u ovome! Ističe važnost procjene posljedica i praktičnih implikacija medijskih poruka izvan samo njihove činjenične ispravnosti."
+        },
+        {
+          "question": "Konstruktivistička teorija istine drži da istinu konstruiraju kontekstualni čimbenici, društveni procesi i interakcije. Što to znači u medijskoj i digitalnoj pismenosti?",
+          "options": [
+            "Razumijevanje izvora informacija",
+            "Razumijevanje kako kulturni i društveni čimbenici utječu na ono što se percipira kao istina",
+            "Razumijevanje načina na koji informacije utječu na ponašanje medija",
+            "Razumijevanje kako kontekstualni čimbenici oblikuju ono što se smatra istinitim"
+          ],
+          "answers": [
+            "Razumijevanje kako kulturni i društveni čimbenici utječu na ono što se percipira kao istina",
+            "Razumijevanje kako kontekstualni čimbenici oblikuju ono što se smatra istinitim"
+          ],
+          "feedback_incorrect": "Bili ste blizu! U redu je, svi griješimo. Teorija se ne odnosi na idealnu informaciju, apsolutnu ili objektivnu stvarnost.",
+          "feedback_correct": "Wow, točno ste odgovorili! Vrlo ste dobri u ovome! Konstruktivistička teorija istine u medijima tvrdi da se istina konstruira kroz društvene i kulturne procese."
+        }
+      ]
+    },
+    {
+      "author": "DANTE",
+      "topic": "Procjena antidisinformacijskih mehanizama",
+      "questions": [
+        {
+          "question": "Koji je primarni cilj procjene antidisinformacijskih mehanizama?",
+          "options": [
+            "Promicanje određenih političkih ideologija",
+            "Procijeniti učinkovitost strategija protiv lažnih informacija",
+            "Ograničavanje slobode govora",
+            "Praćenje online aktivnosti"
+          ],
+          "answers": ["Procijeniti učinkovitost strategija protiv lažnih informacija"],
+          "feedback_incorrect": "Razmislite o tome zašto moramo provjeriti koliko dobro funkcioniraju strategije za borbu protiv dezinformiranja. Radi se o utvrđivanju njihovog uspjeha u smanjenju širenja lažnih informacija. Koja je opcija usklađena s tom svrhom?",
+          "feedback_correct": "Strategije protiv lažnih informacija uključuju niz mjera, kao što su provjera činjenica, programi medijske pismenosti, prilagodbe algoritama na platformama društvenih medija i regulatorne politike."
+        },
+        {
+          "question": "Na što se dezinformacije odnose?",
+          "options": [
+            "Slučajne dezinformacije",
+            "Informacije iz pouzdanih izvora",
+            "Namjerno netočne ili obmanjujuće informacije",
+            "Neprovjerene glasine"
+          ],
+          "answers": ["Namjerno netočne ili obmanjujuće informacije"],
+          "feedback_incorrect": "Razmotrite namjeru koja stoji iza informacija. Izrađen je u svrhu obmane ili dovođenja u zabludu, a ne kao rezultat pogreške ili nesigurnosti.",
+          "feedback_correct": "Dezinformacija se odnosi na namjerno lažne ili obmanjujuće informacije koje se šire kako bi se obmanula ili manipulirala javnost. Za razliku od dezinformacija, koje se mogu širiti nenamjerno ili zbog nerazumijevanja, dezinformacije se izrađuju i šire sa zlonamjernom namjerom."
+        },
+        {
+          "question": "Kako se može mjeriti utjecaj antidisinformacijskih mehanizama?",
+          "options": [
+            "Analizom trendova u angažmanu na društvenim mrežama,",
+            "Povećanjem kazni za širenje dezinformacija,",
+            "Ograničavanjem pristupa internetskim platformama,",
+            "Provedbom strožih propisa o korištenju interneta"
+          ],
+          "answers": ["Analizom trendova u angažmanu na društvenim mrežama,"],
+          "feedback_incorrect": "Učinkovito mjerenje mehanizama za suzbijanje dezinformacija uključuje praćenje načina na koji se informacije šire i primaju na internetu. Koja se opcija usredotočuje na procjenu dosega i utjecaja lažnih informacija?",
+          "feedback_correct": "Jedan od učinkovitih načina za mjerenje utjecaja antidisinformacijskih mehanizama je analiza trendova u angažmanu društvenih medija."
+        }
+      ]
+    },
+    {
+      "author": "DANTE",
+      "topic": "Osmišljavanje projekata za borbu protiv dezinformacija",
+      "questions": [
+        {
+          "question": "Koji je najbolji pristup za procjenu uspjeha projekta usmjerenog na borbu protiv dezinformacija?",
+          "options": [
+            "Brojanje lajkova i dijeljenja na društvenim mrežama",
+            "Analiza promjena u razini medijske pismenosti među ciljanom publikom",
+            "Praćenje broja posjeta web stranici projekta",
+            "Provođenje anketa o popularnosti projekta među korisnicima"
+          ],
+          "answers": ["Analiza promjena u razini medijske pismenosti među ciljanom publikom"],
+          "feedback_incorrect": "Uspjeh treba mjeriti koliko se poboljšala sposobnost publike da kritički procijeni informacije.",
+          "feedback_correct": "Provoditi početne ankete, testove i fokus grupe kako bi se utvrdila početna razina medijske pismenosti."
+        }
+      ]
+    },
+    {
+      "author": "ODYSSEA",
+      "topic": "Karakteristike razdoblja nakon istine",
+      "questions": [
+        {
+          "question": "Koji čimbenici doprinose širenju dezinformacija u eri nakon istine?",
+          "options": [
+            "Algoritmi društvenih mreža koji daju prioritet angažmanu.",
+            "Pad tradicionalnog novinarstva.",
+            "Povećano povjerenje javnosti u mainstream medije.",
+            "Širenje internetskih stranica s lažnim vijestima."
+          ],
+          "answers": [
+            "Algoritmi društvenih mreža koji daju prioritet angažmanu.",
+            "Pad tradicionalnog novinarstva.",
+            "Širenje internetskih stranica s lažnim vijestima."
+          ],
+          "feedback_incorrect": "Mainstream mediji, unatoč svojim nedostacima, općenito se pridržavaju novinarskih standarda provjere činjenica, provjere izvora i uredničkog nadzora. Veće povjerenje u ove izvore podrazumijeva da je veća vjerojatnost da će javnost konzumirati informacije koje su provjerene i potkrijepljene, smanjujući vjerojatnost susreta i širenja lažnih informacija. Vjerojatnije je da će mainstream mediji ispraviti pogreške i pružiti kontekst, dodatno smanjujući rizik od dezinformacija. Nasuprot tome, dezinformacije uspijevaju u okruženjima u kojima se povjerenje polaže u neprovjerene izvore, kao što su društveni mediji ili internetske stranice s lažnim vijestima, kojima nedostaju rigorozni standardi mainstream novinarstva.",
+          "feedback_correct": "Algoritmi društvenih medija osmišljeni su kako bi maksimizirali angažman korisnika promicanjem sadržaja koji generira snažne emocionalne reakcije, često favorizirajući senzacionalne ili polarizirajuće informacije umjesto točnog izvještavanja. To potiče širenje obmanjujućih ili lažnih informacija koje privlače pažnju. Pad tradicionalnog novinarstva, obilježen smanjenim financiranjem i osobljem, dovodi do manje rigoroznog istraživačkog izvještavanja i provjere činjenica, što slabi ključni izvor pouzdanih informacija. Osim toga, porast internetskih stranica s lažnim vijestima, koje su osmišljene za obmanjivanje i manipuliranje, dodatno preplavljuje informacijski krajolik lažima. Ove web stranice često iskorištavaju praznine u kredibilitetu koje ostavlja pad tradicionalnih medija i koriste društvene medije kako bi dosegle široku publiku, čime se pojačava širenje dezinformacija."
+        },
+        {
+          "question": "Koji su neki učinci života u razdoblju nakon istine?",
+          "options": [
+            "Polarizacija javnog mnijenja.",
+            "Vještine kritičkog razmišljanja. ",
+            "Poteškoće u razlikovanju činjenica i mišljenja.",
+            "Povećano oslanjanje na emocionalne apele u političkom diskursu."
+          ],
+          "answers": [
+            "Polarizacija javnog mnijenja.",
+            "Poteškoće u razlikovanju činjenica i mišljenja.",
+            "Povećano oslanjanje na emocionalne apele u političkom diskursu."
+          ],
+          "feedback_incorrect": "U društvu nakon istine, pojedinci imaju veću vjerojatnost da će dati prioritet informacijama koje su u skladu s njihovim unaprijed stvorenim pojmovima i emocijama, često na račun logičke analize i rasuđivanja utemeljenog na dokazima. Ovo okruženje obeshrabruje razvoj vještina kritičkog mišljenja, koje zahtijevaju sposobnost objektivne procjene informacija, propitivanje izvora i razmatranje višestrukih perspektiva. Umjesto toga, razdoblje nakon istine potiče oslanjanje na pojednostavljene, emocionalno nabijene narative koji potkopavaju kultiviranje kritičkog mišljenja.",
+          "feedback_correct": "Polarizacija javnog mnijenja, poteškoće u razlikovanju činjenica i mišljenja te povećano oslanjanje na emocionalne apele u političkom diskursu učinci su života u eri postistine jer proizlaze iz smanjene uloge objektivnih činjenica u oblikovanju uvjerenja i odluka. U post-istinskom društvu, pojedinci gravitiraju informacijama koje jačaju njihove već postojeće stavove, što dovodi do veće polarizacije kako suprotstavljene skupine postaju sve više ukorijenjene u svojim uvjerenjima. Zamagljene granice između činjenica i mišljenja pogoršavaju se rasprostranjenošću dezinformacija i opadanjem pouzdanog novinarstva utemeljenog na činjenicama, što ljudima otežava razlikovanje točnih informacija od subjektivnih ili lažnih narativa. "
+        }
+      ]
+    },
+    {
+      "author": "SYNCIFY",
+      "topic": "Utjecaj „dezinfodemije“ na zdravlje",
+      "questions": [
+        {
+          "question": "Kako „dezinfodemija“ utječe na javno pridržavanje zdravstvenih smjernica?",
+          "options": [
+            "Potiče poštivanje zdravstvenih smjernica",
+            "Dovodi do zabune u vezi s odgovarajućim zdravstvenim praksama",
+            "Povećava otpornost na pridržavanje savjeta o javnom zdravlju",
+            "Jača vjerodostojnost zdravstvenih tijela",
+            "Promiče širenje nesigurnih zdravstvenih praksi"
+          ],
+          "answers": [
+            "Dovodi do zabune u vezi s odgovarajućim zdravstvenim praksama",
+            "Povećava otpornost na pridržavanje savjeta o javnom zdravlju",
+            "Promiče širenje nesigurnih zdravstvenih praksi"
+          ],
+          "feedback_incorrect": "Pokušajte ponovno 'Dezinfodemija' ne potiče poštivanje zdravstvenih smjernica niti jača vjerodostojnost zdravstvenih tijela.",
+          "feedback_correct": "Pun pogodak! \"Dezinfodemija\" dovodi do zabune o pravilnim zdravstvenim praksama, povećava otpornost na pridržavanje savjeta o javnom zdravlju i promiče širenje nesigurnih zdravstvenih praksi."
+        },
+        {
+          "question": "Koje su neke negativne posljedice „dezinfodemije“ na mentalno zdravlje?",
+          "options": [
+            "Povećana anksioznost i stres",
+            "Poboljšana mentalna otpornost",
+            "Širenje dezinformacija o tretmanima mentalnog zdravlja",
+            "Poboljšano razumijevanje problema mentalnog zdravlja u javnosti",
+            "Nepovjerenje u stručnjake za mentalno zdravlje"
+          ],
+          "answers": [
+            "Povećana anksioznost i stres",
+            "Širenje dezinformacija o tretmanima mentalnog zdravlja",
+            "Nepovjerenje u stručnjake za mentalno zdravlje"
+          ],
+          "feedback_incorrect": "Ne baš \"Dezinfodemija\" ne poboljšava mentalnu otpornost niti poboljšava javno razumijevanje problema mentalnog zdravlja. Pokušajte ponovno! ",
+          "feedback_correct": "Točno! \"Dezinfodemija\" može dovesti do povećane tjeskobe i stresa, širenja dezinformacija o tretmanima mentalnog zdravlja i nepovjerenja u stručnjake za mentalno zdravlje."
+        }
+      ]
+    },
+    {
+      "author": "TRH",
+      "topic": "Važnost istine u novinarstvu",
+      "questions": [
+        {
+          "question": "Što su od navedenog temeljna načela etičkog novinarstva?",
+          "options": ["Senzacionalizam", "Točnost", "Pristranost", "Ravnoteža"],
+          "answers": ["Točnost", "Ravnoteža"],
+          "feedback_incorrect": "Još samo malo! Pokušajte ponovno! Senzacionalizam nije temeljno načelo etičkog novinarstva - upravo suprotno! To znači preuveličavanje stvari i ubrizgavanje sadržaja emotivnim jezikom kako bi se izazvala snažna emocionalna reakcija. Pristranost je, u međuvremenu, teško u potpunosti izbjeći, jer svi imamo inherentne predrasude kojih možda nismo ni svjesni. No, ipak je vrlo važno pokušati eliminirati pristranost kako bi se osiguralo etičko novinarstvo što je više moguće.",
+          "feedback_correct": "Dobar posao, to je točno! Senzacionalizam nije temeljno načelo etičkog novinarstva - upravo suprotno! To znači preuveličavanje stvari i ubrizgavanje sadržaja emotivnim jezikom kako bi se izazvala snažna emocionalna reakcija. Pristranost je, u međuvremenu, teško u potpunosti izbjeći, jer svi imamo inherentne predrasude kojih možda nismo ni svjesni. No, ipak je vrlo važno pokušati eliminirati pristranost kako bi se osiguralo etičko novinarstvo što je više moguće. Etički novinar je onaj koji pokušava ostati što točniji i uravnoteženiji u svom izvještavanju."
+        },
+        {
+          "question": "Zašto je važno da novinari provjeravaju svoje izvore?",
+          "options": [
+            "Nuditi uravnotežen skup mišljenja",
+            "Kako biste bili sigurni da su podaci točni",
+            "Stvaranje zanimljivih priča",
+            "Promicanje osobnih mišljenja"
+          ],
+          "answers": [
+            "Nuditi uravnotežen skup mišljenja",
+            "Kako biste bili sigurni da su podaci točni"
+          ],
+          "feedback_incorrect": "Još samo malo! Pokušajte ponovno! Etički novinari ne usredotočuju se na stvaranje zanimljivih priča, već nastoje točno predstaviti vijest, pružajući uravnotežen doprinos situaciji",
+          "feedback_correct": "Dobar posao, to je točno! Etički novinari ne usredotočuju se na stvaranje zanimljivih priča, već nastoje točno predstaviti vijest, pružajući"
+        },
+        {
+          "question": "Koja bi od sljedećih izjava mogla biti povezana s \"lažnim vijestima\"?",
+          "options": [
+            "Vijesti koje su dosadne",
+            "Vijest koja je činjenično netočna",
+            "Vijesti koje namjerno dovode u zabludu",
+            "Zabavne vijesti"
+          ],
+          "answers": [
+            "Vijest koja je činjenično netočna",
+            "Vijesti koje namjerno dovode u zabludu"
+          ],
+          "feedback_incorrect": "Još samo malo! Pokušajte ponovno! Lažne vijesti su oblik dezinformacija koje su namjerno obmanjujuće i neistinite. Ponekad je osmišljen tako da bude zabavan za daljnje dezinformacije u javnosti, ali razlikovna obilježja su njegove lažne i agende prepune narativa.",
+          "feedback_correct": "Dobar posao, to je točno! Lažne vijesti su oblik dezinformacija koje su namjerno obmanjujuće i neistinite. Ponekad je osmišljen tako da bude zabavan za daljnje dezinformacije u javnosti, ali razlikovna obilježja su njegove lažne i agende prepune narativa."
+        }
+      ]
+    },
+    {
+      "author": "TRH",
+      "topic": "Osmišljavanje projekata za borbu protiv dezinformacija",
+      "questions": [
+        {
+          "question": "Prilikom osmišljavanja projekta za borbu protiv dezinformacija, koja je od sljedećih strategija najučinkovitija kako bi se osiguralo da sudionici kritički procjenjuju izvore informacija?",
+          "options": [
+            "Poticanje sudionika da dijele sve informacije koje pronađu bez provjere",
+            "Podučavanje sudionika kako prepoznati vjerodostojne izvore i provjeriti informacije",
+            "Usredotočenost isključivo na stvaranje privlačnog sadržaja bez obzira na točnost",
+            "Ograničavanje pristupa sudionika različitim izvorima informacija"
+          ],
+          "answers": [
+            "Podučavanje sudionika kako prepoznati vjerodostojne izvore i provjeriti informacije"
+          ],
+          "feedback_incorrect": "Još samo malo! Pokušajte ponovno! Prilikom podučavanja sudionika da kritički procjenjuju sadržaj, od vitalne je važnosti da nauče provjeravati i provjeravati informacije, identificirati vjerodostojne i točne izvore te ispitati što širi raspon mišljenja.",
+          "feedback_correct": "Dobar posao, to je točno! Prilikom podučavanja sudionika da kritički procjenjuju sadržaj, od vitalne je važnosti da nauče provjeravati i provjeravati informacije, identificirati vjerodostojne i točne izvore te ispitati što širi raspon mišljenja."
+        },
+        {
+          "question": "Koji je od sljedećih pristupa najmanje učinkovit u projektu usmjerenom na borbu protiv dezinformacija?",
+          "options": [
+            "Pružanje sudionicima alata i resursa za provjeru autentičnosti novinskih članaka",
+            "Edukacija sudionika o uobičajenim taktikama koje se koriste u širenju dezinformacija",
+            "Promicanje slijepog povjerenja u informacije iz svih glavnih medijskih izvora",
+            "Poticanje kritičkog mišljenja i skepticizma prema neprovjerenim informacijama"
+          ],
+          "answers": [
+            "Promicanje slijepog povjerenja u informacije iz svih glavnih medijskih izvora"
+          ],
+          "feedback_incorrect": "Još samo malo! Pokušajte ponovno! Neke od opcija zapravo bi bile vrlo učinkovite u borbi protiv dezinformacija, kao što je korištenje alata za obrazovanje i provjeru. Ali koja bi opcija bila najmanje učinkovita u suzbijanju \"lažnih vijesti\"?",
+          "feedback_correct": "Dobar posao, to je točno! Promicanje slijepog povjerenja u informacije iz svih glavnih medijskih izvora nije učinkovita strategija za uklanjanje ili usporavanje širenja dezinformacija. Umjesto toga, trebali bismo se usredotočiti na pronalaženje pravih alata i resursa za pomoć, promicanje obrazovanja o toj temi i poticanje skepticizma prema informacijama upitne kvalitete ili vjerodostojnosti."
+        }
+      ]
+    }
+  ],
+  "FillInTheBlank": [
+    {
+      "author": "CESIE",
+      "topic": "Primjena medijske pismenosti u praktičnim okruženjima",
+      "questions": [
+        {
+          "question": "Prilikom ocjenjivanja novinskih članaka važno je razmotriti_informacije i provjeriti ih s više pouzdanih izvora prije donošenja zaključaka.",
+          "answers": [["izvor"]],
+          "feedback_incorrect": "Dobar pokušaj! Umjesto da se usredotočite isključivo na izvor informacija, najbolji pristup je razmotriti vjerodostojnost izvora i provjeriti informacije s više pouzdanih izvora prije donošenja zaključaka. Ova metoda osigurava da svoje razumijevanje temeljite na različitim perspektivama i smanjujete rizik od dezinformacija. Uspoređujući informacije iz različitih pouzdanih izvora, možete dobiti sveobuhvatniji uvid u temu i donositi dobro informirane odluke.",
+          "feedback_correct": "Izvrstan posao! Ispravno ste utvrdili da su prilikom ocjenjivanja novinskih članaka, razmatranje izvora informacija i njihova provjera s više pouzdanih izvora ključni koraci prije donošenja zaključaka. Ovaj pristup osigurava da se vaše razumijevanje temelji na vjerodostojnim i dobro podržanim informacijama, čime se smanjuje rizik od dezinformacija. Usporedbom informacija iz različitih pouzdanih izvora možete dobiti uravnoteženiju i točniju perspektivu na tu temu."
+        },
+        {
+          "question": "Prije dijeljenja informacija na društvenim mrežama, ključno je procijeniti sadržaj kako bi se izbjeglo širenje dezinformacija",
+          "answers": [["vjerodostojnost"]],
+          "feedback_incorrect": "Sljedeći put će biti bolje! Umjesto da se pretpostavlja da su sve informacije točne ili da se zanemaruje potreba za provjerom vjerodostojnosti, ključno je procijeniti vjerodostojnost sadržaja prije dijeljenja kako bi se spriječilo širenje dezinformacija. Provjerom pouzdanosti i točnosti informacija prije nego što ih podijelite s drugima, možete pomoći u promicanju pouzdanog sadržaja i pridonijeti informiranijoj mrežnoj zajednici. Primjena ovog pristupa jača vašu sposobnost razlikovanja vjerodostojnih izvora od potencijalno obmanjujućih",
+          "feedback_correct": "Ispravno ste utvrdili da je pri dijeljenju informacija na društvenim mrežama ključno procijeniti vjerodostojnost sadržaja kako bi se izbjeglo širenje dezinformacija. Procjenom vjerodostojnosti informacija prije dijeljenja možete osigurati da je sadržaj točan i pouzdan. Ova praksa promiče odgovorno dijeljenje i doprinosi održavanju integriteta informacija koje cirkuliraju na platformama društvenih medija. Dobro obavljeno!"
+        }
+      ]
+    },
+    {
+      "author": "CPIP",
+      "topic": "Teorije istine",
+      "questions": [
+        {
+          "question": "Prema _, izjava se smatra istinitom ako je usklađena sa stvarnošću ili vidljivim činjenicama.",
+          "answers": [["teoriji korespondencije"]],
+          "feedback_incorrect": "Bili ste blizu! U redu je, svi griješimo. Imajte na umu da dezinformacije mogu manipulirati javnim dnevnim redovima.",
+          "feedback_correct": "Wow, točno ste odgovorili! Vrlo ste dobri u ovome! Dezinformacije mogu iskriviti građanske prioritete."
+        },
+        {
+          "question": "U_ perspektivi, istina se konstruira kroz društvene i kulturne procese, odražavajući norme i vrijednosti zajednice.",
+          "answers": [["konstruktivističk teeorije"]],
+          "feedback_incorrect": "Bili ste blizu! U redu je, svi griješimo. Imajte na umu da dezinformacije mogu manipulirati javnim dnevnim redovima.",
+          "feedback_correct": "Wow, točno ste odgovorili! Vrlo ste dobri u ovome! Dezinformacije mogu iskriviti građanske prioritete."
+        },
+        {
+          "question": "Prema _, istina izjave ovisi o njezinoj koherentnosti unutar logičkog sustava uvjerenja ili izjava.",
+          "answers": [["teoriji koherentnosti"]],
+          "feedback_incorrect": "Bili ste blizu! U redu je, svi griješimo. Radi se o unutarnjem skladu ideja kao kriteriju za utvrđivanje istine.",
+          "feedback_correct": "Wow, točno ste odgovorili! Vrlo ste dobri u ovome! Istinitost izjave ovisi o tome koliko je logički koherentna unutar okvira uvjerenja."
+        }
+      ]
+    },
+    {
+      "author": "DANTE",
+      "topic": "Procjena antidisinformacijskih mehanizama",
+      "questions": [
+        {
+          "question": "Programi medijske pismenosti imaju za cilj poboljšati sposobnost javnosti da kritički_ informira, čineći ih manje podložnima dezinformacijama.",
+          "answers": [["procjenjuje"]],
+          "feedback_incorrect": "Programi medijske pismenosti usmjereni su na poboljšanje vještina koje pomažu pojedincima u procjeni točnosti i vjerodostojnosti informacija. Koja je opcija usklađena s ovim ciljem?",
+          "feedback_correct": "Programi medijske pismenosti obrazovne su inicijative namijenjene podučavanju pojedinaca kako kritički pristupiti, analizirati, vrednovati i stvarati medijske sadržaje."
+        },
+        {
+          "question": "Kako bi se procijenio uspjeh strategija za borbu protiv dezinformiranja, ključno je analizirati utjecaj lažnih informacija prije i nakon provedbe.",
+          "answers": [["doseg"]],
+          "feedback_incorrect": "Učinkovita procjena strategija za borbu protiv dezinformiranja uključuje ispitivanje koliko se šire lažne informacije i njihov učinak na percepciju javnosti. Koji pojam najbolje opisuje ovaj aspekt analize?",
+          "feedback_correct": "Prije provedbe strategija za borbu protiv dezinformiranja, ključno je uspostaviti osnovne metrike kako bi se razumjela trenutna prevalencija i utjecaj lažnih informacija. To može uključivati analizu dosega, angažmana i viralnosti dezinformacija na različitim platformama."
+        }
+      ]
+    },
+    {
+      "author": "DANTE",
+      "topic": "Osmišljavanje projekata za borbu protiv dezinformacija",
+      "questions": [
+        {
+          "question": "Ključna komponenta projekta osmišljenog za borbu protiv dezinformacija je _, koja uključuje edukaciju i obuku javnosti o prepoznavanju lažnih informacija i poboljšanju njihovih vještina medijske pismenosti.",
+          "answers": [["javno obrazovanje"]],
+          "feedback_incorrect": "Ključna komponenta uključuje pružanje znanja i vještina javnosti kako bi im se pomoglo da prepoznaju i razumiju lažne informacije u medijima.",
+          "feedback_correct": "Javno obrazovanje u medijskoj pismenosti podrazumijeva podučavanje pojedinaca kako kritički vrednovati, analizirati i stvarati medijske sadržaje. Cilj je osnažiti ljude da postanu pronicljivi potrošači i proizvođači medija, prepoznajući predrasude, razumijevajući utjecaj medija na javno mnijenje i učinkovito koristeći medije za komunikaciju i izražavanje."
+        }
+      ]
+    },
+    {
+      "author": "ODYSSEA",
+      "topic": "Karakteristike razdoblja nakon istine",
+      "questions": [
+        {
+          "question": "U eri post-istine, utjecaj_ često nadmašuje objektivne činjenice.",
+          "answers": [["emocije"]],
+          "feedback_incorrect": "Emocije su važne u eri nakon istine jer potiču angažman i utječu na mišljenja učinkovitije od objektivnih činjenica.",
+          "feedback_correct": "Emocionalni apeli duboko rezoniraju s pojedincima, usklađujući se s njihovim osobnim uvjerenjima i identitetima. Algoritmi društvenih medija daju prioritet emocionalno nabijenom sadržaju, pojačavajući njegov doseg i utjecaj. Ova emocionalna rezonancija stvara snažne, nezaboravne narative koji često zasjenjuju činjeničnu točnost. Slijedom toga, emocije oblikuju javni diskurs i donošenje odluka u post-istinskom krajoliku."
+        },
+        {
+          "question": "Širenje dezinformacija u eri post-istine ubrzavaju _ mediji.",
+          "answers": [["društveni"]],
+          "feedback_incorrect": "Društveni mediji pojačavaju dezinformacije i odjek, koje jačaju osobna uvjerenja i smanjuju izloženost različitim perspektivama. ",
+          "feedback_correct": "Društveni mediji pojačavaju dezinformacije i odjek, koje jačaju osobna uvjerenja i smanjuju izloženost različitim perspektivama. "
+        }
+      ]
+    },
+    {
+      "author": "ODYSSEA",
+      "topic": "Utjecaj „dezinfodemije“ na zdravlje",
+      "questions": [
+        {
+          "question": "Zbog širenja dezinformacija, neki pojedinci mogu odlučiti napustiti tretmane koji se temelje na _ u korist nedokazanih tretmana.",
+          "answers": [["dokazima"]],
+          "feedback_incorrect": "Razmotrite koje vrste liječenja obično podupiru znanstvena istraživanja i preporučuju ih zdravstveni djelatnici.",
+          "feedback_correct": "Izvrsno! Prepoznali ste važnost tretmana koji su potvrđeni znanstvenim istraživanjima."
+        },
+        {
+          "question": "Lažne informacije o zdravstvenim rizicima mogu uzrokovati rasprostranjenost _, što navodi ljude da izbjegavaju potrebne medicinske tretmane.",
+          "answers": [["panike"]],
+          "feedback_incorrect": "Razmislite o emocionalnom odgovoru koji vodi ljude da izbjegavaju potrebne medicinske tretmane zbog straha.",
+          "feedback_correct": "Odlično! Otkrili ste da rasprostranjena panika može uzrokovati da ljudi izbjegavaju potrebne medicinske tretmane."
+        }
+      ]
+    },
+    {
+      "author": "TRH",
+      "topic": "Važnost istine u novinarstvu",
+      "questions": [
+        {
+          "question": "Kako bi se izbjegla pristranost, novinari bi trebali pružiti _ mišljenja u svom izvještavanju.",
+          "answers": [["izbalansiranost"]],
+          "feedback_incorrect": "Još samo malo! Pokušajte ponovno! Predrasude je vrlo teško u potpunosti eliminirati, jer svi imamo inherentne predrasude kojih možda nismo ni svjesni. Međutim, izbjegavanje pristranosti u novinarstvu olakšava se usredotočujući se na pružanje uravnoteženih i točnih stajališta.",
+          "feedback_correct": "Dobar posao, to je točno! Predrasude je vrlo teško u potpunosti eliminirati, jer svi imamo inherentne predrasude kojih možda nismo ni svjesni. Međutim, izbjegavanje pristranosti u novinarstvu olakšava se usredotočujući se na pružanje uravnoteženih i točnih stajališta."
+        },
+        {
+          "question": "Vjerodostojnost medija često je određena njihovom predanošću _ i transparentnošću.",
+          "answers": [["točnosti"]],
+          "feedback_incorrect": "Još samo malo! Pokušajte ponovno! Mediji koji se bave etičkim novinarstvom trebali bi se u najvećoj mogućoj mjeri usredotočiti na pružanje točnih, transparentnih i vjerodostojnih izvještaja koji se rigorozno provjeravaju.",
+          "feedback_correct": "Dobar posao, to je točno! Mediji koji se bave etičkim novinarstvom trebali bi se u najvećoj mogućoj mjeri usredotočiti na pružanje točnih, transparentnih i vjerodostojnih izvještaja koji se rigorozno provjeravaju."
+        }
+      ]
+    }
+  ]
+}

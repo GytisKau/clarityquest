@@ -1,0 +1,180 @@
+[gd_scene load_steps=17 format=3 uid="uid://cbrnau8blrrxj"]
+
+[ext_resource type="Texture2D" uid="uid://bqbr3ri7gimq0" path="res://art/Main menu/AboutBackGroundProps/about_kalnai.png" id="1_wnfxa"]
+[ext_resource type="Script" uid="uid://bbtb5575uo2vt" path="res://Main menu/About Scene.gd" id="1_wx226"]
+[ext_resource type="Texture2D" uid="uid://d270yc7xlmcpt" path="res://art/Main menu/AboutBackGroundProps/about_uodega.png" id="2_bu2xq"]
+[ext_resource type="Texture2D" uid="uid://dx2je3g6l7vct" path="res://art/Main menu/AboutBackGroundProps/about_virsaus_lapas.png" id="3_tinl3"]
+[ext_resource type="Texture2D" uid="uid://ca4qngsst4di0" path="res://art/SharedAssets/about_title.png" id="4_spi21"]
+[ext_resource type="Texture2D" uid="uid://ck285d2fhwkkr" path="res://art/Main menu/AboutBackGroundProps/back.png" id="5_4voyq"]
+[ext_resource type="Texture2D" uid="uid://dyw1j2b1btici" path="res://art/SharedAssets/about_logo.png" id="6_ofmgs"]
+[ext_resource type="Theme" uid="uid://cr2p7s5fsjbu2" path="res://themes/buttons.tres" id="6_s4cak"]
+[ext_resource type="Script" uid="uid://clm6snmxde555" path="res://Main menu/BackButton.gd" id="7_o8od6"]
+[ext_resource type="Texture2D" uid="uid://xiwllemnak7c" path="res://art/Main menu/EntranceAnimationItems/FOG.png" id="16_4dybc"]
+
+[sub_resource type="Animation" id="Animation_goglt"]
+resource_name = "Fade in"
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("CanvasLayer/entrance/Fog:self_modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 1),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(1, 1, 1, 1), Color(1, 1, 1, 0)]
+}
+
+[sub_resource type="Animation" id="Animation_40761"]
+resource_name = "Fade out"
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("CanvasLayer/entrance/Fog:self_modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 1),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0.95)]
+}
+
+[sub_resource type="Animation" id="Animation_4p7or"]
+resource_name = "RESET"
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("CanvasLayer/entrance/Fog:self_modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(1, 1, 1, 1)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_th46g"]
+_data = {
+&"Fade in": SubResource("Animation_goglt"),
+&"Fade out": SubResource("Animation_40761"),
+&"RESET": SubResource("Animation_4p7or")
+}
+
+[sub_resource type="Gradient" id="Gradient_ye8kp"]
+colors = PackedColorArray(1, 0.486275, 0.121569, 1, 0.929412, 0.0627451, 0.0313726, 1)
+
+[sub_resource type="GradientTexture2D" id="GradientTexture2D_wa75u"]
+gradient = SubResource("Gradient_ye8kp")
+width = 960
+height = 540
+fill_from = Vector2(0, 1)
+fill_to = Vector2(0, 0)
+
+[node name="AboutTheGame" type="Node"]
+script = ExtResource("1_wx226")
+mainScene = "res://Main menu/main menu.tscn"
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+libraries = {
+&"": SubResource("AnimationLibrary_th46g")
+}
+
+[node name="Camera2D" type="Camera2D" parent="."]
+anchor_mode = 0
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="Node2D" type="Node2D" parent="CanvasLayer"]
+
+[node name="Colored background" type="TextureRect" parent="CanvasLayer/Node2D"]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_right = 960.0
+offset_bottom = 540.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+texture = SubResource("GradientTexture2D_wa75u")
+
+[node name="AboutPageLeaves" type="Sprite2D" parent="CanvasLayer/Node2D"]
+position = Vector2(112.246, 0)
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("3_tinl3")
+centered = false
+
+[node name="AboutKalnai" type="Sprite2D" parent="CanvasLayer/Node2D"]
+position = Vector2(0, 235.553)
+scale = Vector2(0.6283, 0.6283)
+texture = ExtResource("1_wnfxa")
+centered = false
+
+[node name="AboutScreenTail" type="Sprite2D" parent="CanvasLayer/Node2D"]
+position = Vector2(0, 346.841)
+scale = Vector2(0.406106, 0.406106)
+texture = ExtResource("2_bu2xq")
+centered = false
+
+[node name="Clarity_Logo" type="Sprite2D" parent="CanvasLayer"]
+position = Vector2(128.78, 193.629)
+scale = Vector2(0.440729, 0.440729)
+texture = ExtResource("4_spi21")
+
+[node name="BackButton" type="Button" parent="CanvasLayer"]
+self_modulate = Color(0, 0, 0, 1)
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -64.0
+offset_top = 8.0
+offset_right = -8.0
+offset_bottom = 40.0
+grow_horizontal = 0
+mouse_default_cursor_shape = 2
+theme = ExtResource("6_s4cak")
+script = ExtResource("7_o8od6")
+metadata/_edit_use_anchors_ = true
+
+[node name="BackArrow" type="Sprite2D" parent="CanvasLayer/BackButton"]
+position = Vector2(13, 3)
+texture = ExtResource("5_4voyq")
+centered = false
+
+[node name="ThinkTwiceLogo" type="Sprite2D" parent="CanvasLayer"]
+position = Vector2(882.32, 163.12)
+scale = Vector2(0.491592, 0.491592)
+texture = ExtResource("6_ofmgs")
+
+[node name="Information Label" type="RichTextLabel" parent="CanvasLayer"]
+anchors_preset = -1
+anchor_left = 0.50042
+anchor_top = 0.290648
+anchor_right = 0.660836
+anchor_bottom = 0.57213
+offset_left = -221.403
+offset_top = -116.95
+offset_right = 175.597
+offset_bottom = 202.05
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(1.00881, 1.0025)
+size_flags_horizontal = 6
+bbcode_enabled = true
+text = "No about translation in this language"
+metadata/_edit_use_anchors_ = true
+
+[node name="entrance" type="Node2D" parent="CanvasLayer"]
+visible = false
+top_level = true
+
+[node name="Fog" type="Sprite2D" parent="CanvasLayer/entrance"]
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("16_4dybc")
+centered = false
+
+[connection signal="animation_finished" from="AnimationPlayer" to="." method="_on_animation_player_animation_finished"]
+[connection signal="pressed" from="CanvasLayer/BackButton" to="CanvasLayer/BackButton" method="_on_pressed"]
