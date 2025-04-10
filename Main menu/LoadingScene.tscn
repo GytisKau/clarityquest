@@ -1,0 +1,85 @@
+[gd_scene load_steps=10 format=3 uid="uid://b1k8hoid81rkc"]
+
+[ext_resource type="Script" uid="uid://bugdviljrfwim" path="res://Main menu/loading_scene.gd" id="1_qntsy"]
+[ext_resource type="Texture2D" uid="uid://bceudcq0nob0r" path="res://art/Main menu/BackgroundProps/home_kalnas.png" id="2_kwpuk"]
+[ext_resource type="Texture2D" uid="uid://l5piodwncvpo" path="res://art/Main menu/BackgroundProps/home_desines_lapai.png" id="3_1tg8k"]
+[ext_resource type="Texture2D" uid="uid://2emo4jarmke6" path="res://art/Main menu/BackgroundProps/home_virsaus_lapai_1.png" id="4_brreu"]
+[ext_resource type="Texture2D" uid="uid://b8iravn5g2aaw" path="res://art/Main menu/BackgroundProps/home_apacios_lapai_2.png" id="5_77pfe"]
+[ext_resource type="Texture2D" uid="uid://b6n0wcmkslew8" path="res://art/Main menu/BackgroundProps/home_apacios_lapai_1.png" id="6_yniyn"]
+
+[sub_resource type="Gradient" id="Gradient_va2tb"]
+colors = PackedColorArray(1, 0.486275, 0.121569, 1, 0.929412, 0.0627451, 0.0313726, 1)
+
+[sub_resource type="GradientTexture2D" id="GradientTexture2D_p2wfu"]
+gradient = SubResource("Gradient_va2tb")
+width = 960
+height = 540
+fill_from = Vector2(0, 1)
+fill_to = Vector2(0, 0)
+
+[sub_resource type="LabelSettings" id="LabelSettings_s644b"]
+font_size = 32
+
+[node name="LoadingScene" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_qntsy")
+
+[node name="Colored background" type="TextureRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+texture = SubResource("GradientTexture2D_p2wfu")
+
+[node name="BackGroundProps" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+
+[node name="Mountain" type="Sprite2D" parent="BackGroundProps"]
+position = Vector2(480, 306)
+scale = Vector2(0.5, 0.455)
+texture = ExtResource("2_kwpuk")
+
+[node name="LeavesOnTheRight" type="Sprite2D" parent="BackGroundProps"]
+position = Vector2(847, 251)
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("3_1tg8k")
+
+[node name="LeavesOnTop" type="Sprite2D" parent="BackGroundProps"]
+position = Vector2(28.44, 0)
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("4_brreu")
+centered = false
+
+[node name="LeavesOnBottomRight" type="Sprite2D" parent="BackGroundProps"]
+position = Vector2(752, 453)
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("5_77pfe")
+
+[node name="LeavesOnBottomLeft" type="Sprite2D" parent="BackGroundProps"]
+position = Vector2(190, 458)
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("6_yniyn")
+
+[node name="Loading" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 14
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+offset_top = -22.5
+offset_bottom = 22.5
+grow_horizontal = 2
+grow_vertical = 2
+text = "Loading..."
+label_settings = SubResource("LabelSettings_s644b")
+horizontal_alignment = 1

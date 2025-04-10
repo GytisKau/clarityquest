@@ -1,0 +1,12 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://cgb5om858hlu8"]
+
+[sub_resource type="MeshTexture" id="MeshTexture_575fl"]
+
+[resource]
+vertex_color_use_as_albedo = true
+roughness = 0.5
+emission = Color(1, 1, 1, 1)
+emission_texture = SubResource("MeshTexture_575fl")
+rim_tint = 0.0
+backlight = Color(1, 1, 1, 1)
+disable_receive_shadows = true

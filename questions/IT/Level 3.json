@@ -1,0 +1,708 @@
+{
+  "ChooseTheCorrectAnswer": [
+    {
+      "author": "CESIE",
+      "topic": "Applicare l’alfabetizzazione mediatica in contesti pratici",
+      "questions": [
+        {
+          "question": "Un articolo di giornale afferma che uno studio appena pubblicato dimostra un drastico aumento di una specifica condizione di salute a causa di un prodotto per la cura della casa di uso comune. Per verificare l’accuratezza dell’affermazione, quali passi dovresti compiere?",
+          "options": [
+            "Fidarsi dell’articolo se appare su un sito web di notizie popolare",
+            "Condividere l’articolo con amic3 per vedere se hanno sentito la stessa notizia",
+            "Cercare lo studio originale e controllare la sua metodologia e credibilità",
+            "Ignorare l’articolo perché sembra esagerato"
+          ],
+          "correctOption": "Cercare lo studio originale e controllare la sua metodologia e credibilità",
+          "feedback_incorrect": "Proviamoci ancora! Anziché fidarti di un articolo solo perché viene pubblicato da un sito web di notizie popolare o condiviso dall3 amic3, il miglior approccio è cercare lo studio originale e controllare la sua metodologia e credibilità. Ciò ti garantisce di ricevere notizie direttamente da una fonte attendibile e ti consente di valutare la qualità e l’affidabilità dello studio. Esaminando fattori come il campione della ricerca, la sua metodologia e i potenziali pregiudizi, puoi formulare un giudizio consapevole sulla validità delle affermazioni dell’articolo.",
+          "feedback_correct": "Ottimo lavoro! Hai individuato correttamente il miglior modo per verificare l’accuratezza di tali affermazioni che consiste nella ricerca dello studio originale e nella verifica della sua metodologia e credibilità. Ciò ti garantisce di ricevere notizie direttamente da una fonte attendibile e ti consente di valutare la qualità e l’affidabilità dello studio. Esaminando fattori come il campione della ricerca, la sua metodologia e i potenziali pregiudizi, puoi formulare un giudizio consapevole sulla validità delle affermazioni dell’articolo. Ben fatto!"
+        },
+        {
+          "question": "Ricevi un’email da un’azienda famosa che offre una vacanza gratuita se clicchi su un link e fornisci le tue informazioni personali. Come dovresti gestire la situazione?",
+          "options": [
+            "Clicca sul link e fornisci le informazioni richieste poiché si tratta di un’azienda famosa",
+            "Elimina l’email perché probabilmente è un caso di spam",
+            "Chiama l’azienda usando il numero ufficiale per verificare l’offerta",
+            "Inoltra l’email all3 amic3 per vedere se hanno ricevuto la stessa offerta"
+          ],
+          "correctOption": "Chiama l’azienda usando il numero ufficiale per verificare l’offerta",
+          "feedback_incorrect": "Sembra che ci sia stato un fraintendimento sul modo in cui gestire le email sospette. Anziché cliccare immediatamente sui link o inoltrare l’email all3 amic3, l’approccio più sicuro quando ci si imbatte in queste email è quello di chiamare l’azienda usando il loro numero ufficiale per verificare l’offerta. Questo metodo ti permette di confermare la legittimità di un’email direttamente con l’azienda senza mettere a rischio i tuoi dati personali. Ricordati sempre di verificare la legittimità delle offerte o delle richieste prima di agire. Rafforzare queste abitudini ti consente di proteggere la tua sicurezza e la tua privacy online.",
+          "feedback_correct": "Ottimo lavoro! Hai individuato correttamente che l’approccio migliore quando ci si imbatte in email sospette è quello di chiamare l’azienda usando il numero ufficiale per verificare l’offerta. Questo metodo ti permette di confermare la legittimità di un’email direttamente con l’azienda senza mettere a rischio i tuoi dati personali. È importante prestare attenzione alle e-mail non richieste per proteggersi da potenziali truffe di phishing.  Verificando l’autenticità delle offerte o delle richieste tramite i canali ufficiali, puoi garantire la tua sicurezza e la tua privacy online. Continua ad applicare queste pratiche intelligenti per rimanere al sicuro online!"
+        },
+        {
+          "question": "Un post pubblicato da un account di alto profilo afferma che una certa figura politica ha commesso un grave crimine. Per confermare la validità della notizia, cosa dovresti fare?",
+          "options": [
+            "Credere al post perché è stato pubblicato da un account di alto profilo",
+            "Cercare la notizia su siti web di cronaca attendibili e dichiarazioni ufficiali",
+            "Condividere il post per avvertire immediatamente l3 altr3",
+            "Ignorare il post a meno che non diventi un argomento di tendenza"
+          ],
+          "correctOption": "Cercare la notizia su siti web di cronaca attendibili e dichiarazioni ufficiali",
+          "feedback_incorrect": "Sembra che ci possa essere stato un fraintendimento sul modo in cui approcciarsi ai post pubblicati sui social media, soprattutto quelli che riguardano gravi accuse. Anziché credere immediatamente al post perché è stato pubblicato da un account di alto profilo o condividerlo per avvertire l3 altr3, la scelta migliore è quella di cercare la notizia su siti web di cronaca attendibili e dichiarazioni ufficiali. Affidandosi a fonti attendibili ed evitando di diffondere affermazioni non verificate, puoi contribuire a ridurre la diffusione della disinformazione e sostenere i dibattiti consapevoli online.",
+          "feedback_correct": "Ottimo lavoro! Hai individuato correttamente qual è l’approccio migliore quando si incontra un post sui social media che dichiara gravi accuse riguardanti una figura politica è quello di cercare la notizia su siti web di cronaca attendibili e dichiarazioni ufficiali. Questo metodo garantisce che la tua conoscenza si basi su fonti attendibili e informazioni verificate. Ricercando fonti di notizie affidabili e dichiarazioni ufficiali, è possibile formulare giudizi consapevoli ed evitare di diffondere informazioni potenzialmente false o fuorvianti."
+        }
+      ]
+    },
+    {
+      "author": "CPIP",
+      "topic": "Le teorie della verità",
+      "questions": [
+        {
+          "question": "Il corrispondentismo afferma che un’affermazione è vera se corrisponde a un fatto o alla realtà. Cosa significa questo nell’alfabetizzazione mediatica e digitale?",
+          "options": [
+            "Valutare le notizie recenti apparse sui media",
+            "Valutare il comportamento dei media",
+            "Valutare e confrontare gli eventi mediatici",
+            "Valutare le notizie in base alla loro conformità alle prove e ai dati"
+          ],
+          "correctOption": "Valutare le notizie in base alla loro conformità alle prove e ai dati",
+          "feedback_incorrect": "Ci eri quasi! Non ti preoccupare, tutt3 noi commettiamo errori! Dovresti controllare le fonti di notizie affidabili per confermare l’accuratezza della notizia.",
+          "feedback_correct": "Wow, hai risposto correttamente! Sei veramente brav3! La questione della verità sta diventando sempre più complessa, poiché gli avvenimenti e i fatti raramente hanno una singola interpretazione."
+        },
+        {
+          "question": "La teoria del consenso dimostra che la verità consiste in ciò su cui concordano alcuni gruppi specifici/professionali. Cosa comporta questo per l’alfabetizzazione mediatica e digitale?",
+          "options": [
+            "Valutare la notizia da un punto di vista personale",
+            "Valutare la notizia da un punto di vista esterno",
+            "Valutare la notizia da un punto di vista oggettivo ",
+            "Valutare la credibilità della notizia sulla base del consenso di espert3 o di una comunità"
+          ],
+          "correctOption": "Valutare la credibilità della notizia sulla base del consenso di espert3 o di una comunità",
+          "feedback_incorrect": "Ci eri quasi! Non ti preoccupare, tutt3 noi commettiamo errori. La teoria del consenso afferma che la valutazione della credibilità di una notizia si basa sul consenso di espert3 o della comunità.",
+          "feedback_correct": "Wow, hai risposto correttamente! Sei veramente brav3! Conoscere la teoria del consenso permette alla gente di prendere decisioni consapevoli nell’era digitale."
+        },
+        {
+          "question": "Il coerentismo dimostra che un’affermazione è considerata vera se è logicamente conforme a un insieme coeso e armonioso di credenze e affermazioni. Cosa comporta questo per l’alfabetizzazione mediatica e digitale?",
+          "options": [
+            "Valutare un approccio pratico alla notizia",
+            "Valutare la credibilità della notizia",
+            "Valutare la fonte della notizia",
+            "Valutare se le notizie nuove corrispondono a ciò che si conosce già o che è accettato come vero"
+          ],
+          "correctOption": "Valutare se le notizie nuove corrispondono a ciò che si conosce già o che è accettato come vero",
+          "feedback_incorrect": "Ci eri quasi! Non ti preoccupare, tutt3 noi commettiamo errori. Non si tratta della corrispondenza con la realtà esterna.",
+          "feedback_correct": "Wow, hai risposto correttamente! Sei veramente brav3! In questa teoria, la verità viene definita dalla corrispondenza e dalla coerenza logica di un'affermazione con altre verità o credenze accettate."
+        }
+      ]
+    },
+    {
+      "author": "DANTE",
+      "topic": "Valutare i meccanismi contro la disinformazione",
+      "questions": [
+        {
+          "question": "Quale ruolo hanno la ricerca e l’analisi dei dati nella valutazione dei meccanismi contro la disinformazione?",
+          "options": [
+            "Sostenere l'elaborazione di politiche basate sull'evidenza",
+            "Promuovere punti di vista di parte",
+            "Sopprimere il dibattito pubblico",
+            "Incoraggiare speculazioni e pettegolezzi"
+          ],
+          "correctOption": "Sostenere l'elaborazione di politiche basate sull'evidenza",
+          "feedback_incorrect": "La ricerca e l'analisi dei dati sono fondamentali per comprendere l'efficacia dei meccanismi contro la disinformazione. Quale opzione descrive meglio il loro contributo alla valutazione dell'impatto e dei risultati di queste strategie?",
+          "feedback_correct": "La ricerca prevede la raccolta di dati sulla prevalenza, sulle fonti e sui modelli di diffusione della disinformazione su diverse piattaforme e segmenti della popolazione. Le tecniche di analisi dei dati, come l'analisi quantitativa e la mappatura delle reti, aiutano a scoprire le tendenze, a identificare gli influencer e a capire come si diffondono le false informazioni."
+        },
+        {
+          "question": "Qual è una considerazione etica quando si valutano meccanismi contro la disinformazione?",
+          "options": [
+            "Promuovere la censura delle opinioni non comuni",
+            "Proteggere i diritti alla privacy della gente",
+            "Restringere l’accesso a fonti di notizie affidabili",
+            "Aumentare la sorveglianza sulle attività online"
+          ],
+          "correctOption": "Proteggere i diritti alla privacy della gente",
+          "feedback_incorrect": "Quando si valutano i meccanismi contro la disinformazione, è importante considerare le implicazioni etiche della raccolta dei dati e delle strategie di intervento. Quale opzione riflette una preoccupazione etica fondamentale nella valutazione di questi meccanismi?",
+          "feedback_correct": "L'impegno contro la disinformazione comporta spesso la raccolta di dati per analizzare tendenze e modelli. Le considerazioni etiche includono garantire che i metodi di raccolta dei dati rispettino i diritti alla privacy delle persone e si attengano alle normative sulla protezione dei dati."
+        }
+      ]
+    },
+    {
+      "author": "DANTE",
+      "topic": "Creare progetti per combattere la disinformazione",
+      "questions": [
+        {
+          "question": "Qual è il primo passo da compiere per delineare un progetto per combattere la disinformazione?",
+          "options": [
+            "Valutare il livello attuale di alfabetizzazione digitale del pubblico di riferimento",
+            "Introdurre strumenti digitali per individuare le notizie false",
+            "Creare campagne di sensibilizzazione",
+            "Assumere espert3 di social media"
+          ],
+          "correctOption": "Valutare il livello attuale di alfabetizzazione digitale del pubblico di riferimento",
+          "feedback_incorrect": "Capire la capacità del tuo pubblico a riconoscere e valutare le notizie è alla base di una pianificazione efficace.",
+          "feedback_correct": "Stabilire una conoscenza di base dell'alfabetizzazione mediatica del pubblico consente di adattare il programma alle sue esigenze specifiche."
+        }
+      ]
+    },
+    {
+      "author": "ODYSSEA",
+      "topic": "Caratteristiche dell’epoca della post-verità",
+      "questions": [
+        {
+          "question": "Quale delle seguenti opzioni descrive meglio il termine “post-verità”?",
+          "options": [
+            "Maggiore fiducia nelle fonti di notizie verificate.",
+            "La prevalenza delle convinzioni emotive e personali sui fatti oggettivi.",
+            "Diminuzione dell’influenza dei social media sull’opinione pubblica.",
+            "Un livello più alto di capacità di pensiero critico tra la gente."
+          ],
+          "correctOption": "La prevalenza delle convinzioni emotive e personali sui fatti oggettivi.",
+          "feedback_incorrect": "Nella società della post-verità, le persone spesso si affidano a narrazioni cariche di emozioni e a pregiudizi che confermano le idee personali, piuttosto che valutare criticamente le prove provenienti da fonti credibili. I social media amplificano la disinformazione e le camere dell'eco, che rafforzano le convinzioni personali e riducono l'esposizione a prospettive diverse. L'era della post-verità è caratterizzata dalla sfiducia nei media tradizionali e nella conoscenza dell3 espert3, che porta a una minore enfasi sul pensiero critico e sull'accuratezza dei fatti.  ",
+          "feedback_correct": "La prevalenza delle convinzioni emotive e personali sui fatti oggettivi è la caratteristica principale dell’epoca della post-verità perché sottolinea il cambiamento fondamentale del modo in cui le persone elaborano le notizie e formulano le loro opinioni. In questa epoca, la gente privilegia i propri sentimenti, la propria identità e le proprie idee rispetto alle prove e alle argomentazioni razionali. Questo fenomeno è dovuto a fattori come la proliferazione di disinformazione sui social media, il declino della fiducia nei media tradizionali e nell3 espert3 e la tendenza a cercare informazioni che confermano i pregiudizi esistenti."
+        },
+        {
+          "question": "Quale delle seguenti opzioni descrive meglio il termine “post-verità”?",
+          "options": [
+            "Un periodo in cui i fatti sono più importanti delle opinioni.",
+            "Una situazione in cui i fatti oggettivi hanno un’influenza minore rispetto alle sollecitazioni emotive.",
+            "Un’epoca caratterizzata dall’ampia diffusione dell’alfabetizzazione scientifica.",
+            "Un’epoca in cui i media tradizionali sono l’unica fonte di verità."
+          ],
+          "correctOption": "Una situazione in cui i fatti oggettivi hanno un’influenza minore rispetto alle sollecitazioni emotive.",
+          "feedback_incorrect": "Nell’epoca della post-verità, i fatti, la letteratura scientifica e i media tradizionali non sono fattori importanti, ma vengono deliberatamente marginalizzati per manipolare la gente.",
+          "feedback_correct": "Nell’epoca della post-verità, la gente mette in primo piano le convinzioni personali e la propria emotività al posto dell’accuratezza dei fatti. Questo cambiamento è spesso alimentato dall’ampia diffusione della disinformazione e delle camere d’eco create dai social media, in cui le persone vengono esposte a informazioni che rafforzano le loro idee preesistenti. Di conseguenza, le sollecitazioni emotive hanno una risonanza maggiore poiché c’è una corrispondenza con l’identità e le inclinazioni della gente, rendendo difficile ai fatti oggettivi di modificare le convinzioni più radicate."
+        },
+        {
+          "question": "Nell’epoca della post-verità, quale delle seguenti opzioni ha un impatto significativo nel modellare l’opinione pubblica?",
+          "options": [
+            "Riviste scientifiche sottoposte a revisioni tra pari.",
+            "Contenuti mediatici emotivi e sensazionalistici.",
+            "Rapporti emessi dai governi.",
+            "Istituzioni governative."
+          ],
+          "correctOption": "Contenuti mediatici emotivi e sensazionalistici.",
+          "feedback_incorrect": "L’accessibilità e la velocità di diffusione delle notizie tramite i social media spesso oscurano i processi più lenti e rigorosi delle istituzioni tradizionali. La disinformazione e i contenuti sensazionalistici si diffondono rapidamente online, raggiungendo un pubblico ampio velocemente. Inoltre, c’è una crescente sfiducia nei confronti delle autorità tradizionali e dell3 espert3, alimentata dalla polarizzazione politica e dallo scetticismo verso l’integrità delle istituzioni. In aggiunta a ciò, i bias cognitivi portano gli individui a preferire le informazioni che hanno un’affinità con le loro convinzioni, indipendentemente dalla fonte di riferimento.  ",
+          "feedback_correct": "I contenuti mediatici emotivi e sensazionalistici hanno un impatto significativo sull’opinione pubblica perché catturano l’attenzione ed evocano reazioni forti in modo più efficace rispetto ai contenuti basati sui fatti. Questo tipo di contenuti spesso semplifica le questioni complesse con storie avvincenti e facili da capire e condividere, facendo leva sulle emozioni e sulle inclinazioni della gente. Il sensazionalismo fa leva sulla paura, sulla rabbia e sull'eccitazione, che sono potenti fattori di coinvolgimento e di preservazione della memoria. Nell'era digitale in cui il consumo dei media è rapido e frammentato, i contenuti che suscitano forti reazioni emotive hanno maggiori probabilità di essere diffusi e di influenzare l'opinione pubblica, oscurando le informazioni basate sui fatti e piene di sfumature."
+        }
+      ]
+    },
+    {
+      "author": "SYNCNIFY",
+      "topic": "L’impatto della “disinfodemia” sulla sanità",
+      "questions": [
+        {
+          "question": "Cos’è un caso di “disinfodemia”?",
+          "options": [
+            "Una pandemia causata dalla disinformazione",
+            "Un'epidemia di disinformazione ampiamente diffusa",
+            "Una nuova condizione medica",
+            "Un virus di internet"
+          ],
+          "correctOption": "Un'epidemia di disinformazione ampiamente diffusa",
+          "feedback_incorrect": "La “disinfodemia” non è una pandemia causata dalla disinformazione, una condizione medica o un virus di internet. Il termine si riferisce a un'epidemia di disinformazione ampiamente diffusa che, in particolare, riguarda le informazioni sulla sanità.",
+          "feedback_correct": "Corretto. La “disinfodemia” si riferisce a un'epidemia di disinformazione ampiamente diffusa che, in particolare, riguarda le informazioni sulla sanità."
+        },
+        {
+          "question": "Quale delle seguenti opzioni è un potenziale impatto della “disinfodemia” sulla sanità?",
+          "options": [
+            "Miglioramento della conoscenza sulla sanità pubblica",
+            "Aumento dell'esitazione nei confronti dei vaccini",
+            "Maggiore fiducia nella comunità",
+            "Riduzione dei livelli di stress"
+          ],
+          "correctOption": "Aumento dell'esitazione nei confronti dei vaccini",
+          "feedback_incorrect": "Sbagliato. La “disinfodemia” spesso provoca una maggiore esitazione verso i vaccini piuttosto che migliorare la conoscenza sulla sanità pubblica, rafforzare la fiducia nella comunità o ridurre i livelli di stress.",
+          "feedback_correct": "Corretto. La “disinfodemia” può provocare una maggiore esitazione verso i vaccini, minando gli sforzi della sanità pubblica."
+        },
+        {
+          "question": "In che modo la “disinfodemia” può influire negativamente sulle risposte della sanità pubblica?",
+          "options": [
+            "Diffondendo informazioni accurate",
+            "Migliorando la comunicazione sanitaria",
+            "Minando la fiducia nelle autorità sanitarie",
+            "Incoraggiando i comportamenti salutari"
+          ],
+          "correctOption": "Minando la fiducia nelle autorità sanitarie",
+          "feedback_incorrect": "Pensaci ancora! La “disinfodemia” mina la fiducia verso le autorità sanitarie piuttosto che diffondere informazioni accurate, migliorare la comunicazione della sanità o incoraggiare i comportamenti salutari.",
+          "feedback_correct": "Corretto. La “disinfodemia” mina la fiducia verso le autorità sanitarie, indebolendo le risposte della sanità pubblica."
+        }
+      ]
+    },
+    {
+      "author": "SYNCNIFY",
+      "topic": "Creare progetti per combattere la disinformazione",
+      "questions": [
+        {
+          "question": "Nel contesto della progettazione di interventi per contrastare la disinformazione, cosa significa adottare un approccio multidisciplinare che includa le scienze comportamentali, l'analisi dei dati e gli studi sulla comunicazione?",
+          "options": [
+            "Assicura una prospettiva unica nell’affrontare la questione",
+            "Complica inutilmente il processo di gestione del progetto",
+            "Fornisce una conoscenza approfondita delle dinamiche di disinformazione e potenzia l’efficacia dell’intervento",
+            "Si concentra esclusivamente sulle soluzioni tecnologiche, escludendo i fattori umani"
+          ],
+          "correctOption": "Fornisce una conoscenza approfondita delle dinamiche di disinformazione e potenzia l’efficacia dell’intervento",
+          "feedback_incorrect": "Provaci ancora. Questa scelta non illustra accuratamente i vantaggi e gli obiettivi di un approccio multidisciplinare nella lotta alla disinformazione.",
+          "feedback_correct": "Esatto. Un approccio multidisciplinare unisce diversi settori di competenza per comprendere accuratamente e opporsi efficacemente alla disinformazione."
+        },
+        {
+          "question": "Perché è fondamentale introdurre considerazioni etiche nella progettazione e inserire progetti di lotta alla disinformazione?",
+          "options": [
+            "Per accelerare il processo di approvazione della ricerca",
+            "Per garantire che gli interventi rispettino i diritti individuali, promuovano la fiducia ed evitino conseguenze negative non intenzionali",
+            "Per ridurre al minimo il budget richiesto per il progetto",
+            "Per conformarsi agli interessi dei soggetti interessati in maniera uniforme"
+          ],
+          "correctOption": "Per garantire che gli interventi rispettino i diritti individuali, promuovano la fiducia ed evitino conseguenze negative non intenzionali",
+          "feedback_incorrect": "Questa opzione non coglie l’importanza delle considerazioni etiche nei progetti per il contrasto della disinformazione.",
+          "feedback_correct": "Corretto. Le considerazioni etiche sono fondamentali per garantire che le strategie di lotta alla disinformazione siano introdotte in maniera responsabile, rispettando i diritti individuali, promuovendo la fiducia e prevenendo le potenziali conseguenze negative."
+        }
+      ]
+    },
+    {
+      "author": "TRH",
+      "topic": "L’importanza della verità nel giornalismo",
+      "questions": [
+        {
+          "question": "Qual è una conseguenza della diffusione di falsa informazione nel giornalismo?",
+          "options": [
+            "Aumento delle entrate proveniente dalla pubblicità",
+            "Perdita della fiducia pubblica",
+            "Maggior coinvolgimento dei social media",
+            "Maggiore valore di intrattenimento"
+          ],
+          "correctOption": "Perdita della fiducia pubblica",
+          "feedback_incorrect": "Ci eri quasi. Provaci ancora! Diffondere falsa informazione nel giornalismo potrebbe aumentare potenzialmente le entrate, creare un maggior coinvolgimento dei social media e intrattenere la gente, ma queste non sono conseguenze sociali. La vera conseguenza sociale della disinformazione giornalistica è la perdita della fiducia pubblica.",
+          "feedback_correct": "Ottimo lavoro, è corretto! Diffondere falsa informazione nel giornalismo potrebbe aumentare potenzialmente le entrate, creare un maggior coinvolgimento dei social media e intrattenere la gente, ma queste non sono conseguenze sociali. La vera conseguenza sociale della disinformazione giornalistica è la perdita della fiducia pubblica."
+        },
+        {
+          "question": "Quale delle seguenti informazioni è il segno di un giornalismo di alta qualità?",
+          "options": [
+            "Articoli pieni di pubblicità",
+            "Titoli sensazionalistici",
+            "Ricerche scrupolose e fonti multiple",
+            "Pubblicazione rapida con un’opera di revisione minima"
+          ],
+          "correctOption": "Ricerche scrupolose e fonti multiple",
+          "feedback_incorrect": "Ci eri quasi. Provaci ancora! Ricordati che il giornalismo di alta qualità è quello che verifica rigorosamente i fatti per garantire l’accuratezza, la credibilità e un punto di vista il più imparziale possibile.",
+          "feedback_correct": "Ottimo lavoro, è corretto! Ricordati che il giornalismo di alta qualità è quello che verifica rigorosamente i fatti per garantire l’accuratezza, la credibilità e un punto di vista il più imparziale possibile."
+        }
+      ]
+    }
+  ],
+  "MultipleChoice": [
+    {
+      "author": "CESIE",
+      "topic": "Applicare l’alfabetizzazione mediatica in contesti pratici",
+      "questions": [
+        {
+          "question": "In un post pubblicato da un3 utente autorevole, si afferma che una certa figura politica ha commesso un grave crimine. Per confermare la validità di questa notizia, cosa dovresti fare? ",
+          "options": [
+            "Credere alla notizia perché è stata pubblicata da un3 utente autorevole",
+            "Ricercare la notizia su siti web affidabili e trovare alcune dichiarazioni ufficiali",
+            "Condividere il post per avvertire l3 altr3 immediatamente",
+            "Ignorare il post a meno che non diventi un argomento di tendenza"
+          ],
+          "answers": [
+            "Ricercare la notizia su siti web affidabili e trovare alcune dichiarazioni ufficiali"
+          ],
+          "feedback_incorrect": "Sembra che ci sia stato un fraintendimento nel modo in cui approcciarsi ai post sui social media, soprattutto quelli che riguardano gravi accuse. Anziché credere immediatamente alla notizia perché è stata pubblicata da un utente autorevole o condividerla per avvertire l3 altr3, la scelta giusta è quella di ricercare la notizia su siti web affidabili e trovare dichiarazioni ufficiali. Affidandoti a fonti attendibili ed evitando di diffondere affermazioni non verificate, puoi contribuire a ridurre la diffusione della disinformazione e mantenere il dibattito online consapevole.",
+          "feedback_correct": "Ottimo lavoro! Hai capito che quando incontri un post sui social media in cui una figura politica viene accusata di gravi crimini, l’approccio migliore è quello di ricercare la notizia su siti web affidabili e trovare dichiarazioni ufficiali. Questo metodo ti garantisce di basare la tua conoscenza su fonti attendibili e informazioni verificate. Cercando fonti di notizie attendibili e dichiarazioni ufficiali, puoi formulare giudizi consapevoli ed evitare la diffusione di notizie potenzialmente false o fuorvianti. "
+        },
+        {
+          "question": "Ti viene inoltrato un messaggio in cui si afferma che un nuovo integratore può curare una condizione cronica diffusa. Per verificarne la validità, cosa dovresti fare?",
+          "options": [
+            "Inoltrare il messaggio a amic3 e parenti per diffondere la notizia consapevolmente",
+            "Controllare la fonte del messaggio e consultare il personale medico e sanitario o siti web sulla medicina attendibili",
+            "Fidarti del messaggio perché è stato inoltrato da qualcun3 di cui ti fidi",
+            "Ignorare il messaggio perché i messaggi inoltrati sono spesso inaccurati"
+          ],
+          "answers": [
+            "Controllare la fonte del messaggio e consultare il personale medico e sanitario o siti web sulla medicina attendibili"
+          ],
+          "feedback_incorrect": "Sembra che ci possa essere stato un fraintendimento sul modo in cui verificare le notizie sulla sanità provenienti da messaggi inoltrati. Anziché inoltrare il messaggio ad amic3 e parenti o fidarsi della notizia perché è stata inoltrata da qualcun3 di cui ti fidi, il miglior approccio è controllare la fonte del messaggio e consultare il personale medico e sanitario o i siti web sulla medicina attendibili. Continua a esercitare le tue capacità di pensiero critico per consultare le informazioni relative all’ambito sanitario responsabilmente!",
+          "feedback_correct": "Ben fatto! Ha capito che controllare la fonte del messaggio inoltrato e consultare il personale medico e sanitario o i siti web sulla medicina attendibili, è il miglior approccio per verificare la validità delle notizie relative all’ambito sanitario. Questo metodo ti garantisce di basare la tua conoscenza su informazioni attendibili e revisionate da espert3. Continua ad applicare le tue capacità di pensiero critico per valutare le informazioni relative all’ambito sanitario responsabilmente. Ben fatto!"
+        },
+        {
+          "question": "Leggi un titolo su un sito web di notizie che dichiara una crescita significativa del tasso di criminalità nella tua città. Qual è la mossa giusta per verificare l’accuratezza della notizia?",
+          "options": [
+            "Condividere il titolo sui social media per avvertire la tua comunità",
+            "Controllare la data e la fonte dell’articolo e verificare la notizia con le forze dell’ordine locali o i rapporti del governo",
+            "Fidarsi del titolo se appare su un sito web popolare",
+            "Ignorare il titolo a meno che non si parli della notizia al telegiornale"
+          ],
+          "answers": [
+            "Controllare la data e la fonte dell’articolo e verificare la notizia con le forze dell’ordine locali o i rapporti del governo"
+          ],
+          "feedback_incorrect": "Continua a provarci! Il miglior passo da compiere per verificare l’accuratezza di una notizia di questo tipo è controllare la data e la fonte dell’articolo e verificare la notizia con le forze dell’ordine locali o i rapporti del governo. Questo metodo ti garantisce di basare la tua conoscenza su fonti attendibili e autorevoli piuttosto che diffondere potenziale disinformazione. Cercando rapporti o dichiarazioni ufficiali, puoi ottenere informazioni accurate e prendere decisioni consapevoli sulle notizie che colpiscono la tua comunità. Continua a esercitare le tue capacità di pensiero critico per consultare le notizie e navigare sui media efficacemente!",
+          "feedback_correct": "Ottimo lavoro! Hai capito che il miglior modo per verificare l’accuratezza di una notizia sulla crescita significativa del tasso di criminalità nella tua città è controllare la data e la fonte dell’articolo e verificare la notizia con le forze dell’ordine locali o i rapporti del governo. Questo approccio ti garantisce di ottenere informazioni da fonti attendibili e autorevoli. Confrontando le informazioni ottenute dagli articoli di cronaca e dai rapporti e dalle dichiarazioni ufficiali, puoi ottenere una comprensione più chiara della situazione e prendere decisioni consapevoli. Continua a usare le tue capacità di pensiero critico per consultare le notizie e navigare sui media responsabilmente."
+        }
+      ]
+    },
+    {
+      "author": "CPIP",
+      "topic": "Le teorie della verità",
+      "questions": [
+        {
+          "question": "La teoria pragmatica suggerisce che la verità di un’affermazione è determinata dalla sua utilità pratica. Cosa comporta per l’alfabetizzazione mediatica e digitale?",
+          "options": [
+            "Valutare la credibilità e la pragmaticità della notizia",
+            "Valutare le implicazioni pratiche della notizia e i risultati della sua applicazione",
+            "Valutare l’entità della conoscenza",
+            "Valutare la fonte della notizia"
+          ],
+          "answers": [
+            "Valutare la credibilità e la pragmaticità della notizia",
+            "Valutare le implicazioni pratiche della notizia e i risultati della sua applicazione"
+          ],
+          "feedback_incorrect": "Ci eri quasi! Non ti preoccupare, tutt3 noi commettiamo errori. La veridicità di una notizia rilasciata dai media può essere influenzata da quanto efficacemente soddisfa i bisogni o gli obiettivi pratici.",
+          "feedback_correct": "Wow, hai risposto correttamente! Sei veramente brav3! Viene sottolineata l’importanza di valutare le conseguenze e le implicazioni pratiche dei messaggi mediatici indipendentemente dalla correttezza dei fatti."
+        },
+        {
+          "question": "Il costruttivismo afferma che la verità viene costruita dai fattori contestuali, dai processi sociali e dalle interazioni. Cosa comporta per l’alfabetizzazione mediatica e digitale?",
+          "options": [
+            "Conoscere le fonti della notizia",
+            "Comprendere in che modo i fattori culturali e sociali influenzano ciò che viene percepito come vero",
+            "Comprendere il modo in cui le notizie influenzano il comportamento dei media",
+            "Comprendere il modo in cui i fattori contestuali delineano ciò che viene considerato vero"
+          ],
+          "answers": [
+            "Comprendere in che modo i fattori culturali e sociali influenzano ciò che viene percepito come vero",
+            "Comprendere il modo in cui i fattori contestuali delineano ciò che viene considerato vero"
+          ],
+          "feedback_incorrect": "Ci eri quasi! Non ti preoccupare, tutt3 noi commettiamo errori. La teoria non prende in considerazione le notizie ideali, assolute o la realtà oggettiva. ",
+          "feedback_correct": "Wow, hai risposto correttamente! Sei veramente brav3! Il costruttivismo nei media afferma che la verità si costruisce tramite i processi sociali e culturali."
+        }
+      ]
+    },
+    {
+      "author": "DANTE",
+      "topic": "Valutare i meccanismi contro la disinformazione",
+      "questions": [
+        {
+          "question": "Qual è l’obiettivo principale di valutare i meccanismi contro la disinformazione?",
+          "options": [
+            "Promuovere ideologie politiche specifiche",
+            "Valutare l’efficacia delle strategie contro la falsa informazione",
+            "Limitare la libertà di parola",
+            "Monitorare le attività online"
+          ],
+          "answers": ["Valutare l’efficacia delle strategie contro la falsa informazione"],
+          "feedback_incorrect": "Rifletti sul motivo per cui abbiamo bisogno di controllare se le strategie contro la disinformazione stanno funzionando bene. Si tratta di stabilire il loro successo nella riduzione della diffusione di notizie false. Quale opzione corrisponde a questo scopo?",
+          "feedback_correct": "Le strategie contro la falsa informazione includono una serie di misure come, ad esempio, la verifica dei fatti, i programmi di alfabetizzazione mediatica, le modifiche dell’algoritmo sui social media e le politiche normative. "
+        },
+        {
+          "question": "A cosa fa riferimento il termine disinformazione?",
+          "options": [
+            "Disinformazione accidentale",
+            "Notizie da fonti affidabili",
+            "Informazioni deliberatamente false o fuorvianti",
+            "Pettegolezzi non verificati"
+          ],
+          "answers": ["Informazioni deliberatamente false o fuorvianti"],
+          "feedback_incorrect": "Prendi in considerazione l’intenzione dietro la notizia. È stata creata con lo scopo di ingannare o fuorviare piuttosto che essere il risultato di un errore o di incertezza. ",
+          "feedback_correct": "Il termine disinformazione fa riferimento a notizie deliberatamente false o fuorvianti che vengono diffuse per ingannare o manipolare la gente. A differenza della misinformazione, che può essere diffusa non intenzionalmente o dovuta a un fraintendimento, la disinformazione è creata e disseminata con intenti malevoli."
+        },
+        {
+          "question": "Come si può misurare l’impatto dei meccanismi contro la disinformazione?",
+          "options": [
+            "Analizzando le tendenze alla base dell’engagement sui social media ",
+            "Aumentando le multe in caso di diffusione di disinformazione ",
+            "Limitando l’accesso alle piattaforme online",
+            "Introducendo norme più severe sull’uso di internet"
+          ],
+          "answers": ["Analizzando le tendenze alla base dell’engagement sui social media "],
+          "feedback_incorrect": "Un’efficace valutazione dei meccanismi contro la disinformazione comporta tracciare il modo in cui le notizie si diffondono e vengono recepite online. Quale opzione si concentra sull’individuazione del peso e dell’influenza della falsa informazione?",
+          "feedback_correct": "Un modo efficace di misurare l’impatto dei maccanismi contro la disinformazione è analizzare le tendenze alla base dell’engagement sui social media."
+        }
+      ]
+    },
+    {
+      "author": "DANTE",
+      "topic": "Creare progetti per combattere la disinformazione",
+      "questions": [
+        {
+          "question": "Qual è il miglior approccio per valutare il successo di un progetto che punta a combattere la disinformazione?",
+          "options": [
+            "Contare i like e le condivisioni sui social media",
+            "Analizzare i cambiamenti dei livelli di alfabetizzazione mediatica tra il pubblico di riferimento",
+            "Tracciare il numero di visite al sito web del progetto",
+            "Svolgere sondaggi sulla popolarità del progetto tra gli utenti"
+          ],
+          "answers": [
+            "Analizzare i cambiamenti dei livelli di alfabetizzazione mediatica tra il pubblico di riferimento"
+          ],
+          "feedback_incorrect": "Il successo dovrebbe essere misurato in base a quanto è migliorata la capacità della gente di accedere alle notizie in maniera critica.",
+          "feedback_correct": "Svolgi sondaggi, test e focus group preliminari per stabilire il livello di alfabetizzazione mediatica."
+        }
+      ]
+    },
+    {
+      "author": "ODYSSEA",
+      "topic": "Caratteristiche dell’epoca della post-verità",
+      "questions": [
+        {
+          "question": "Quali sono I fattori che contribuiscono alla diffusione della disinformazione nell’epoca della post-verità?",
+          "options": [
+            "Gli algoritmi dei social media favoriscono l’engagement.",
+            "Il declino del giornalismo tradizionale.",
+            "Aumento della fiducia pubblica nei media mainstream.",
+            "La proliferazione di siti web che pubblicano fake news."
+          ],
+          "answers": [
+            "Gli algoritmi dei social media favoriscono l’engagement.",
+            "Il declino del giornalismo tradizionale.",
+            "La proliferazione di siti web che pubblicano fake news."
+          ],
+          "feedback_incorrect": "I media mainstream, nonostante i loro difetti, generalmente aderiscono ai criteri del giornalismo sulla verifica dei fatti e delle fonti e sulla supervisione editoriale. Una maggiore fiducia in queste fonti implica che il pubblico è più propenso a consumare notizie che sono state verificate e comprovate, riducendo la probabilità di incontrare e diffondere false notizie. La stampa mainstream è anche più propensa a correggere gli errori e fornire un contesto, riducendo ulteriormente al minimo il rischio di disinformazione. Al contrario, la disinformazione fiorisce negli ambienti in cui la fiducia è riposta su fonti non verificate come, ad esempio, i social media e i siti web di fake news in cui non vengono applicati i criteri rigorosi del giornalismo mainstream.",
+          "feedback_correct": "Gli algoritmi dei social media sono progettati per ottimizzare l’engagement degli utenti, promuovendo contenuti che generano forti reazioni emotive, spesso favorendo notizie sensazionalistiche o polarizzanti al posto di riportare le notizie accuratamente. Questo incoraggia la diffusione di notizie fuorvianti o false che catturano l’attenzione. Il declino del giornalismo tradizionale, segnato dalla riduzione dei fondi e dei dipendenti, conduce a riportare le notizie e verificare i fatti in maniera meno rigorosa, indebolendo una fonte principale di informazioni affidabili. Inoltre, la nascita di siti web di fake news, creati per ingannare e manipolare, sommerge ulteriormente il panorama delle notizie con informazioni false. Questi siti web spesso sfruttano i vuoti di credibilità derivati dal declino dei media tradizionali e fanno leva sui social media per raggiungere un pubblico più ampio, amplificando la diffusione della disinformazione. "
+        },
+        {
+          "question": "Quali effetti provoca vivere nell’epoca della post-verità?",
+          "options": [
+            "Polarizzazione dell’opinione pubblica.",
+            "Potenziamento delle capacità di pensiero critico.",
+            "Difficoltà a distinguere i fatti dalle opinioni.",
+            "Affidarsi maggiormente alle sollecitazioni emotive nel dibattitto politico."
+          ],
+          "answers": [
+            "Polarizzazione dell’opinione pubblica.",
+            "Difficoltà a distinguere i fatti dalle opinioni.",
+            "Affidarsi maggiormente alle sollecitazioni emotive nel dibattitto politico."
+          ],
+          "feedback_incorrect": "Nella società della post-verità, la gente privilegia le notizie in linea con le loro conoscenze e le loro emozioni, spesso a discapito dell’analisi logica e del ragionamento basato sui fatti. Questo ambiente scoraggia lo sviluppo delle capacità di pensiero critico, che richiedono la capacità di valutare le informazioni in maniera oggettiva, mettere in dubbio le fonti e prendendo in considerazione molteplici prospettive. L’epoca della post-verità, invece, privilegia le narrative semplici e sensazionalistiche che minano lo sviluppo del pensiero critico.",
+          "feedback_correct": "La polarizzazione dell’opinione pubblica, la difficoltà a distinguere i fatti dalle opinioni e il maggior affidamento sulle sollecitazioni emotive nei dibattiti politici sono gli effetti di vivere nell’epoca della post-verità perché derivano dal ruolo minore dei fatti oggettivi nella formulazione di convinzioni e decisioni. Nella società della post-verità, la gente gravita intorno alle notizie che rafforzano la loro idee, portando a una maggiore polarizzazione poiché i gruppi di opposizione fortificano a loro volta le loro convinzioni. La linea sottile tra fatti e opinioni viene esacerbata dalla prevalenza di disinformazione e dal declino del giornalismo affidabile basato sui fatti, rendendo difficile per la gente distinguere le notizie accurate dalle narrazioni soggettive e false. "
+        }
+      ]
+    },
+    {
+      "author": "SYNCIFY",
+      "topic": "L’impatto della “disinfodemia” sulla sanità",
+      "questions": [
+        {
+          "question": "In che modo la “disinfodemia” colpisce l’adesione pubblica alle linee guida della sanità?",
+          "options": [
+            "Incoraggia la conformità alle linee guida",
+            "Porta a essere confusi sulle pratiche sanitarie",
+            "Aumenta la resistenza a seguire i suggerimenti della sanità pubblica",
+            "Rafforza la credibilità delle autorità sanitarie",
+            "Promuove la diffusione di pratiche sanitarie non sicure"
+          ],
+          "answers": [
+            "Porta a essere confusi sulle pratiche sanitarie",
+            "Aumenta la resistenza a seguire i suggerimenti della sanità pubblica",
+            "Promuove la diffusione di pratiche sanitarie non sicure"
+          ],
+          "feedback_incorrect": "Riprova! La “disinfodemia non incoraggia la conformità alle linee guida né rafforza la credibilità delle autorità sanitarie.",
+          "feedback_correct": "Hai indovinato! La “disinfodemia” genera confusione verso le pratiche sanitarie, aumenta la resistenza a seguire i suggerimenti della sanità pubblica e promuove la diffusione di pratiche sanitarie non sicure."
+        },
+        {
+          "question": "Quali sono le conseguenze negative della “disinfodemia” sulla salute mentale?",
+          "options": [
+            "Aumento di ansia e stress",
+            "Miglioramento della resilienza mentale",
+            "Diffusione della disinformazione sulle cure relative alla salute mentale",
+            "Potenziamento della conoscenza pubblica sulle questioni relative alla salute mentale",
+            "Sfiducia nei confronti del personale sanitario che si occupa di salute mentale"
+          ],
+          "answers": [
+            "Aumento di ansia e stress",
+            "Diffusione della disinformazione sulle cure relative alla salute mentale",
+            "Sfiducia nei confronti del personale sanitario che si occupa di salute mentale"
+          ],
+          "feedback_incorrect": "Non esattamente. La “disinfodemia” non migliora la resilienza mentale né potenzia la conoscenza pubblica sulle questioni relative alla salute mentale. Provaci ancora!",
+          "feedback_correct": "Corretto! La “disinfodemia” può causare un aumento di ansia e stress, la diffusione della disinformazione sulle cure relative alla salute mentale e la sfiducia nei confronti del personale sanitario che si occupa di salute mentale."
+        }
+      ]
+    },
+    {
+      "author": "TRH",
+      "topic": "L’importanza della verità nel giornalismo",
+      "questions": [
+        {
+          "question": "Quale delle seguenti opzioni è un principio fondamentale del giornalismo etico?",
+          "options": ["Sensazionalismo", "Accuratezza", "Pregiudizio", "Imparzialità"],
+          "answers": ["Accuratezza", "Imparzialità"],
+          "feedback_incorrect": "Hai quasi indovinato. Provaci ancora! Il sensazionalismo non è un principio fondamentale del giornalismo etico - anzi è l’esatto opposto! Ciò significa ingigantire le cose e riempire i contenuti di linguaggio emotivo per provocare una forte reazione emotiva. Invece, è difficile evitare completamente i pregiudizi poiché tutt3 abbiamo pregiudizi innati di cui potremmo non essere a conoscenza. Ciò nonostante è importante provare a eliminarli per garantire un giornalismo il più etico possibile. ",
+          "feedback_correct": "Ottimo lavoro, è corretto! Il sensazionalismo non è un principio fondamentale del giornalismo etico - anzi è l’esatto opposto! Significa, infatti, ingigantire le cose e riempire i contenuti di linguaggio emotivo per provocare una forte reazione emotiva. Invece, è difficile evitare completamente i pregiudizi poiché tutt3 abbiamo pregiudizi innati di cui potremmo non essere a conoscenza. Ciò nonostante è importante provare a eliminarli per garantire un giornalismo il più etico possibile. Un3 giornalist3 etic3 è chi prova a riportare le notizie nella maniera più accurata e imparziale possibile. "
+        },
+        {
+          "question": "Perché è importante per l3 giornalist3 verificare le proprie fonti?",
+          "options": [
+            "Per offrire una serie di opinioni imparziali",
+            "Per garantire che le notizie siano accurate",
+            "Per creare storie interessanti",
+            "Per promuovere le opinioni personali"
+          ],
+          "answers": [
+            "Per offrire una serie di opinioni imparziali",
+            "Per garantire che le notizie siano accurate"
+          ],
+          "feedback_incorrect": "Hai quasi indovinato. Provaci ancora! L3 giornalist3 etic3 non si concentrano sulla creazione di storie interessanti, ma provano a raccontare una notizia accuratamente, fornendo input imparziali sulla situazione. ",
+          "feedback_correct": "Ottimo lavoro, è corretto! L3 giornalist3 etic3 non si concentrano sulla creazione di storie interessanti, ma provano a raccontare una notizia accuratamente, fornendo input imparziali sulla situazione."
+        },
+        {
+          "question": "Quale delle seguenti dichiarazioni potrebbe essere associata con il termine “fake news”? ",
+          "options": [
+            "Notizia noiosa",
+            "Notizia che presenta fatti sbagliati",
+            "Notizia deliberatamente fuorviante",
+            "Notizia che intrattiene"
+          ],
+          "answers": ["Notizia che presenta fatti sbagliati", "Notizia deliberatamente fuorviante"],
+          "feedback_incorrect": "Hai quasi indovinato. Provaci ancora! Le fake news sono una forma di disinformazione che è deliberatamente fuorviante e non vera. A volte vengono create per intrattenere e seminare ulteriore disinformazione tra la gente, ma ciò che le contraddistingue è la narrazione falsa e generatrice di un dibattito.",
+          "feedback_correct": "Ottimo lavoro, è corretto! Le fake news sono una forma di disinformazione che è deliberatamente fuorviante e non vera. A volte vengono create per intrattenere e seminare ulteriore disinformazione tra la gente, ma ciò che le contraddistingue è la narrazione falsa e generatrice di un dibattito."
+        }
+      ]
+    },
+    {
+      "author": "TRH",
+      "topic": "Creare progetti per combattere la disinformazione",
+      "questions": [
+        {
+          "question": "Quando si delinea un progetto per combattere la disinformazione, quale delle seguenti strategie è la più efficace per garantire ai partecipanti di valutare in maniera critica le fonti di informazione?",
+          "options": [
+            "Incoraggiare i partecipanti a condividere qualsiasi informazione trovata senza verificarla",
+            "Insegnare ai partecipanti il modo in cui individuare le fonti credibili e verificare i fatti di una notizia",
+            "Concentrarsi solamente sulla creazione di contenuti coinvolgenti senza prestare attenzione all’accuratezza",
+            "Limitare l’accesso dei partecipanti a una varietà di fonti di informazione"
+          ],
+          "answers": [
+            "Insegnare ai partecipanti il modo in cui individuare le fonti credibili e verificare i fatti di una notizia"
+          ],
+          "feedback_incorrect": "Hai quasi indovinato. Provaci ancora! Quando si insegna ai partecipanti a valutare i contenuti criticamente, è fondamentale che imparino a verificare le notizie e i fatti, individuare le fonti credibili e accurate ed esaminare una gamma di opinioni il più ampia possibile.",
+          "feedback_correct": "Ottimo lavoro, è corretto! Quando si insegna ai partecipanti a valutare i contenuti criticamente, è fondamentale che imparino a verificare le notizie e i fatti, individuare le fonti credibili e accurate ed esaminare una gamma di opinioni il più ampia possibile."
+        },
+        {
+          "question": "Quale dei seguenti approcci è il meno efficace in un progetto che mira a combattere la disinformazione?",
+          "options": [
+            "Fornire ai partecipanti gli strumenti e le risorse per verificare l’autenticità di un articolo",
+            "Educare i partecipanti alle tattiche comuni usate nella diffusione della disinformazione",
+            "Promuovere la fiducia totale nelle notizie pubblicate da tutte le fonti mediatiche mainstream",
+            "Incoraggiare il pensiero critico e lo scetticismo verso le notizie non verificate"
+          ],
+          "answers": [
+            "Promuovere la fiducia totale nelle notizie pubblicate da tutte le fonti mediatiche mainstream"
+          ],
+          "feedback_incorrect": "Hai quasi indovinato. Provaci ancora! Alcune delle opzioni sarebbero davvero efficaci nella lotta alla disinformazione come, ad esempio, l’uso di strumenti educativi e di verifica. Ma quale opzione sarebbe la meno efficace per contrastare le fake news?",
+          "feedback_correct": "Ottimo lavoro, è corretto! Promuovere la fiducia totale nelle notizie pubblicate da tutte le fonti mediatiche mainstream non è una strategia efficace per eliminare o rallentare la diffusione della disinformazione.  Invece, ci dovremmo concentrare sull’individuazione degli strumenti e delle risorse giuste per il supporto, promuovere l’educazione su un argomento e incoraggiare lo scetticismo verso le notizie di dubbia qualità e credibilità."
+        }
+      ]
+    }
+  ],
+  "FillInTheBlank": [
+    {
+      "author": "CESIE",
+      "topic": "Applicare l’alfabetizzazione mediatica in contesti pratici",
+      "questions": [
+        {
+          "question": "Quando si valuta un articolo di cronaca, è importante prendere in considerazione la_ da cui sono tratte le informazioni e verificarle tramite diverse fonti attendibili prima di trarre le proprie conclusioni.",
+          "answers": [["Fonte"]],
+          "feedback_incorrect": "Bel tentativo! Anziché concentrarsi esclusivamente sulla fonte delle informazioni, l’approccio migliore è quello di valutare la credibilità della fonte e di verificare le informazioni, consultando più fonti attendibili prima di trarre le proprie conclusioni. Questo metodo ti garantisce di basare la comprensione delle notizie su numerose prospettive, riducendo il rischio di disinformazione. Incrociando le informazioni tratte da diverse fonti attendibili, puoi avere una visione dell’argomento più approfondita e prendere decisioni in maniera consapevole.",
+          "feedback_correct": "Ottimo lavoro! Hai correttamente individuato che i passaggi fondamentali da compiere quando si valuta un articolo di cronaca prima di trarre le proprie conclusioni sono prendere in considerazione la fonte da cui sono tratte le informazioni e verificarle tramite diverse fonti attendibili. Questo metodo garantisce che la tua conoscenza si basi su informazioni attendibili e adeguatamente dimostrate, riducendo il rischio di disinformazione. Incrociando le informazioni tratte da diverse fonti attendibili, puoi formulare una prospettiva sull’argomento più imparziale e accurata. "
+        },
+        {
+          "question": "Prima di condividere le notizie sui social media, è fondamentale valutare la_ del contenuto per evitare di diffondere la disinformazione.",
+          "answers": [["credibilità"]],
+          "feedback_incorrect": "La prossima volta andrà meglio! Anziché supporre che tutte le notizie siano accurate o ignorare la necessità di verificarne la credibilità, è fondamentale valutare la credibilità del contenuto prima di condividerlo per prevenire la diffusione di disinformazione. Verificando l’affidabilità e l’accuratezza delle notizie prima di condividerle con altr3, puoi contribuire alla promozione di contenuti affidabili e alla creazione di una comunità online più consapevole. Praticare questo approccio rafforza la tua capacità di distinguere le fonti affidabili da quelle potenzialmente fuorvianti.",
+          "feedback_correct": "Hai correttamente individuato che quando si condividono notizie sui social media è fondamentale valutare la credibilità del contenuto per evitare la diffusione di disinformazione. Valutando la credibilità delle notizie prima di condividerle, puoi contribuire a garantire che il contenuto siano accurato e affidabile. Questa pratica promuove la condivisione responsabile dei contenuti e contribuisce a mantenere l’integrità delle notizie che circolano nei social media. Ben fatto!"
+        }
+      ]
+    },
+    {
+      "author": "CPIP",
+      "topic": "Le teorie della verità",
+      "questions": [
+        {
+          "question": "Secondo il_, un’affermazione si può considerare vera se corrisponde alla realtà o a fatti osservabili.",
+          "answers": [["Corrispondentismo"]],
+          "feedback_incorrect": "Ci eri quasi! Non ti preoccupare, tutt3 noi commettiamo errori. Tieni a mente che la disinformazione può manipolare il dibattito pubblico.",
+          "feedback_correct": "Wow, hai risposto correttamente! Sei veramente brav3! La disinformazione può stravolgere le priorità dell’opinione pubblica."
+        },
+        {
+          "question": "Secondo la prospettiva del_, la verità si costruisce tramite processi sociali e culturali, rispecchiando le norme e i valori della comunità. ",
+          "answers": [["Costruttivismo"]],
+          "feedback_incorrect": "Ci eri quasi! Non ti preoccupare, tutt3 noi commettiamo errori. Tieni a mente che la disinformazione può manipolare il dibattito pubblico.",
+          "feedback_correct": "Wow, hai risposto correttamente! Sei veramente brav3! La disinformazione può stravolgere le priorità dell’opinione pubblica."
+        },
+        {
+          "question": "Secondo il_, la verità di un’affermazione dipende dalla sua coerenza all’interno di un sistema logico di convinzioni o affermazioni.",
+          "answers": [["Coerentismo"]],
+          "feedback_incorrect": "Ci eri quasi! Non ti preoccupare, tutt3 noi commettiamo errori. Si tratta di assumere come criterio per determinare la verità l’armonia interna tra le idee.",
+          "feedback_correct": "Wow, hai risposto correttamente! Sei veramente brav3! La verità di un’affermazione dipende da quanto è coerente da un punto di vista logico all’interno di un sistema di credenze."
+        }
+      ]
+    },
+    {
+      "author": "DANTE",
+      "topic": "Valutare i meccanismi contro la disinformazione",
+      "questions": [
+        {
+          "question": "I programmi di alfabetizzazione mediatica hanno lo scopo di migliorare la capacità della gente di_ le notizie in maniera critica, rendendola meno suscettibile alla disinformazione.",
+          "answers": [["valutare"]],
+          "feedback_incorrect": "I programmi di alfabetizzazione mediatica si concentrano sul potenziamento delle competenze che permettono alla gente di valutare l’accuratezza e la credibilità delle notizie.  Quale opzione corrisponde a questo obiettivo?",
+          "feedback_correct": "I programmi di alfabetizzazione mediatica sono iniziative formative, ideate per insegnare alla gente il modo cui accedere, analizzare, valutare e creare contenuti mediatici in modo critico. "
+        },
+        {
+          "question": "Per valutare il successo delle strategie contro la disinformazione, è fondamentale analizzare il_ e l’impatto che le notizie false hanno prima e dopo la loro realizzazione. ",
+          "answers": [["peso"]],
+          "feedback_incorrect": "Eseguire una valutazione efficace delle strategie contro la disinformazione significa esaminare quanto sono diffuse le informazioni false e quale effetto hanno sull’opinione pubblica. Qual è il termine che descrive meglio questo aspetto dell’analisi?",
+          "feedback_correct": "Prima di attuare le strategie contro la disinformazione, è fondamentale definire dei parametri di riferimento per comprendere la prevalenza e l’impatto attuale delle informazioni false."
+        }
+      ]
+    },
+    {
+      "author": "DANTE",
+      "topic": "Creare progetti per combattere la disinformazione",
+      "questions": [
+        {
+          "question": "Una delle componenti principali di un progetto realizzato per combattere la disinformazione è l’_, che consiste nell’educazione e nella formazione della gente al riconoscimento delle notizie false e nel miglioramento delle loro competenze di alfabetizzazione mediatica.",
+          "answers": [["Educazione pubblica"]],
+          "feedback_incorrect": "La componente principale consiste nel fornire le conoscenze e le competenze necessarie per individuare e riconoscere le notizie false nei media.",
+          "feedback_correct": "L’educazione pubblica all’alfabetizzazione mediatica implica insegnare alla gente il modo in cui valutare, analizzare e creare contenuti mediatici in modo critico. L’obiettivo è quello di incoraggiare la gente a diventare consumator3 e creator3 di contenuti mediatici attent3, riconoscendo i pregiudizi, comprendendo l’influenza dei media sull’opinione pubblica e usando i media per comunicare ed esprimersi in maniera efficace."
+        }
+      ]
+    },
+    {
+      "author": "ODYSSEA",
+      "topic": "Caratteristiche dell’epoca della post-verità",
+      "questions": [
+        {
+          "question": "Nell’epoca della post-verità, l’influenza delle_ spesso ha un peso maggiore rispetto ai fatti oggettivi.",
+          "answers": [["emozioni"]],
+          "feedback_incorrect": "Nell’epoca della post-verità, le emozioni sono importanti perché stimolano il coinvolgimento della gente e influenzano le opinioni in maniera più efficace dei fatti oggettivi.",
+          "feedback_correct": "Le sollecitazioni emotive riecheggiano nelle persone, poiché corrispondono alle loro credenze personali e alle loro identità. Gli algoritmi dei social media favoriscono i contenuti sensazionali, amplificando il loro peso e il loro impatto. La risonanza emotiva crea narrazioni forti e memorabili che spesso oscurano l’accuratezza dei fatti. Di conseguenza, le emozioni plasmano il dibattito pubblico e il processo decisionale nell’epoca della post-verità."
+        },
+        {
+          "question": "La diffusione della disinformazione nell’epoca della post-verità è accelerata dai_ media.",
+          "answers": [["social"]],
+          "feedback_incorrect": "I social media amplificano la disinformazione e le camere d’eco, rinforzando le credenze personali e riducendo l’esposizione a prospettive differenti.",
+          "feedback_correct": "I social media amplificano la disinformazione e le camere d’eco, rinforzando le credenze personali e riducendo l’esposizione a prospettive differenti."
+        }
+      ]
+    },
+    {
+      "author": "ODYSSEA",
+      "topic": "L’impatto della “disinfodemia” sulla salute",
+      "questions": [
+        {
+          "question": "A causa della diffusione della disinformazione, alcune persone potrebbero decidere di abbandonare i trattamenti basati sull’_ a favore di trattamenti non dimostrati.",
+          "answers": [["evidenza"]],
+          "feedback_incorrect": "Pensa a quali sono i trattamenti tipicamente supportati dalla ricerca scientifica e consigliati dal personale medico e sanitario.",
+          "feedback_correct": "Eccellente! Hai riconosciuto l’importanza dei trattamenti che sono dimostrati dalla ricerca scientifica."
+        },
+        {
+          "question": "La falsa informazione sui rischi della salute può provocare un diffuso_, portando la gente a evitare di sottoporsi a cure mediche necessarie.",
+          "answers": [["panico"]],
+          "feedback_incorrect": "Pensa alla risposta emotiva che porta le persone a evitare di sottoporsi a cure mediche necessarie per paura.",
+          "feedback_correct": "Ottimo! Hai individuato quella sensazione di panico ampiamente diffusa che può portare la gente a evitare di sottoporsi a cure mediche necessarie."
+        }
+      ]
+    },
+    {
+      "author": "TRH",
+      "topic": "L’importanza della verità nel giornalismo",
+      "questions": [
+        {
+          "question": "Per evitare i pregiudizi, l3 giornalist3 dovrebbero fornire punti di vista_ quando riportano una notizia.",
+          "answers": [["imparziali"]],
+          "feedback_incorrect": "Ci sei quasi. Provaci ancora! Il pregiudizio è difficile da eliminare del tutto poiché tutt3 abbiamo intrinsecamente dei pregiudizi di cui potremmo non essere consapevoli. Tuttavia, è facile evitare i pregiudizi nel giornalismo se ci si concentra sul fornire punti vista imparziali e accurati.",
+          "feedback_correct": "Ottimo lavoro, è giusto! È difficile eliminare del tutto i pregiudizi poiché tutt3 abbiamo intrinsecamente dei pregiudizi di cui potremmo non essere consapevoli. Tuttavia, è facile evitare i pregiudizi nel giornalismo se ci si concentra sul fornire punti vista imparziali e accurati"
+        },
+        {
+          "question": "La credibilità della stampa è spesso determinata dall’ impegno nell’_ e nella trasparenza.",
+          "answers": [["accuratezza"]],
+          "feedback_incorrect": "Ci sei quasi. Provaci ancora! Le testate giornalistiche che si occupano di giornalismo etico dovrebbero concentrarsi il più possibile sul fornire reportage accurati, trasparenti e credibili, i cui fatti sono rigorosamente verificati.",
+          "feedback_correct": "Ottimo lavoro, è giusto! Le testate giornalistiche che si occupano di giornalismo etico dovrebbero concentrarsi il più possibile sul fornire reportage accurati, trasparenti e credibili, i cui fatti sono rigorosamente verificati."
+        }
+      ]
+    }
+  ]
+}

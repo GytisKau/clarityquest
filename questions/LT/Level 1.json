@@ -1,0 +1,642 @@
+{
+  "ChooseTheCorrectAnswer": [
+    {
+      "author": "CESIE",
+      "topic": "Faktų tikrinimo pagrindai",
+      "questions": [
+        {
+          "question": "Kuris iš šių veiksmų yra geriausias pirmas žingsnis norint patikrinti, ar naujiena yra teisinga?",
+          "options": [
+            "Dalintis su draugais",
+            "Ieškoti autoriaus vardo ir patikrinti jo patikimumą",
+            "Manyti, kad tai tiesa, nes tai atrodo tikra",
+            "Visiškai ją ignoruoti"
+          ],
+          "correctOption": "Ieškoti autoriaus vardo ir patikrinti jo patikimumą",
+          "feedback_incorrect": "Puikus bandymas! Klysti yra normalu - taip mes mokomės. Kai nesate tikri, ar naujienų istorija yra teisinga, svarbu ieškoti autoriaus vardo ir patikrinti, ar jis yra patikimas. Autoriai, kurie yra ekspertai arba dirba patikimose organizacijose, paprastai pateikia tikslią informaciją. Kitą kartą nepamirškite patikrinti, kas parašė istoriją, prieš ja patikėdami!",
+          "feedback_correct": "Puikiai padirbėta! Autoriaus vardo paieška ir jo patikimumo patikrinimas yra svarbus žingsnis tikrinant, ar naujienų istorija yra teisinga. Autoriai, kurie yra savo srities ekspertai arba dirba autoritetingose organizacijose, greičiausiai pateiks tikslią informaciją. Visada atminkite, kad patikrinimas, kas parašė istoriją, gali padėti nuspręsti, ar galite pasitikėti tuo, ką skaitote."
+        },
+        {
+          "question": "Jei internete pamatėte nuotrauką, kuri atrodo keista ar stebinanti, ką turėtumėte daryti, kad patikrintumėte, ar ji tikra?",
+          "options": [
+            "Naudoti atvirkštinę vaizdų paiešką, kad būtų galima rasti, kur dar rodomas paveikslėlis",
+            "Iš karto patikėti",
+            "Paklausti draugo, ar jis mano, kad tai tikra",
+            "Ignoruoti ir judėti toliau"
+          ],
+          "correctOption": "Naudoti atvirkštinę vaizdų paiešką, kad būtų galima rasti, kur dar rodomas paveikslėlis",
+          "feedback_incorrect": "Geras bandymas! Mes mokomės iš klaidų. Kai internete pamatote nuotrauką, kuri atrodo keista, naudodami atvirkštinę vaizdų paiešką galite patikrinti, ar ji tikra. Ši priemonė padeda sužinoti, kur dar buvo naudota ši nuotrauka, ir gali daugiau papasakoti apie jos kilmę. Toliau praktikuokitės, ir jums dar geriau seksis atpažinti suklastotus paveikslėlius!",
+          "feedback_correct": "Puikiai padirbėta! Naudojant atvirkštinę vaizdų paiešką ir ieškant, kur dar yra paveikslėlis, galima patikrinti, ar jis tikras. Tai padeda sužinoti, ar paveikslėlis buvo naudotas kitose vietose ar kontekstuose, o tai gali suteikti informacijos apie tai, ar juo galima pasitikėti. Tęskite puikų darbą ir tapkite žiniasklaidos raštingumo detektyvais!"
+        },
+        {
+          "question": "Koks yra patikimas būdas patikrinti, ar svetainė yra verta pasitikėjimo?",
+          "options": [
+            "Pažiūrėti, ar svetainėje yra daug reklamų",
+            "Patikrinti svetainės „Apie mus“ puslapį ir sužinoti, ar jame pateikiama informacija apie autorius ir jų kvalifikaciją",
+            "Atkreipti dėmesį į tai, kokia spalvinga yra svetainė",
+            "Pažiūrėti, ar jūsų draugams patinka ši svetainė"
+          ],
+          "correctOption": "Patikrinti svetainės „Apie mus“ puslapį ir sužinoti, ar jame pateikiama informacija apie autorius ir jų kvalifikaciją",
+          "feedback_incorrect": "Gerai pasistengta! Visi galime daryti klaidų, jos padeda mums mokytis. Kai nesate tikri, ar svetainė yra patikima, geras žingsnis yra patikrinti puslapį „Apie mus“, kuriame rasite informacijos apie autorius ir jų kvalifikaciją. Tai padės jums įsitikinti, ar už svetainę atsakingi žmonės yra patikimi. Toliau praktikuokitės, ir jums dar geriau seksis tikrinti faktus!",
+          "feedback_correct": "Nuostabu! Patikrinti svetainės puslapį „Apie mus“ ir sužinoti, ar jame pateikiama informacija apie autorius ir jų kvalifikaciją, yra protingas žingsnis. Tai padeda išsiaiškinti, ar svetainė yra patikima ir ar informacija yra pagrįsta."
+        }
+      ]
+    },
+    {
+      "author": "CPIP",
+      "topic": "Dažniausiai pasitaikantis melagingas turinys žiniasklaidos platformose",
+      "questions": [
+        {
+          "question": "Kas atsitinka, kai renginio nuotraukos ar vaizdo įrašai yra paimti iš kitų renginių?",
+          "options": [
+            "Įvyko nesusipratimas",
+            "Pateiktas klaidingas atributas",
+            "Esama gerų ketinimų",
+            "Bendras turinio naudojimas"
+          ],
+          "correctOption": "Pateiktas klaidingas atributas",
+          "feedback_incorrect": "Jums nedaug trūko! Viskas gerai, visi darome klaidų. Žinokite, kad skirtingi įvykiai turi skirtingus vaizdus ir skirtingus tikslus.",
+          "feedback_correct": "Oho, atsakėte teisingai! Jums tai puikiai sekasi! Nepamirškite, kad kai skelbiame nuotraukas ar vaizdo įrašus iš renginio ir (arba) jo metu, jos turi būti autentiškos."
+        },
+        {
+          "question": "Kaip manote, koks yra žiniasklaidos vaidmuo ir atsakomybė dezinformacijos skleidime?",
+          "options": [
+            "Patikimų šaltinių pasirinkimas",
+            "Skirtingo turinio skelbimas",
+            "Sensacingos antraštės arba nepatikimi šaltiniai gali skleisti klaidingą informaciją",
+            "Istorijų tikrinimas prieš jas publikuojant"
+          ],
+          "correctOption": "Sensacingos antraštės arba nepatikimi šaltiniai gali skleisti klaidingą informaciją",
+          "feedback_incorrect": "Jums nedaug trūko! Viskas gerai, visi darome klaidų. Žiniasklaida ir žurnalistai etiškai privalo tikrinti šaltinius ir skelbiamas istorijas.",
+          "feedback_correct": "Oho, atsakėte teisingai! Jums tai puikiai sekasi! Žiniasklaida ir žurnalistai gali sustiprinti dezinformaciją, pateikdami melagingas istorijas ir kurdami sensacingas antraštes."
+        }
+      ]
+    },
+    {
+      "author": "DANTE",
+      "topic": "Dezinformacijos tipai",
+      "questions": [
+        {
+          "question": "Kaip vadinama, kai kas nors sujungia du dalykus, kad atrodytų, jog jie susiję, bet taip nėra?",
+          "options": [
+            "Juokingos istorijos",
+            "Klaidingas ryšys",
+            "Magijos triukai",
+            "Gyvūnų nuotykiai"
+          ],
+          "correctOption": "Klaidingas ryšys",
+          "feedback_incorrect": "Kartais žmonės stengiasi, kad dalykai atrodytų susiję, nors iš tikrųjų taip nėra. Tai tarsi bandymas sudėti dvi dėlionės dalis, kurios iš tikrųjų nesutampa. Kaip vadiname tai, kai dalykai yra susieti taip, kaip nėra iš tikrųjų?",
+          "feedback_correct": "Klaidingas ryšys yra tai, kai kas nors bando du dalykus pateikti kaip susijusius, nors jie visai nesusiję."
+        },
+        {
+          "question": "Kaip vadiname informaciją, kuria siekiama apgauti žmones, neparodant visos istorijos?",
+          "options": [
+            "Juokingos istorijos",
+            "Klaidinantis turinys",
+            "Stebuklingi nuotykiai",
+            "Pasakos apie gyvūnus"
+          ],
+          "correctOption": "Klaidinantis turinys",
+          "feedback_incorrect": "Įsivaizduokite, kad kas nors jums papasakojo tik dalį, o ne visą istorijos. Galbūt nesuprastumėte, kas iš tiesų įvyko. Kaip vadiname tai, kai informacija neparodo visko ir bando mus priversti patikėti tuo, kas gali būti netiesa?",
+          "feedback_correct": "Klaidinantis turinys - tai informacija, kuria bandoma apgauti žmones neparodant visos istorijos arba pateikiant ką nors kitaip, nei yra iš tikrųjų. Tai panašu į atvejus, kai kas nors jums papasakoja tik dalį istorijos, kad priverstų patikėti kažkuo, kas gali būti netiesa."
+        },
+        {
+          "question": "Kaip vadiname istorijas, kurios yra visiškai išgalvotos ir neatitinka tikrovės?",
+          "options": [
+            "Nuotykių istorijos",
+            "Suklastotas turinys",
+            "Paslapčių istorijos",
+            "Gyvūnų nuotykiai"
+          ],
+          "correctOption": "Suklastotas turinys",
+          "feedback_incorrect": "Kartais žmonės pasakoja istorijas, kurios primena pasakas - jos skamba įdomiai, bet nėra tikros. Kaip vadiname istorijas, kurios yra išgalvotos ir neatitinka tikrovės?",
+          "feedback_correct": "Suklastotas turinys yra tarsi visiškai išgalvotos istorijos - jos nėra tikros ir neįvyko. Tai tarsi pasakos rašymas arba juokingos istorijos kūrimas, kuri nėra pagrįsta tikrais įvykiais."
+        }
+      ]
+    },
+    {
+      "author": "ODYSSEA",
+      "topic": "Klaidinančio turinio nagrinėjimas",
+      "questions": [
+        {
+          "question": "Kuris iš toliau išvardintų požymių rodo, kad straipsnyje gali būti klaidinančio turinio?",
+          "options": [
+            "Jame daug rašybos ir gramatikos klaidų.",
+            "Jame yra paveikslėlių ir nuotraukų.",
+            "Jį parašė žinomas žurnalistas.",
+            "Jame pateikiama daug nuorodų ir šaltinių."
+          ],
+          "correctOption": "Jame daug rašybos ir gramatikos klaidų.",
+          "feedback_incorrect": "Paprastai straipsnis yra patikimas, jei jame yra realių nuotraukų, nuorodų ir šaltinių ir jei jį parašė žinomas žurnalistas.",
+          "feedback_correct": "Straipsnyje pastebėtos gramatikos ir rašybos klaidos yra aiškus ženklas, kad straipsnis nėra iš patikimo šaltinio ir jame gali būti klaidinančio turinio. Gerai žinomuose šaltiniuose paprastai taikomas griežtas redagavimo procesas, kuriuo siekiama užtikrinti tikslumą ir kokybę."
+        },
+        {
+          "question": "Ką pirmiausia turėtumėte daryti, jei internete pamatote keistą naujieną?",
+          "options": [
+            "Nedelsiant pasidalinti ja su visais draugais.",
+            "Patikrinti, ar naujienos gautos iš patikimo šaltinio.",
+            "Patikėti ja net negalvojant.",
+            "Paskelbti ją socialiniuose tinkluose."
+          ],
+          "correctOption": "Patikrinti, ar naujienos gautos iš patikimo šaltinio.",
+          "feedback_incorrect": "Prieš dalindamiesi naujienomis, tikėdami jomis ar skelbdami jas socialiniuose tinkluose, svarbu patikrinti, iš kur gauta naujiena ir ar šis šaltinis yra patikimas.",
+          "feedback_correct": "Jei internete pamatėte keistą naujieną, patikrinkite, ar ji gauta iš patikimo šaltinio. Patikrinkite svetainės patikimumą, ieškokite autoriaus duomenų, pažiūrėkite, ar apie istoriją praneša kitos patikimos naujienų svetainės."
+        },
+        {
+          "question": "Koks būdas yra geras patikrinti, ar informacija yra teisinga?",
+          "options": [
+            "Pažiūrėti, ar ji turi daug „patiktukų“ ir komentarų.",
+            "Ieškoti informacijos ta pačia tema skirtinguose šaltiniuose.",
+            "Paklausti draugų nuomonės.",
+            "Pažiūrėti, ar ją paskelbė garsenybė."
+          ],
+          "correctOption": "Ieškoti informacijos ta pačia tema skirtinguose šaltiniuose.",
+          "feedback_incorrect": "Socialinėje žiniasklaidoje dažnai skelbiama dezinformacija, kuri vis dėlto sulaukia daugybės vartotojų „patiktukų“ ir komentarų. Net ir kalbėdami su draugais negalime patikrinti informacijos tikrumo, nes jie patys galėjo tapti dezinformacijos aukomis, o įžymybės dažnai ją perduoda nepatikrinę.",
+          "feedback_correct": "Tos pačios temos paieška skirtinguose šaltiniuose yra geras būdas patikrinti, ar informacija yra teisinga, nes taip galite patikrinti faktų tikslumą. Keli patikimi šaltiniai, patvirtinantys tą pačią informaciją, padidina tikimybę, kad informacija yra patikima. Be to, skirtingų požiūrių palyginimas padeda nustatyti bet kokius šališkumus ir suteikia išsamesnį temos supratimą. Toks požiūris užtikrina, kad nebūsite suklaidinti klaidingų ar neišsamių pasakojimų."
+        }
+      ]
+    },
+    {
+      "author": "SYNCNIFY",
+      "topic": "Trolinimas ir antraštinis masalas",
+      "questions": [
+        {
+          "question": "Kas yra „trolinimas“ internete?",
+          "options": [
+            "Įdomus žaidimas internete",
+            "Nemalonių žodžių sakymas, siekiant sutrikdyti žmones",
+            "Dalijimasis mielomis augintinių nuotraukomis",
+            "Linksmų vaizdo įrašų žiūrėjimas"
+          ],
+          "correctOption": "Nemalonių žodžių sakymas, siekiant sutrikdyti žmones",
+          "feedback_incorrect": "Pagalvokite dar kartą! Trolinimas - tai kai kas nors internete kalba nemalonius dalykus, norėdamas įskaudinti kitus. Internete svarbu būti geranoriškiems.",
+          "feedback_correct": "Teisingai! Trolinimas - tai kai žmonės internete kalba nemalonius dalykus, norėdami įskaudinti kitus. Visada būkite malonūs ir pagarbūs internete."
+        },
+        {
+          "question": "Kas yra antraštinis masalas?",
+          "options": [
+            "Žvejybos įrankio tipas",
+            "Antraštė, kuri priverčia spustelėti nuorodą",
+            "Naujas vaizdo žaidimas",
+            "Naudingas vadovas, kaip rasti gerų svetainių"
+          ],
+          "correctOption": "Antraštė, kuri priverčia spustelėti nuorodą",
+          "feedback_incorrect": "Oi, tai neteisinga. Antraštinis masalas - tai gudri antraštė, dėl kurios norisi spausti nuorodą, tačiau turinys paprastai nėra toks įdomus, kaip atrodo.",
+          "feedback_correct": "Teisingai! Antraštinis masalas - tai antraštė, kuri priverčia spustelėti nuorodą, tačiau turinys paprastai nėra toks įdomus, kaip atrodo."
+        },
+        {
+          "question": "Kodėl kai kurie žmonės naudoja antraštinį masalą?",
+          "options": [
+            "Norėdami padėti rasti geriausią informaciją",
+            "Norėdami jus prajuokinti",
+            "Norėdami, kad daugiau žmonių apsilankytų jų svetainėje",
+            "Norėdami išmokyti naujų įgūdžių"
+          ],
+          "correctOption": "Norėdami, kad daugiau žmonių apsilankytų jų svetainėje",
+          "feedback_incorrect": "Ne visai. Žmonės naudoja antraštinį masalą, norėdami pritraukti daugiau žmonių į savo svetainę, net jei turinys nėra labai geras.",
+          "feedback_correct": "Būtent! Žmonės naudojasi antraštiniu masalu, kad pritrauktų daugiau žmonių į savo svetainę, net jei turinys nėra labai įdomus."
+        }
+      ]
+    },
+    {
+      "author": "TRH",
+      "topic": "Socialinės žiniasklaidos ypatumai",
+      "questions": [
+        {
+          "question": "Kodėl svarbu atsargiai vertinti, ką skelbiate socialiniuose tinkluose?",
+          "options": [
+            "Nes tai linksma",
+            "Nes visi tai daro",
+            "Nes tai gali paveikti jūsų privatumą ir saugumą",
+            "Nes tokia yra taisyklė"
+          ],
+          "correctOption": "Nes tai gali paveikti jūsų privatumą ir saugumą",
+          "feedback_incorrect": "Beveik pavyko! Pabandykite dar kartą ir pažiūrėkite, ar pavyks rasti teisingą atsakymą! Net jei socialinėje žiniasklaidoje bendraujate tik su draugais ir šeima, gali būti labai sudėtinga iš interneto pašalinti savo paskelbtus įrašus. Tai vadinama jūsų skaitmeniniu pėdsaku, kuris gali likti internete amžinai, todėl svarbu apsvarstyti galimus kiekvieno jūsų įrašo padarinius.",
+          "feedback_correct": "Teisingai, puikiai padirbėta! Net jei socialinėje žiniasklaidoje bendraujate tik su draugais ir šeima, gali būti labai sudėtinga iš interneto pašalinti savo paskelbtus įrašus. Tai vadinama jūsų skaitmeniniu pėdsaku, kuris gali likti internete amžinai, todėl svarbu atsižvelgti į galimus kiekvieno jūsų įrašo padarinius."
+        },
+        {
+          "question": "Kas gali matyti jūsų įrašus socialinėje žiniasklaidoje, jei jūsų paskyra yra vieša?",
+          "options": [
+            "Tik jūsų šeima",
+            "Tik jūsų draugai",
+            "Bet kas, kas naudojasi internetu",
+            "Tik jūsų mokytojai"
+          ],
+          "correctOption": "Bet kas, kas naudojasi internetu",
+          "feedback_incorrect": "Beveik pavyko! Pabandykite dar kartą ir pažiūrėkite, ar pavyks rasti teisingą atsakymą! Prisimenate, ką anksčiau sakėme apie jūsų skaitmeninį pėdsaką? Kai viešai skelbiate informaciją internete, ji ten gali likti neribotą laiką ir ją gali peržiūrėti žmonės, kurių nepažįstate arba kuriais nepasitikite. Todėl svarbu naudoti privatumo nustatymus.",
+          "feedback_correct": "Teisingai, puikus darbas! Informaciją, kurią skelbiate naudodamiesi vieša socialinės žiniasklaidos paskyra, gali matyti bet kas, įskaitant žmones, kurių nepažįstate ir kuriais nepasitikite. Štai kodėl svarbu naudoti privatumo nustatymus."
+        }
+      ]
+    }
+  ],
+  "MultipleChoice": [
+    {
+      "author": "CESIE",
+      "topic": "Faktų tikrinimo pagrindai",
+      "questions": [
+        {
+          "question": "Kuris iš šių būdų yra geras būdas patikrinti, ar internete matoma nuotrauka yra tikra?",
+          "options": [
+            "Patikėti, nes nuotrauka atrodo įdomi",
+            "Naudoti atvirkštinę vaizdų paiešką, kad būtų galima rasti kitas vietas, kuriose rodomas paveikslėlis",
+            "Paklausti draugų, ar yra matę šią nuotrauką",
+            "Daryti prielaidą, kad tai klastotė"
+          ],
+          "answers": [
+            "Naudoti atvirkštinę vaizdų paiešką, kad būtų galima rasti kitas vietas, kuriose rodomas paveikslėlis"
+          ],
+          "feedback_incorrect": "Geros pastangos! Nebijokite suklysti - taip mes mokomės. Kai internete pamatysite neįprastą nuotrauką, galite pasinaudoti atvirkštine vaizdų paieška. Naudodami šią priemonę galite sužinoti, kur dar buvo naudota ši nuotrauka, ir tai gali padėti sužinoti apie jos autentiškumą. Toliau praktikuokitės ir dar geriau tikrinsite, ar nuotraukos yra tikros!",
+          "feedback_correct": "Puikiai padirbėta! Naudojant atvirkštinę vaizdų paiešką ir ieškant, kur dar yra rodoma nuotrauka, galima patikrinti, ar ji tikra. Šis įrankis padeda sužinoti, ar nuotrauka buvo naudota skirtingose vietose, ar ji gali būti redaguota. Tęskite puikų detektyvo darbą tikrindami informaciją internete!"
+        },
+        {
+          "question": "Ką pirmiausia turėtumėte padaryti, kad patikrintumėte, ar internete perskaityta naujiena atitinka tikrovę?",
+          "options": [
+            "Pasidalinti ja su draugais",
+            "Žiūrėti tik į antraštę",
+            "Patikrinti datą ir tinklaraščio šaltinį",
+            "Ignoruoti ją"
+          ],
+          "answers": ["Patikrinti datą ir tinklaraščio šaltinį"],
+          "feedback_incorrect": "Geras bandymas! Nebijokite daryti klaidų - jos padeda mums mokytis. Perskaitę naujieną internete, pirmiausia turėtumėte patikrinti, ar ji teisinga, - pažvelgti į istorijos datą ir šaltinį. Patikrinę datą sužinosite, ar informacija yra aktuali, o patikrinę šaltinį sužinosite, ar ji gauta iš patikimos vietos. Nuolat praktikuokitės, ir jums dar geriau seksis tikrinti faktus!",
+          "feedback_correct": "Puikiai padirbėta! Patikrinti istorijos datą ir šaltinį - puikus būdas pradėti tikrinti, ar informacija yra teisinga. Data padeda sužinoti, ar naujiena yra aktuali, o šaltinis parodo, ar ji gauta iš patikimos vietos. Toliau naudokitės šiais įgūdžiais, kad įsitikintumėte, jog gaunate tikslią informaciją. Gerai padirbėta!"
+        },
+        {
+          "question": "Ką daryti, jei svetainėje radote informacijos, bet nesate tikri, ar ji teisinga?",
+          "options": [
+            "Informacijos apie autorius ieškoti svetainės puslapyje „Apie mus“.",
+            "Pasitikėti svetaine, jei jos dizainas patrauklus.",
+            "Patikėti informacija, jei ji sutampa su tuo, ką jau galvojote anksčiau.",
+            "Ignoruoti visas svetaines."
+          ],
+          "answers": ["Informacijos apie autorius ieškoti svetainės puslapyje „Apie mus“."],
+          "feedback_incorrect": "Geras bandymas! Nors šį kartą suklydote, taip mes mokomės. Kai svetainėje randate informacijos ir nesate tikri, ar ji teisinga, verta patikrinti svetainės puslapį „Apie mus“. Jame galite rasti informacijos apie tai, kas parašė informaciją, ir jo kvalifikaciją. Toliau praktikuokitės, ir jums dar geriau seksis atpažinti patikimus šaltinius!",
+          "feedback_correct": "Fantastiška! Patikrinti, svetainės puslapyje „Apie mus“ esančią informaciją apie autorių, tai - protingas žingsnis. Tai padeda suprasti, kas atsakingas už informaciją, kurią skaitote, ir ar jie yra savo srities ekspertai. Tęskite puikų darbą naudodamiesi faktų tikrinimo įgūdžiais!"
+        }
+      ]
+    },
+    {
+      "author": "CPIP",
+      "topic": "Dažniausiai pasitaikantis klaidingas turinys žiniasklaidos platformose",
+      "questions": [
+        {
+          "question": "Jūsų mėgstamas muzikos atlikėjas, ar atlikėja, socialiniuose tinkluose paskelbia, kad dėl sveikatos problemų pasitraukia iš muzikos industrijos. Kaip reaguojate?",
+          "options": [
+            "Patikrinsite socialinių tinklų paskyras ir sužinosite, ar tai - oficialios paskyros",
+            "Pasidalinsite šia informacija su draugais",
+            "Pasidalinsite informacija savo asmeninėje socialinių tinklų paskyroje, kad pasiektumėte plačią auditoriją",
+            "Patikrinsite naujausius pranešimus ir sužinosite, ar nebuvo įsilaužta į jo/jos paskyrą"
+          ],
+          "answers": [
+            "Patikrinsite socialinių tinklų paskyras ir sužinosite, ar tai - oficialios paskyros",
+            "Patikrinsite naujausius pranešimus ir sužinosite, ar nebuvo įsilaužta į jo/jos paskyrą"
+          ],
+          "feedback_incorrect": "Buvote arti! Viskas gerai, visi darome klaidų. Atkreipkite dėmesį į apsimetėlius, prisistatančius žinomu prekės ženklu ar menininku.",
+          "feedback_correct": "Oho, atsakėte teisingai! Jums tai labai gerai sekasi! Dažniausiai sukuriamos netikros paskyros ir nežinomi žmonės skelbia žinomų menininkų vardu."
+        },
+        {
+          "question": "Garsus menininkas dalijasi istorija, kurioje teigiama, kad šunys gali kalbėti kaip žmonės. Ši istorija labiausiai tikėtina yra:",
+          "options": ["Nuobodi", "Nuostabi", "Netikra", "Neįtikėtina"],
+          "answers": ["Netikra", "Neįtikėtina"],
+          "feedback_incorrect": "Buvote arti! Viskas gerai, visi darome klaidų. Žinokite, kad net jei jie yra garsūs žmonės, tai nereiškia, kad jie visada teisūs.",
+          "feedback_correct": "Oho, atsakėte teisingai! Jums tai labai gerai sekasi! Paprastai, garsūs menininkai nedaro neigiamos įtakos savo auditorijai netikromis istorijomis."
+        }
+      ]
+    },
+    {
+      "author": "DANTE",
+      "topic": "Dezinformacijos tipai",
+      "questions": [
+        {
+          "question": "Kaip vadinama, kai nuotraukos ar vaizdo įrašai pakeičiami, kad rodytų tai, ko iš tikrųjų nebuvo?",
+          "options": [
+            "Suklastotas turinys",
+            "Klaidinantis turinys",
+            "Apgaulės",
+            "Melagingas kontekstas"
+          ],
+          "answers": ["Suklastotas turinys"],
+          "feedback_incorrect": "Pagalvokite, kada nuotraukos ar vaizdo įrašai pakeičiami, kad parodytų tai, ko iš tikrųjų nebuvo. Tai yra redagavimas arba keitimas to, ką matome.",
+          "feedback_correct": "Suklastotas turinys - kai nuotraukos ar vaizdo įrašai pakeičiami arba redaguojami taip, kad būtų parodyta tai, ko iš tikrųjų nebuvo. Tai tarsi žaidimas su nuotrauka ar vaizdo įrašu, kad jis atrodytų kitaip ar juokingai, tačiau kartais žmonės tai daro norėdami apgauti kitus."
+        },
+        {
+          "question": "Kaip vadinama situacija, kai kas nors juokais pasidalina suklastota istorija, bet kai kurie žmonės patiki, kad ji tikra?",
+          "options": ["Padirbtas turinys", "Gandai", "Satyra arba parodija", "Melagingas turinys"],
+          "answers": ["Satyra arba parodija"],
+          "feedback_incorrect": "Kai kas nors juokais dalijasi suklastota istorija, bet kai kurie žmonės patiki, kad ji tikra, tai tas pats, kaip kam nors iškrėsti juokingą pokštą su istorija, kuri skamba kaip tikra, bet tokia nėra. Kaip vadiname juokingas istorijas, kuriomis žmonės gali patikėti?",
+          "feedback_correct": "Satyra arba parodija - tai juokingos istorijos arba anekdotai, sugalvoti tam, kad žmonės juoktųsi. Dažnai vaizduojami rimtai, tačiau jų tikslas - būti juokingiems ir priversti mus nusišypsoti."
+        },
+        {
+          "question": "Jei svetainė apsimeta garsia naujienų organizacija, bet dalijasi netikromis naujienomis, kokio tai tipo dezinformacija?",
+          "options": [
+            "Klaidinantis turinys",
+            "Apsimetėliškas turinys",
+            "Satyra arba parodija",
+            "Melagingas turinys"
+          ],
+          "answers": ["Apsimetėliškas turinys"],
+          "feedback_incorrect": "Kartais svetainės apsimeta garsiomis naujienų organizacijomis, tačiau jų pateikiamos naujienos nėra tikros. Kaip vadiname tai, kai kas nors apsimeta tuo, kuo nėra, pavyzdžiui, apsimeta tikra naujienų svetaine?",
+          "feedback_correct": "Apsimetėliškas turinys - tai tarsi kostiumas, kuriuo apsirengęs žmogus apsimeta kitu žmogumi. Lygiai taip pat ir svetainė ar socialinės žiniasklaidos paskyra gali apsimesti žinomu naujienų šaltiniu ar patikimu asmeniu, tačiau jie nėra tikri. Jie dalijasi naujienomis ar informacija, kuri nėra tikra arba yra išgalvota. Tai gali priversti žmones patikėti tuo, kas nėra tikra."
+        }
+      ]
+    },
+    {
+      "author": "ODYSSEA",
+      "topic": "Klaidinančio turinio nagrinėjimas",
+      "questions": [
+        {
+          "question": "Kurie iš toliau išvardytų veiksmų yra tinkami norint patikrinti naujienų istorijos patikimumą?",
+          "options": [
+            "Pasidomėti, ar naujienos skelbiamos patikimose interneto svetainėse.",
+            "Patikrinti naujienų paskelbimo datą.",
+            "Pasitikėti draugų nuomone apie naujienas.",
+            "Ieškoti informacijos ta pačia tema skirtinguose šaltiniuose."
+          ],
+          "answers": [
+            "Pasidomėti, ar naujienos skelbiamos patikimose interneto svetainėse.",
+            "Patikrinti naujienų paskelbimo datą.",
+            "Ieškoti informacijos ta pačia tema skirtinguose šaltiniuose."
+          ],
+          "feedback_incorrect": "Mūsų draugai turi gerų ketinimų, tačiau kartais jie taip pat tampa klaidingos informacijos aukomis!",
+          "feedback_correct": "Patikrinkite, ar naujienos skelbiamos patikimose interneto svetainėse, kad šaltinis būtų žinomas kaip tikslus. Patikrinus paskelbimo datą, galima įsitikinti ar informacija yra aktuali ir tinkama. Informacijos ta pačia tema paieška skirtinguose šaltiniuose leidžia susieti faktus, o tai padidina informacijos patikimumą ir suteikia visapusišką požiūrį. Visi šie veiksmai kartu padeda užtikrinti, kad esate informuojami apie tikslias ir patikimas naujienas."
+        },
+        {
+          "question": "Kurie iš toliau nurodytų šaltinių yra patikimi tikrinant faktus?",
+          "options": [
+            "Oficialios vyriausybės interneto svetainės.",
+            "Svetainės su daugybe reklamų.",
+            "Pripažintos naujienų agentūros.",
+            "Tinklaraščiai ir asmeniniai puslapiai."
+          ],
+          "answers": [
+            "Oficialios vyriausybės interneto svetainės.",
+            "Pripažintos naujienų agentūros."
+          ],
+          "feedback_incorrect": "Daug reklamos turinčiose svetainėse ir tinklaraščiuose dažnai nėra patikimos informacijos, nes jų pagrindinis tikslas paprastai yra gauti pajamų arba dalytis asmenine nuomone, o ne pateikti tikslią ir nešališką informaciją. Daugybė reklamų gali nurodyti, kad daugiausia dėmesio skiriama „clickbait“ turiniui, kuriuo siekiama pritraukti lankytojų, o tai gali pakenkti informacijos kokybei ir patikimumui. Tinklaraščiuose, kurie yra asmeninės platformos, dažnai trūksta redakcinės priežiūros ir griežtų faktų tikrinimo procesų, todėl juose pateikiamas turinys gali būti šališkas ir netikslus.",
+          "feedback_correct": "Oficialios vyriausybių interneto svetainės ir pripažintos naujienų agentūros laikosi iš anksto nustatytos praktikos ir griežtos skelbiamos informacijos kryžminės patikros politikos. Kartu jose dirba profesionalūs žurnalistai, kurie nerizikuotų savo reputacija skelbdami netikras naujienas."
+        }
+      ]
+    },
+    {
+      "author": "SYNCIFY",
+      "topic": "Trolinimas ir antraštinis masalas",
+      "questions": [
+        {
+          "question": "Ką turėtumėte daryti, jei matote komentarą, kuris yra trolinimas?",
+          "options": [
+            "Atsakyti su nemaloniu komentaru",
+            "Ignoruoti jį",
+            "Pranešti apie jį",
+            "Pasidalinti juo su draugais"
+          ],
+          "answers": ["Ignoruoti jį", "Pranešti apie jį"],
+          "feedback_incorrect": "Tai ne pati geriausia idėja. Jei matote trolinantį komentarą, geriausia jį ignoruoti arba apie jį pranešti. Įsitraukimas arba dalijimasis juo gali pabloginti situaciją.",
+          "feedback_correct": "Puiku! Jei pastebėjote trolinantį komentarą, geriausia jį ignoruoti arba apie jį pranešti. Taip padėsite išlaikyti internetą geresne vieta."
+        },
+        {
+          "question": "Kaip atpažinti, ar kažkas yra antraštinis masalas?",
+          "options": [
+            "Turi patrauklią antraštę, bet turinys nuvilia",
+            "Tai parašė draugas",
+            "Rodoma daug gamtos nuotraukų",
+            "Daug žadantis pavadinimas, kurio straipsnis neperteikia"
+          ],
+          "answers": [
+            "Turi patrauklią antraštę, bet turinys nuvilia",
+            "Daug žadantis pavadinimas, kurio straipsnis neperteikia"
+          ],
+          "feedback_incorrect": "Neteisingai. Antraštinis masalas dažnai turi patrauklią antraštę, dėl kurios norisi spustelėti, tačiau tikrasis turinys paprastai nuvilia arba nepateisina savo didelio pažado.",
+          "feedback_correct": "Teisingai! Antraštinis masalas turi patrauklią antraštę, dėl kurios norisi spustelėti, tačiau turinys dažnai nuvilia arba nepateisina didelio pažado."
+        },
+        {
+          "question": "Kokie yra dažniausi trolinančių komentarų požymiai?",
+          "options": [
+            "Komentaras yra labai mandagus ir pagarbus",
+            "Komentare yra įžeidimų arba pravardžiavimų",
+            "Komentaru bandoma išprovokuoti ginčą",
+            "Komentare dalinamasi naudinga informacija"
+          ],
+          "answers": [
+            "Komentare yra įžeidimų arba pravardžiavimų",
+            "Komentaru bandoma išprovokuoti ginčą"
+          ],
+          "feedback_incorrect": "Pabandykite dar kartą! Trolinančiuose komentaruose dažnai pasitaiko įžeidinėjimų, keiksmažodžių ar bandymų išprovokuoti ginčus. Mandagūs ir pagarbūs komentarai paprastai nėra trolinimas.",
+          "feedback_correct": "Teisingai! Trolininančiuose komentaruose dažnai pasitaiko įžeidinėjimų, keiksmažodžių ar bandymų išprovokuoti ginčus. Visada siekite pagarbiai ir mandagiai bendrauti internete."
+        }
+      ]
+    },
+    {
+      "author": "TRH",
+      "topic": "Socialinių tinklų ypatumai",
+      "questions": [
+        {
+          "question": "Kurios iš toliau išvardintų yra populiarios socialinių tinklų platformos?",
+          "options": ["Instagram", "Google", "TikTok", "Netflix"],
+          "answers": ["Instagram", "TikTok"],
+          "feedback_incorrect": "Beveik pavyko! Pabandykite dar kartą ir pažiūrėkite, ar pavyks rasti teisingą atsakymą! Atminkite, kad ne visos interneto paslaugos yra socialinių tinklų platformos. Svarbus skirtumas yra tas, kad socialinių tinklų platformos leidžia mums bendrauti vieniems su kitais, dažnai naudojant žinutes.",
+          "feedback_correct": "Teisingai, puikiai padirbėta! Socialinių tinklų platformos skiriasi nuo kitų interneto paslaugų tuo, kad jose galime bendrauti su kitais žmonėmis, dažnai naudojant žinutes."
+        },
+        {
+          "question": "Ką galite daryti socialiniuose tinkluose?",
+          "options": [
+            "Skaityti knygas",
+            "Užsiimti sportu",
+            "Dalintis nuotraukomis ir vaizdo įrašais",
+            "Bendrauti su kitais"
+          ],
+          "answers": ["Dalintis nuotraukomis ir vaizdo įrašais", "Bendrauti su kitais"],
+          "feedback_incorrect": "Beveik pavyko! Pabandykite dar kartą ir pažiūrėkite, ar pavyks rasti teisingą atsakymą! Socialinius tinklus galima naudoti įvairiems dalykams, tačiau svarbiausia jų savybė - bendravimas su kitais. Kokiais skirtingais būdais galėtumėte bendrauti su žmonėmis naudodamiesi socialiniais tinklais?",
+          "feedback_correct": "Teisingai, puikiai padirbėta! Socialiniai tinklai dažniausiai naudojami bendrauti su kitais žmonėmis, ypač dalijantis nuotraukomis ir vaizdo įrašais arba susirašinėjant žinutėmis."
+        },
+        {
+          "question": "Koks yra bendras socialinių tinklų platformų bruožas?",
+          "options": [
+            "Žinučių siuntimas",
+            "Bendravimas su draugais",
+            "Maisto gaminimas",
+            "Keliavimas"
+          ],
+          "answers": ["Žinučių siuntimas", "Bendravimas su draugais"],
+          "feedback_incorrect": "Jūs beveik pataikėte- tikrai galite rasti teisingą atsakymą! Daugelis žmonių socialiniuose tinkluose gali skelbti tokius dalykus, kaip patiekalų ar atostogų nuotraukos, tačiau tai nėra socialinių tinklų platformų funkcijos. Pavyzdžiui, viena iš „Snapchat“ funkcijų yra nuotraukų siuntimas. Pabandykite dar kartą!",
+          "feedback_correct": "Teisingai, puikiai padirbėta! Vienos iš labiausiai paplitusių ir svarbiausių funkcijų, dėl kurių socialinių tinklų platformos yra tokios, kokios jos yra, yra galimybė siųsti žinutes ir bendrauti su kitais."
+        },
+        {
+          "question": "Kurie iš toliau išvardytų būdų NĖRA geras būdas išlikti saugiam socialiniuose tinkluose?",
+          "options": [
+            "Dalijimasis savo namų adresu",
+            "Privatumo nustatymų naudojimas",
+            "Savo buvimo vietos atskleidimas",
+            "Pranešimas apie netinkamą turinį"
+          ],
+          "answers": ["Dalijimasis savo namų adresu", "Savo buvimo vietos atskleidimas"],
+          "feedback_incorrect": "Beveik pavyko! Pabandykite dar kartą ir pažiūrėkite, ar pavyks rasti teisingą atsakymą! Ne visi jūsų veiksmai socialiniuose tinkluose yra neigiami. Pavyzdžiui, pranešimas apie netinkamą turinį arba privatumo nustatymų naudojimas yra puikios idėjos, padedančios užtikrinti saugumą internete. Tačiau dalytis privačiomis savo gyvenimo detalėmis nėra gera idėja ir dėl to gali kilti pavojus.",
+          "feedback_correct": "Teisingai, puikiai padirbėta! Dalytis privačia informacija apie savo gyvenimą internete, pavyzdžiui, namų adresu ar buvimo vieta, yra bloga idėja ir tai gali kelti pavojų. Jei internete pastebėjote ką nors netinkamo, apsvarstykite galimybę apie tai pranešti ir visada įsitikinkite, kad naudojate privatumo nustatymus, kad jūsų informacija būtų saugi."
+        }
+      ]
+    }
+  ],
+  "FillInTheBlank_corrected": [
+    {
+      "author": "CESIE",
+      "topic": "Faktų tikrinimo pagrindai",
+      "questions": [
+        {
+          "question": "Norėdami patikrinti, ar naujienų istorija yra teisinga, atkreipkite dėmesį į jos _ ir _.",
+          "options": ["datą, šaltinį", "autorių, šrifto temą", "datą, pavadinimą", "spalvą, ilgį"],
+          "correctOption": "datą, šaltinį",
+          "feedback_incorrect": "Geras bandymas. Kitą kartą jums seksis geriau! Pagalvokite, ką turėtumėte traktuoti kaip gerą pradžią, norint kruopščiai patikrinti naujienų istorijos tikslumą ir išvengti dezinformacijos.",
+          "feedback_correct": "Puikiai padirbėta! Teisingai nustatėte, kad norint patikrinti naujienų istorijos tikslumą, būtina patikrinti jos datą ir šaltinį. Tai svarbus pirmas žingsnis siekiant užtikrinti, kad informacija būtų aktuali ir gauta iš patikimo šaltinio."
+        },
+        {
+          "question": "Pasinaudokite atvirkštine vaizdų paieška, kad rastumėte, kur dar pasirodo _, ir patikrintumėte, ar ji tikra.",
+          "options": ["nuotrauka", "eskizas", "paveikslas", "diagrama"],
+          "correctOption": "nuotrauka",
+          "feedback_incorrect": "Geros pastangos! Kartais galima ir suklysti - taip mes mokomės. Kai norite pasitikrinti, ar nuotrauka tikra, labai naudinga naudoti atvirkštinę vaizdų paiešką. Ši priemonė leidžia pamatyti, kur dar paveikslėlis buvo naudotas internete, o tai gali padėti sužinoti apie jo autentiškumą. Toliau praktikuokitės ir jums dar geriau seksis tikrinti, ar nuotraukos yra tikros!",
+          "feedback_correct": "Puikiai padirbėta! Naudojant atvirkštinę vaizdų paiešką ir ieškant, kur dar yra paveikslėlis, galima patikrinti, ar jis tikras. Ši priemonė padeda ištirti ir patikrinti, ar paveikslėlis nebuvo naudotas kitose interneto vietose, o tai yra svarbus žingsnis siekiant įsitikinti, kad matoma informacija yra tiksli. Ir toliau puikiai dirbkite, kad taptumėte įgudusiu faktų tikrintoju!"
+        }
+      ]
+    },
+    {
+      "author": "CPIP",
+      "topic": "Dažniausiai pasitaikantis melagingas turinys žiniasklaidos platformose",
+      "questions": [
+        {
+          "question": "Jei prisijungsite prie internetinės viktorinos, jums bus pažadėtas išmanusis telefonas. Šis pažadas yra _.",
+          "options": ["neteisingas", "teisingas", "perspektyvus", "patikimas"],
+          "correctOption": "neteisingas",
+          "feedback_incorrect": "Beveik pataikėte! Viskas gerai, visi darome klaidų. Atminkite, kad tikri prizai internetu nedalijami.",
+          "feedback_correct": "Oho, atsakėte teisingai! Jums tai puikiai sekasi! Patikimi šaltiniai niekada nesiūlys jums lengvų prizų ir neprašys pateikti banko / asmens duomenų internete."
+        },
+        {
+          "question": "Svetainėje teigiama, kad tapsite superherojumi, jei nusipirksite jų parduodamą produktą. Šis teiginys yra _.",
+          "options": ["neteisingas", "teisingas", "tikras", "sąžiningas"],
+          "correctOption": "neteisingas",
+          "feedback_incorrect": "Beveik pataikėte! Viskas gerai, visi darome klaidų. Nepamirškite, kad neįtikėtina- išlieka neįtikėtina, ypač realiame gyvenime.",
+          "feedback_correct": "Oho, atsakėte teisingai! Jums tai puikiai sekasi! Žinokite, kad joks produktas negali jūsų paversti superherojumi."
+        },
+        {
+          "question": "Naršote žiniasklaidos platformose ir atsisakote tikėti kitų nuomone. Tai reiškia, kad klaidingai manote, jog esate visiškai _.",
+          "options": ["teisus", "neteisus", "suglumęs", "netikslus"],
+          "correctOption": "teisus",
+          "feedback_incorrect": "Buvote arti! Viskas gerai, visi darome klaidų. Žinokite, kad žmogaus polinkis ignoruoti informaciją, kuri prieštarauja jo įsitikinimams, yra neigiamas įprotis.",
+          "feedback_correct": "Oho, atsakėte teisingai! Jums tai puikiai sekasi! Žmonės linkę pervertinti, kiek kitų žmonių pritaria jų (klaidingiems) įsitikinimams."
+        }
+      ]
+    },
+    {
+      "author": "DANTE",
+      "topic": "Dezinformacijos tipai",
+      "questions": [
+        {
+          "question": "Kai kas nors parodo tikrą nuotrauką, bet sako, kad ji yra iš _ įvykio, tai vadinama klaidingu kontekstu.",
+          "options": ["kito", "identiško", "vienodo", "to pačio"],
+          "correctOption": "kito",
+          "feedback_incorrect": "Pagalvokite apie atvejus, kai nuotrauka yra tikra, bet kas nors sako, kad ji yra iš kito laikotarpio ar vietos.",
+          "feedback_correct": "Klaidingas kontekstas atsiranda tuomet, kai kas nors pateikia tikrą nuotrauką ar informaciją, bet sako, kad ji yra iš kito laikotarpio, vietos ar situacijos. Tai gali priversti žmones patikėti tuo, kas su paveikslėliu ar informacija yra nesusiję."
+        },
+        {
+          "question": "_ yra istorijos, kuriomis daugelis žmonių tiki, bet iš tikrųjų jos nėra teisingos.",
+          "options": ["Mitai", "Duomenys", "Ataskaitos", "Išrašai"],
+          "correctOption": "Mitai",
+          "feedback_incorrect": "Šios istorijos gali būti plačiai paplitusios, tačiau jos neturi faktinio pagrindo. Kokia sąvoka apibūdina plačiai paplitusias melagingas istorijas?",
+          "feedback_correct": "Mitai - tai senovinės istorijos, kurias seniau pasakojo žmonės, kad paaiškintų dalykus, kurių nesuprato. Šiose istorijose dažnai minima dievų, herojų ar stebuklingų būtybių. Žmonės naudojo mitus norėdami išmokyti svarbių pamokų arba paaiškinti, kodėl pasaulyje vyksta įvairūs dalykai."
+        },
+        {
+          "question": "Sąmokslo teorijos - tai istorijos, skleidžiančios _ informaciją apie slaptus planus be jokių įrodymų.",
+          "options": ["melagingą", "patikrintą", "patikimą", "tikslią"],
+          "correctOption": "melagingą",
+          "feedback_incorrect": "Sąmokslo teorijos - tai istorijos, kuriose sukuriamos didelės paslaptys, tačiau nėra jokių realių įrodymų, kad jos yra teisingos.",
+          "feedback_correct": "Sąmokslo teorijos yra tarsi didelės, paslaptingos istorijos, kuriomis kai kurie žmonės tiki. Šiose istorijose teigiama, kad daug  galios turinčios žmonių grupės slapta planuoja dalykus, kurie gali pakenkti kitiems. Tačiau dažnai nėra jokių įrodymų, kad šios istorijos yra teisingos."
+        }
+      ]
+    },
+    {
+      "author": "ODYSSEA",
+      "topic": "Klaidinančio turinio nagrinėjimas",
+      "questions": [
+        {
+          "question": "Skaitydami straipsnį internete visada turėtume patikrinti autoriaus _.",
+          "options": ["patikimumą", "toną", "išvaizdą", "populiarumą"],
+          "correctOption": "patikimumą",
+          "feedback_incorrect": "Autoriaus patikimumas yra svarbus straipsnio pagrįstumo rodiklis.",
+          "feedback_correct": "Patikimas autorius remiasi literatūra, mokslinių tyrimų šaltiniais, kad pagrįstų tai, ką rašo."
+        },
+        {
+          "question": "Vienas iš būdų nustatyti, ar naujienų istorija yra teisinga, - patikrinti, ar yra _ patvirtinančių informaciją.",
+          "options": ["šaltinių", "komentarų", "gandų", "prielaidų"],
+          "correctOption": "šaltinių",
+          "feedback_incorrect": "Skaitant naujienų straipsnį, kuriame nenurodyti šaltiniai, galima suprasti, kad jis gali būti nepatikimas. Asmeninė redaktorių nuomonė nėra naujiena ir yra subjektyvi.",
+          "feedback_correct": "Naujienų straipsnis su nurodomais šaltiniais, yra svarbus rodiklis, kad jis yra patikimas."
+        },
+        {
+          "question": "Pirmoji mūsų reakcija, pamačius keistą naujieną, turėtų būti noras _ prieš dalijantis.",
+          "options": ["išnagrinėti ją", "sutikti su ja", "pasitikėti ja", "tikėti ja"],
+          "correctOption": "išnagrinėti ją",
+          "feedback_incorrect": "Svarbu netapti melagingų naujienų skleidimo grandinės dalimi. Kad to išvengtumėte, prieš dalydamiesi informacija, svarbu ją išnagrinėti.",
+          "feedback_correct": "Iš tiesų, prieš dalijantis keistu naujienų straipsniu, tinkamiausia taktika yra atlikti tyrimą. Išsiaiškinkite, iš kur gauta ši naujiena ir ar šaltinis yra patikimas."
+        }
+      ]
+    },
+    {
+      "author": "SYNCNIFY",
+      "topic": "Trolinimas ir antraštinis masalas",
+      "questions": [
+        {
+          "question": "Antraštinis masalas gali nukelti į svetaines turinčias _, gaišti jūsų laiką su nuviliančiu turiniu ir kartais prašyti pateikti savo asmeninę informaciją.",
+          "options": ["virusų", "istorijas", "apklausas", "pasiūlymus"],
+          "correctOption": "virusų",
+          "feedback_incorrect": "Oi. Antraštinis masalas gali nukelti jus į svetaines, kuriose yra virusų, gaišti jūsų laiką su nuviliančiu turiniu, o kartais net prašyti jūsų pateikti asmeninę informaciją. Geriausia jų vengti.",
+          "feedback_correct": "Būtent! Antraštinis masalas gali nukelti jus į svetaines, kuriose yra virusų, gaišti jūsų laiką su nuviliančiu turiniu, o kartais net prašyti jūsų pateikti asmeninę informaciją. Būkite atsargūs rinkdamiesi, ant kokios nuorodos spausti."
+        },
+        {
+          "question": "Kad nebūtumėte apgauti antraštinio masalo, patikrinkite straipsnio _, ieškokite sensacingų ar perdėtų formuluočių ir patikrinkite informaciją patikimose svetainėse.",
+          "options": ["šaltinį", "ilgį", "pavadinimą", "vaizdą"],
+          "correctOption": "šaltinį",
+          "feedback_incorrect": "Neteisingai. Kad nebūtumėte apgauti antraštinio masalo, pasistenkite patikrinti informaciją patikimose svetainėse.",
+          "feedback_correct": "Teisingai! Norėdami išvengti apgaulės, patikrinkite straipsnio šaltinį, ieškokite sensacingų ar perdėtų formuluočių ir patikrinkite informaciją patikimose svetainėse."
+        },
+        {
+          "question": "Jei kas nors jus „trolina“, turėtumėte vengti _, nes tai gali paaštrinti situaciją.",
+          "options": [
+            "atsakyti šiam asmeniui",
+            "blokuoti šiuos asmenis",
+            "ignoruoti šiuos asmenis",
+            "atsiskirti nuo šių asmenų"
+          ],
+          "correctOption": "atsakyti šiam asmeniui",
+          "feedback_incorrect": "Ne visai. Jei kas nors jus „trolina“, turėtumėte vengti šiam asmeniui atsakyti, nes tai gali paaštrinti situaciją.",
+          "feedback_correct": "Teisingai! Jei kas nors trolina, turėtumėte vengti atsakyti šiam asmeniui, nes tai gali paaštrinti situaciją. Vietoj to kreipkitės pagalbos ir patarimo."
+        }
+      ]
+    },
+    {
+      "author": "TRH",
+      "topic": "Socialinių tinklų ypatumai",
+      "questions": [
+        {
+          "question": "Socialiniuose tinkluose_ - tai žinutė, kurią galima siųsti vienam ar keliems žmonėms _.",
+          "options": [
+            "asmeninė žinutė, privačiai",
+            "asmeninė žinutė, viešai",
+            "Skelbimas, privačiai",
+            "asmeninė žinutė, atvirai"
+          ],
+          "correctOption": "asmeninė žinutė, privačiai",
+          "feedback_incorrect": "Beveik pavyko! Pabandykite dar kartą ir pažiūrėkite, ar pavyks rasti teisingą atsakymą! „Įrašas“ - tai kažkas, ką asmuo viešai siunčia visiems savo kontaktams socialinių tinklų „kanale“, o asmeninė žinutė yra beveik priešinga.",
+          "feedback_correct": "Teisingai, puikiai padirbėta! Asmeninė žinutė siunčiama privačiai vienam ar keliems kontaktams, kartais bendroje grupėje, vadinamoje grupiniu pokalbiu. Tai tarsi priešingybė pranešimui, kurį asmuo siunčia visiems savo kontaktams viešai socialinių tinklų „kanale“."
+        },
+        {
+          "question": "„_“ yra paveikslėlis, simbolis arba „_“ (skaitmeninė apranga), kuriuo vaizduojate save internete.",
+          "options": [
+            "Avataras, skin'as",
+            "Simbolis, apranga",
+            "Ikona, dizainas",
+            "Avataras, drabužiai"
+          ],
+          "correctOption": "Avataras, skin'as",
+          "feedback_incorrect": "Beveik pavyko! Pabandykite dar kartą ir pažiūrėkite, ar pavyks rasti teisingą atsakymą! Avataras arba „skin‘as“ šiek tiek skiriasi nuo profilio nuotraukos tokioje socialinių tinklų platformoje kaip „Facebook“. Nors žmonės „Facebook“ dažnai naudoja savo nuotrauką, kai kuriose ne tokiose oficialiose socialinių tinklų platformose ir vaizdo žaidimuose vartotojai renkasi avatarus arba dėvi „skin‘us“, kad reprezentuotų save.",
+          "feedback_correct": "Teisingai, puikiai padirbėta! Avataras arba „skin‘as“ šiek tiek skiriasi nuo profilio nuotraukos tokioje socialinių tinklų platformoje kaip „Facebook“. Nors „Facebook“ žmonės dažnai naudoja savo nuotrauką, kai kuriose ne tokiose oficialiose socialinių tinklų platformose ir vaizdo žaidimuose vartotojai renkasi avatarus arba dėvi „skin‘us“, kad reprezentuotų save."
+        }
+      ]
+    }
+  ]
+}
