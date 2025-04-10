@@ -1,0 +1,125 @@
+[gd_scene load_steps=6 format=3 uid="uid://bdqrc1inbrtmj"]
+
+[ext_resource type="Theme" uid="uid://1vstrjh1n4gu" path="res://themes/question.tres" id="1_6i2bn"]
+[ext_resource type="Script" uid="uid://ce8ktf1fvnd7" path="res://script/feedback.gd" id="1_idlrx"]
+[ext_resource type="Texture2D" uid="uid://bagb58q3ru8s1" path="res://Incorrect mascot.png" id="3_jt2bu"]
+[ext_resource type="Texture2D" uid="uid://c3nbojrhthx3b" path="res://Correct mascot.png" id="4_m87xj"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_svsy0"]
+bg_color = Color(0.999072, 0.849281, 0.744841, 1)
+border_width_left = 3
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 3
+border_color = Color(0.996078, 0.482353, 0.12549, 1)
+corner_radius_top_left = 15
+corner_radius_top_right = 15
+corner_radius_bottom_right = 15
+corner_radius_bottom_left = 15
+shadow_color = Color(0, 0, 0, 0.180392)
+shadow_size = 135
+
+[node name="Feedback" type="PanelContainer"]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_idlrx")
+
+[node name="CenterContainer" type="CenterContainer" parent="."]
+layout_mode = 2
+
+[node name="PanelContainer" type="Panel" parent="CenterContainer"]
+custom_minimum_size = Vector2(600, 400)
+layout_mode = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_svsy0")
+
+[node name="MarginContainer" type="MarginContainer" parent="CenterContainer/PanelContainer"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/margin_left = 20
+theme_override_constants/margin_top = 10
+theme_override_constants/margin_right = 20
+theme_override_constants/margin_bottom = 20
+
+[node name="VBoxContainer2" type="VBoxContainer" parent="CenterContainer/PanelContainer/MarginContainer"]
+layout_mode = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer2"]
+layout_mode = 2
+size_flags_vertical = 0
+
+[node name="Title" type="Label" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer2/VBoxContainer"]
+custom_minimum_size = Vector2(0, 20)
+layout_mode = 2
+theme_override_colors/font_color = Color(0.106484, 0.0114266, 0.000601126, 1)
+theme_override_font_sizes/font_size = 24
+text = "Title"
+horizontal_alignment = 1
+
+[node name="MainText" type="RichTextLabel" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer2/VBoxContainer"]
+layout_mode = 2
+theme_override_colors/default_color = Color(0.10279, 0.0294519, 6.01634e-09, 1)
+theme_override_font_sizes/normal_font_size = 16
+text = "Main text"
+fit_content = true
+
+[node name="HFlowContainer" type="HFlowContainer" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer2"]
+layout_mode = 2
+size_flags_vertical = 10
+size_flags_stretch_ratio = 0.0
+
+[node name="CloseButton" type="Button" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer2/HFlowContainer"]
+layout_mode = 2
+size_flags_horizontal = 10
+theme = ExtResource("1_6i2bn")
+text = "Close"
+
+[node name="Mascots" type="Control" parent="."]
+layout_mode = 2
+mouse_filter = 2
+
+[node name="Incorrect" type="TextureRect" parent="Mascots"]
+visible = false
+layout_mode = 1
+anchors_preset = 6
+anchor_left = 1.0
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+offset_left = -165.0
+offset_top = -107.0
+offset_right = 159.0
+offset_bottom = 336.0
+grow_horizontal = 0
+grow_vertical = 2
+scale = Vector2(0.5, 0.5)
+size_flags_horizontal = 8
+size_flags_vertical = 4
+texture = ExtResource("3_jt2bu")
+
+[node name="Correct" type="TextureRect" parent="Mascots"]
+visible = false
+layout_mode = 1
+anchors_preset = 6
+anchor_left = 1.0
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+offset_left = -165.0
+offset_top = -107.0
+offset_right = 159.0
+offset_bottom = 336.0
+grow_horizontal = 0
+grow_vertical = 2
+scale = Vector2(0.5, 0.5)
+size_flags_horizontal = 8
+size_flags_vertical = 4
+texture = ExtResource("4_m87xj")
+
+[connection signal="pressed" from="CenterContainer/PanelContainer/MarginContainer/VBoxContainer2/HFlowContainer/CloseButton" to="." method="_on_close_button_pressed"]

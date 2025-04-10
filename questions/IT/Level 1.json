@@ -1,0 +1,749 @@
+{
+  "ChooseTheCorrectAnswer": [
+    {
+      "author": "CESIE",
+      "topic": "I principi del fact-checking (la verifica dei fatti)",
+      "questions": [
+        {
+          "question": "Quale delle seguenti opzioni rappresenta il primo passo da compiere per verificare se una notizia è vera?",
+          "options": [
+            "Condividere la notizia con l3 amic3",
+            "Cercare il nome dell’autor3 e verificarne la credibilità",
+            "Presumere che la notizia sia vera perché lo sembra ",
+            "Ignorare completamente la notizia"
+          ],
+          "correctOption": "Cercare il nome dell’autor3 e verificarne la credibilità",
+          "feedback_incorrect": "Bel tentativo! Si possono commettere degli errori, è così che si impara. Quando non sei sicur3 che una notizia sia vera, è importante cercare il nome dell’autor3 e vedere se è affidabile. L3 autor3 espert3 o che lavorano per organizzazioni affidabili di solito forniscono informazioni accurate. La prossima volta, ricordati di controllare chi ha scritto la storia prima di credere che sia vera.",
+          "feedback_correct": "Ottimo lavoro! Cercare il nome dell’autor3 e controllarne la credibilità è un passo importante per verificare se una notizia è vera. È più probabile che l3 autor3 espert3 nel loro settore o che lavorano per delle organizzazioni forniscano informazioni accurate. Ricordati sempre che controllare chi ha scritto la storia può aiutarti a decidere se puoi fidarti di ciò che stai leggendo."
+        },
+        {
+          "question": "Se vedi un’immagine online che ti sembra strana o sorprendente, cosa dovresti fare per verificare se è reale o meno?",
+          "options": [
+            "Eseguire una ricerca per immagini per trovare gli altri luoghi in cui l’immagine appare",
+            "Credere subito che sia vera",
+            "Chiedere all3 amic3 se pensano che sia reale",
+            "Ignorare l’immagine e non pensarci più"
+          ],
+          "correctOption": "Eseguire una ricerca per immagini per trovare gli altri luoghi in cui l’immagine appare",
+          "feedback_incorrect": "Bel tentativo! Si impara dagli errori. Quando vediamo un’immagine online che sembra strana, utilizzare una ricerca per immagini è un buon metodo per verificare se è reale. Questo strumento ti permette di trovare dove è stata usata l’immagine e può dirti qualcosa sulla sua origine. Continua a esercitarti e diventerai sempre più brav3 a individuare le immagini false!",
+          "feedback_correct": "Ottimo lavoro! Utilizzare una ricerca per immagini per trovare dove appare l’immagine è un metodo intelligente per verificare se è reale. Ciò ti permette di vedere se l’immagine è stata utilizzata in altri luoghi o contesti, fornendoti indizi sulla sua attendibilità. Continua a svolgere un buon lavoro per indagare sull’alfabetizzazione mediatica."
+        },
+        {
+          "question": "Qual è un modo sicuro per controllare se un sito web è attendibile?",
+          "options": [
+            "Vedere se il sito web contiene diversi annunci pubblicitari",
+            "Controllare la pagina “Chi siamo” del sito web e vedere se fornisce informazioni sull3 autor3 e sui loro meriti.",
+            "Guardare quanto è colorato il sito web",
+            "Vedere se il sito web piace all3 amic3"
+          ],
+          "correctOption": "Controllare la pagina “Chi siamo” del sito web e vedere se fornisce informazioni sull3 autor3 e sui loro meriti.",
+          "feedback_incorrect": "Bel tentativo! Commettere degli errori va bene perché ci consente di imparare qualcosa. Quando non sai se un sito web è affidabile, controllare la pagina “Chi siamo” per acquisire informazioni sull3 autor3 e sui loro meriti è una buona idea. Ti permette di capire se le persone che hanno creato il sito web sono affidabili. Continua a esercitarti e sarai sempre più brav3 a verificare i fatti!",
+          "feedback_correct": "Fantastico! Controllare la pagina “Chi siamo” del sito web per vedere se fornisce informazioni sull3 autor3 e sui loro meriti è una mossa intelligente. Ti permette di capire se il sito web è affidabile e se le informazioni pubblicate sono attendibili."
+        }
+      ]
+    },
+    {
+      "author": "CPIP",
+      "topic": "I contenuti falsi più comuni sulle piattaforme mediatiche",
+      "questions": [
+        {
+          "question": "Cosa succede quando le immagini o i video pubblicati per un evento sono tratti da altri eventi?",
+          "options": [
+            "C’è un’incomprensione",
+            "Si tratta di un errore di attribuzione",
+            "L’intenzione è buona",
+            "C’è un uso generale del contenuto"
+          ],
+          "correctOption": "Si tratta di un errore di attribuzione",
+          "feedback_incorrect": "Ci eri vicin3! Non ti preoccupare, tutt3 noi commettiamo errori. Gli eventi diversi hanno immagini e scopi diversi.",
+          "feedback_correct": "Wow, hai risposto correttamente! Sei veramente brav3! Non dimenticarti che quando vengono pubblicate immagini o video per/di un evento, devono essere autentici."
+        },
+        {
+          "question": "Secondo te, che ruolo hanno i media nella diffusione della disinformazione?",
+          "options": [
+            "Selezionare fonti affidabili",
+            "Pubblicare contenuti diversi",
+            "I titoli sensazionali o le fonti inaffidabili possono diffondere informazioni false",
+            "Controllare le storie prima della pubblicazione"
+          ],
+          "correctOption": "I titoli sensazionali o le fonti inaffidabili possono diffondere informazioni false",
+          "feedback_incorrect": "Ci eri vicin3! Non ti preoccupare, tutt3 noi commettiamo errori. I media e l3 giornalist3 sono eticamente tenuti a verificare le fonti e le storie pubblicate.",
+          "feedback_correct": "Wow, hai risposto correttamente! Sei veramente brav3! I media e l3 giornalist3 possono amplificare la disinformazione, occupandosi di storie false e scrivendo titoli sensazionali."
+        }
+      ]
+    },
+    {
+      "author": "DANTE",
+      "topic": "Tipologie di disinformazione",
+      "questions": [
+        {
+          "question": "Come si definisce l’unione di due elementi per farli apparire correlati quando in realtà non lo sono?",
+          "options": [
+            "Storie divertenti",
+            "Connessione falsa",
+            "Trucchi di magia",
+            "Avventure di animali"
+          ],
+          "correctOption": "Connessione falsa",
+          "feedback_incorrect": "A volte le persone provano a far sembrare alcuni elementi collegati anche se non sono realmente connessi tra loro. È come provare a inserire in un puzzle due pezzi che non ci stanno. Come possiamo definire due cose collegate in un modo che non è vero?",
+          "feedback_correct": "Si parla di connessioni false quando la gente prova a far apparire due cose collegate, anche se non sono per niente connesse."
+        },
+        {
+          "question": "Come si definisce una notizia che ha lo scopo di ingannare le persone, non mostrando l’intera storia?",
+          "options": [
+            "Storie divertenti",
+            "Contenuto fuorviante",
+            "Avventure magiche",
+            "Storie di animali"
+          ],
+          "correctOption": "Contenuto fuorviante",
+          "feedback_incorrect": "Immagina che qualcuno ti abbia raccontato solo una parte di una storia, ma non l’intera vicenda. Potresti non capire quello che è successo. Che definizione possiamo utilizzare quando le informazioni sono parziali e provano a farci credere qualcosa che potrebbe non essere vero?",
+          "feedback_correct": "Un contenuto fuorviante è una notizia che prova a ingannare le persone, mostrando solo una parte della storia o facendo apparire qualcosa in maniera diversa dalla realtà. Per esempio, quando qualcuno ti racconta solo una parte di una storia per farti credere qualcosa che potrebbe non essere vero. "
+        },
+        {
+          "question": "Come si chiamano le storie che sono completamente inventate e non vere?",
+          "options": [
+            "Racconti d’avventura",
+            "Contenuto inventato",
+            "Storie di mistero",
+            "Avventure di animali"
+          ],
+          "correctOption": "Contenuto inventato",
+          "feedback_incorrect": "A volte le persone raccontano storie che sembrano delle favole – sembrano eccitanti, ma non sono reali. Come si chiamano le storie che sono completamente inventate e non vere?",
+          "feedback_correct": "Un contenuto inventato è come una storia che la gente inventa completamente – non è vera e non è accaduta. È come scrivere una favola o creare una storia divertente che non si basa su eventi reali."
+        }
+      ]
+    },
+    {
+      "author": "ODYSSEA",
+      "topic": "I contenuti fuorvianti",
+      "questions": [
+        {
+          "question": "Quale delle seguenti opzioni è il segno che un articolo potrebbe contenere contenuti fuorvianti?",
+          "options": [
+            "Potrebbe contenere molti errori di spelling e di grammatica.",
+            "Contiene immagini e fotografie.",
+            "È scritto da un3 giornalist3 famos3.",
+            "Include molti riferimenti e fonti."
+          ],
+          "correctOption": "Potrebbe contenere molti errori di spelling e di grammatica.",
+          "feedback_incorrect": "Un articolo è, di solito, attendibile quando include fotografie, riferimenti e fonti della vita reale ed è scritto da un3 giornalist3 famos3.",
+          "feedback_correct": "Gli errori grammaticali e di spelling presenti in un articolo sono un chiaro segno che un articolo non proviene da una fonte affidabile e potrebbe contenere contenuti fuorvianti. Le fonti autorevoli in genere seguono un processo editoriale rigoroso per garantire l’accuratezza e la qualità."
+        },
+        {
+          "question": "Se vedi una notizia online che sembra strana, qual è la prima cosa che faresti?",
+          "options": [
+            "Condividere subito la notizia con tutt3 l3 amic3.",
+            "Controllare se la notizia arriva da una fonte attendibile.",
+            "Credere alla notizia senza pensarci.",
+            "Pubblicare la notizia sui social media."
+          ],
+          "correctOption": "Controllare se la notizia arriva da una fonte attendibile.",
+          "feedback_incorrect": "Prima di condividere una notizia, assumere che sia vera o pubblicarla sui social media, è importante controllare da dove arriva la notizia e se la fonte è attendibile.",
+          "feedback_correct": "Se vedi una notizia online che sembra strana, controlla se la notizia arriva da una fonte attendibile. Verifica la credibilità del sito web, cerca le qualifiche dell3 autor3 e vedi se la storia è riportata da altri media attendibili."
+        },
+        {
+          "question": "Qual è un buono metodo per controllare se una notizia è vera?",
+          "options": [
+            "Vedere se ha molti like e commenti.",
+            "Cercare lo stesso argomento su diverse fonti.",
+            "Chiedere all3 amic3 cosa ne pensano.",
+            "Controllare se la notizia è stata pubblicata da una celebrità."
+          ],
+          "correctOption": "Cercare lo stesso argomento su diverse fonti.",
+          "feedback_incorrect": "Sui social media si trova spesso molta disinformazione, che attira ugualmente molti like e commenti da parte degli utenti. Anche parlando con l3 amic3, non si può verificare la validità di una notizia poiché anche loro potrebbero essere stat3 vittime di disinformazione e anche le celebrità spesso diffondono le notizie senza riferimenti incrociati.",
+          "feedback_correct": "Cercare lo stesso argomento su diverse fonti è un buon modo per controllare se un’informazione è vera perché ti consente di verificare l’accuratezza dei fatti. Quando gli stessi dettagli vengono riportati da diverse fonti affidabili è più probabile che l’informazione sia vera. Inoltre, paragonare le diverse prospettive permette di individuare eventuali pregiudizi e fornisce una conoscenza più approfondita sull’argomento. Questo approccio ti garantisce di non essere ingannato da una narrativa falsa o incompleta."
+        }
+      ]
+    },
+    {
+      "author": "SYNCNIFY",
+      "topic": "Troll e clickbait",
+      "questions": [
+        {
+          "question": "Cosa significa “trollare”?",
+          "options": [
+            "Fare un gioco divertente online",
+            "Dire qualcosa di cattivo per turbare le persone",
+            "Condividere immagini carine dei propri animali",
+            "Guardare video divertenti"
+          ],
+          "correctOption": "Dire qualcosa di cattivo per turbare le persone",
+          "feedback_incorrect": "Pensaci ancora! Trollare significa dire qualcosa di cattivo online per turbare l3 altr3 persone. È importante essere gentili su internet.",
+          "feedback_correct": "È corretto! Trollare significa dire qualcosa di cattivo online per turbare l3 altr3 persone. Sii sempre gentile e rispettoso online."
+        },
+        {
+          "question": "Cos’è il “clickbait”?",
+          "options": [
+            "Un attrezzo usato per la pesca",
+            "Un titolo che ti inganna e ti spinge a cliccare un link",
+            "Un nuovo videogioco",
+            "Un guida utile per trovare siti web buoni"
+          ],
+          "correctOption": "Un titolo che ti inganna e ti spinge a cliccare un link",
+          "feedback_incorrect": "Ops, non è questa la risposta corretta. Il clickbait consiste in un titolo ingannevole che ti spinge a cliccare un link, ma il contenuto di solito non è così interessante come sembra.",
+          "feedback_correct": "Corretto! Il clickbait è un titolo che ti inganna e ti spinge a cliccare un link, ma il contenuto di solito non è così interessante come sembra. "
+        },
+        {
+          "question": "Perché alcune persone usano il clickbait?",
+          "options": [
+            "Per aiutare la gente a trovare le informazioni migliori",
+            "Per far ridere",
+            "Per convincere più persone a visitare il loro sito web",
+            "Per insegnare nuove competenze"
+          ],
+          "correctOption": "Per convincere più persone a visitare il loro sito web",
+          "feedback_incorrect": "Non esattamente. Le persone usano il clickbait per convincere più persone a visitare il loro sito web, anche se il contenuto non è buono.",
+          "feedback_correct": "Esatto! Le persone usano il clickbait per convincere più persone a visitare il loro sito web, anche se il contenuto non è così interessante."
+        }
+      ]
+    },
+    {
+      "author": "TRH",
+      "topic": "Caratteristiche dei social media",
+      "questions": [
+        {
+          "question": "Perché è così importante fare attenzione a ciò che si pubblica nei social media?",
+          "options": [
+            "Perché è divertente",
+            "Perché lo fanno tutti",
+            "Perché può influire sulla tua privacy e sulla tua sicurezza",
+            "Perché è una regola"
+          ],
+          "correctOption": "Perché può influire sulla tua privacy e sulla tua sicurezza",
+          "feedback_incorrect": "Ci sei quasi arrivat3! Prova ancora e vedi se riesci a trovare la risposta corretta! Anche se i tuoi unici legami sui social media sono amic3 e parenti, può essere difficile rimuovere i tuoi post da internet. È la tua impronta digitale e potenzialmente può rimanere online per sempre, quindi è importante pensare alle potenziali ricadute di ogni tuo post.",
+          "feedback_correct": "È corretto, Ottimo lavoro! Anche se gli unici legami che hai sui social media sono amic3 e parenti, può essere molto difficile rimuovere i tuoi post da internet. È la tua impronta digitale e potenzialmente può rimanere online per sempre, quindi è importante pensare alle potenziali ricadute di ogni tuo post."
+        },
+        {
+          "question": "Chi può vedere i tuoi post sui social media se il tuo account è pubblico?",
+          "options": [
+            "Solo la famiglia",
+            "Solo l3 amic3",
+            "Chiunque usi internet",
+            "Solo l3 docenti"
+          ],
+          "correctOption": "Chiunque usi internet",
+          "feedback_incorrect": "Ci sei quasi arrivat3! Prova ancora e vedi se riesci a trovare la risposta corretta! Ti ricordi quello che abbiamo detto prima sulla tua impronta digitale? Quando pubblichi informazioni pubblicamente su internet, possono rimanere lì per un periodo di tempo indefinito ed essere potenzialmente visualizzate da persone che non conosci o di cui non ti fidi. Per questo motivo è importante utilizzare le impostazioni della privacy.",
+          "feedback_correct": "È corretto, ottimo lavoro! Chiunque può potenzialmente visualizzare le informazioni che pubblichi con un profilo pubblico, comprese le persone che non conosci o di cui non ti fidi. Per questo motivo è importante utilizzare le impostazioni della privacy."
+        }
+      ]
+    }
+  ],
+  "FillInTheBlank_corrected": [
+    {
+      "author": "CESIE",
+      "topic": "Osnove provjere činjenica",
+      "questions": [
+        {
+          "question": "Da biste provjerili je li vijest istinita, pogledajte_ i _ priče",
+          "options": ["datum, izvor", "autora, font", "datum, naslov", "boju, duljinu"],
+          "answer": "datum, izvor",
+          "feedback_incorrect": "Lijep pogodak. Sljedeći ćete put biti bolji! Razmislite o tome što biste trebali provjeriti kao dobar početak za temeljitu provjeru točnosti vijesti i izbjegavanje pogrešnih informacija.",
+          "feedback_correct": "Sjajno! Ispravno ste utvrdili da je gledanje datuma i izvora vijesti ključno za provjeru njihove točnosti. Ovo je važan prvi korak u osiguravanju da su informacije aktualne i da dolaze iz vjerodostojnog izvora."
+        },
+        {
+          "question": "Upotrijebite obrnuto pretraživanje slika kako biste pronašli gdje se još prikazuje_kako biste provjerili je li stvarno.",
+          "options": ["slika", "skica", "kompozicija", "dijagrama"],
+          "answer": "slika",
+          "feedback_incorrect": "Dobar trud! U redu je ponekad promašiti; tako učimo. Kad želite provjeriti je li slika stvarna, vrlo je korisno upotrijebiti obrnuto pretraživanje slika. Ovaj alat omogućuje vam da vidite gdje je još slika korištena na mreži, što vam može dati naznake o njezinoj autentičnosti. Nastavite vježbati i postat ćete još bolji u provjeri jesu li slike stvarne!",
+          "feedback_correct": "Izvrstan posao! Upotreba obrnutog pretraživanja slike kako biste saznali gdje se još slika pojavljuje pametan je način da provjerite je li stvarna. Ovaj alat pomaže vam da istražite i provjerite je li slika korištena na drugim mjestima na mreži, što je važan korak u provjeri jesu li podaci koje vidite točni. Nastavite s velikim radom kako biste postali vješt provjeravatelj činjenica!"
+        }
+      ]
+    },
+    {
+      "author": "CPIP",
+      "topic": "Uobičajeni lažni sadržaji na medijskim platformama",
+      "questions": [
+        {
+          "question": "Online kviz obećava vam pametni telefon ako mu pristupite. Ovo obećanje je _.",
+          "options": ["lažno", "ispravno", "obećavajuće", "pouzdano"],
+          "answer": "lažno",
+          "feedback_incorrect": "Bili ste blizu! U redu je, svi griješimo. Imajte na umu da se prave nagrade ne dijele na internetu.",
+          "feedback_correct": "Wow, točno ste odgovorili! Vrlo ste dobri u ovome! Pouzdani izvori nikada vam neće ponuditi jednostavne nagrade ili od vas tražiti bankovne/osobne podatke na internetu."
+        },
+        {
+          "question": "Web stranica tvrdi da postajete superjunak ako kupite proizvod koji prodaju. Ovaj zahtjev je _.",
+          "options": ["lažan", "iskren", "ispravan", "točan"],
+          "answer": "lažan",
+          "feedback_incorrect": "Bili ste blizu! U redu je, svi griješimo. Ne zaboravite da nevjerojatno ostaje nevjerojatno, pogotovo u stvarnom životu.",
+          "feedback_correct": "Wow, točno ste odgovorili! Vrlo ste dobri u ovome! Imajte na umu da vas nijedan proizvod ne može učiniti superjunakom."
+        },
+        {
+          "question": "Navigirate na medijskim platformama i odbijate vjerovati u mišljenje drugih. To znači da pogrešno vjerujete da ste apsolutno _.",
+          "options": ["u pravu", "u krivu", "zbunjeni", "pogriješili"],
+          "answer": "u pravu",
+          "feedback_incorrect": "Bili ste blizu! U redu je, svi griješimo. Budite svjesni da je ljudska sklonost ignoriranju informacija koje osporavaju nečija uvjerenja negativna navika.",
+          "feedback_correct": "Wow, točno ste odgovorili! Vrlo ste dobri u ovome! Ljudi obično precjenjuju koliko drugi dijele njihova (pogrešna) uvjerenja."
+        }
+      ]
+    },
+    {
+      "author": "DANTE",
+      "topic": "Vrste dezinformacija",
+      "questions": [
+        {
+          "question": "Kada netko prikaže stvarnu sliku, ali kaže da je iz_ događaja, to se zove lažni kontekst.",
+          "options": ["drugog", "identičnog", "istog", "tog"],
+          "answer": "drugog",
+          "feedback_incorrect": "Razmislite o tome kada je slika stvarna, ali netko kaže da je iz drugog vremena ili mjesta.",
+          "feedback_correct": "Lažni kontekst događa se kada netko pokaže pravu sliku ili informaciju, ali kaže da je iz drugog vremena, mjesta ili situacije. To može navesti ljude da povjeruju u nešto što nije istinito u vezi sa slikom ili informacijama."
+        },
+        {
+          "question": "_ su priče u koje mnogi ljudi vjeruju, ali zapravo nisu istinite.",
+          "options": ["Mitovi", "Podatci", "Izvješća", "Izjave"],
+          "answer": "Mitovi",
+          "feedback_incorrect": "Ove priče mogu biti široko prihvaćene, ali im nedostaje činjenična osnova. Koji pojam opisuje opće prihvaćene lažne priče?",
+          "feedback_correct": "Mitovi su drevne priče koje su ljudi davno ispričali kako bi objasnili stvari koje nisu razumjeli. U tim pričama često se nalaze bogovi, junaci ili čarobna stvorenja. Ljudi su koristili mitove kako bi naučili važne lekcije ili objasnili zašto se stvari događaju u svijetu."
+        },
+        {
+          "question": "Teorije zavjere su priče koje šire _ informacije o tajnim planovima bez ikakvih dokaza.",
+          "options": ["netočne", "potvrđene", "pouzdane", "točne"],
+          "answer": "netočne",
+          "feedback_incorrect": "Teorije zavjere su priče koje izmišljaju velike tajne, ali nemaju pravi dokaz da su istinite.",
+          "feedback_correct": "Teorije zavjere su poput velikih, tajanstvenih priča u koje neki ljudi vjeruju. Te priče kažu da moćne skupine ljudi potajno planiraju stvari koje bi mogle naštetiti drugima. Ali često nema dokaza da su te priče istinite."
+        }
+      ]
+    },
+    {
+      "author": "ODYSSEA",
+      "topic": "Rješavanje problema obmanjujućeg sadržaja",
+      "questions": [
+        {
+          "question": "Kada čitamo članak na internetu, uvijek bismo trebali provjeriti autorovu _.",
+          "options": ["vjerodostojnost", "ton", "izgled", "popularnost"],
+          "answer": "vjerodostojnost",
+          "feedback_incorrect": "Vjerodostojnost autora važan je pokazatelj valjanosti članka.",
+          "feedback_correct": "Vjerodostojan autor poziva se na literaturu, izvore istraživanja koji podupiru ono što piše."
+        },
+        {
+          "question": "Jedan od načina da utvrdite je li vijest istinita jest da provjerite postoje li _ koje podržavaju te informacije.",
+          "options": ["izvori ", "komentari", "glassine", "pretpostavke"],
+          "answer": "izvori ",
+          "feedback_incorrect": "Čitanje vijesti koje ne navode svoje izvore važan je pokazatelj da možda nisu pouzdane. Osobno mišljenje urednika nije vijest i subjektivno je.",
+          "feedback_correct": "Vijest koja navodi svoje izvore važan je pokazatelj vjerodostojnosti."
+        },
+        {
+          "question": "Naša prva reakcija kada vidimo čudnu vijest trebala bi biti da je _ prije nego što je podijelimo.",
+          "options": ["ispitamo", "prihvatimo", "vjerujemo", "usvojimo"],
+          "answer": "ispitamo",
+          "feedback_incorrect": "Važno je ne postati dio lanca koji širi lažne vijesti. Kako biste to izbjegli, važno je istražiti prije dijeljenja",
+          "feedback_correct": "Doista, istraživanje prije dijeljenja čudne vijesti najprikladnija je taktika. Istražite odakle je vijest došla i je li izvor vjerodostojan"
+        }
+      ]
+    },
+    {
+      "author": "SYNCNIFY",
+      "topic": "Trolanje i mamac za klikove",
+      "questions": [
+        {
+          "question": "Clickbait može dovesti do web-mjesta s _, koja trate vaše vrijeme s razočaravajućim sadržajem i traže osobne podatke.",
+          "options": ["virusima", "pričama", "anektama", "ponudama"],
+          "answer": "virusima",
+          "feedback_incorrect": "Ups. Clickbait može dovesti do web-mjesta s _, gubitka vremena s razočaravajućim sadržajem i ponekad traže osobne podatke Najbolje je to izbjegavati.",
+          "feedback_correct": "Točno! Clickbait može dovesti do web-mjesta s _, gubitka vremena s razočaravajućim sadržajem i ponekad traže osobne podatke Pazite na što kliknete"
+        },
+        {
+          "question": "Kako biste izbjegli da vas clickbait prevari, provjerite_članka, potražite senzacionalan ili pretjeran jezik i provjerite informacije na pouzdanim web-mjestima.",
+          "options": ["izvor", "duljinu", "naslov", "fotografije"],
+          "answer": "izvor",
+          "feedback_incorrect": "Netočno Kako vas clickbait ne bi prevario, pokušajte provjeriti podatke putem pouzdanih web-mjesta.",
+          "feedback_correct": "Točno! Kako biste izbjegli da vas clickbait prevari, provjerite_članak, potražite senzacionalan ili pretjeran jezik i provjerite informacije na pouzdanim web-mjestima."
+        },
+        {
+          "question": "Ako vas netko maltretira, ne biste trebali _ jer to može eskalirati situaciju.",
+          "options": ["odgovoriti im", "blokirati ih", "ignorirati ih", "zaobići ih"],
+          "answer": "odgovoriti im",
+          "feedback_incorrect": "Ne baš Ako vas netko maltretira, izbjegavajte mu odgovoriti jer to može eskalirati situaciju.",
+          "feedback_correct": "Tako je! Ako vas netko maltretira, trebali biste ga izbjegavati jer to može eskalirati situaciju. Umjesto toga, potražite pomoć i savjet."
+        }
+      ]
+    },
+    {
+      "author": "TRH",
+      "topic": "Karakteristike društvenih mreža",
+      "questions": [
+        {
+          "question": "Na društvenim mrežama,_ je poruka koja se može poslati jednoj ili više osoba _.",
+          "options": [
+            "izravna poruka, privatno",
+            "izravna poruka, javno",
+            "objava, privatno",
+            "izravna poruka, otvoreno"
+          ],
+          "answer": "izravna poruka, privatno",
+          "feedback_incorrect": "Još samo malo! Pokušajte ponovno i provjerite možete li pronaći točan odgovor! \"Objava\" je nešto što osoba javno šalje svim svojim kontaktima na˝feed˝ društvene mreže, dok je izravna poruka prilično suprotna tome.",
+          "feedback_correct": "Tako je, odličan posao! Izravna poruka šalje se privatno jednom ili više kontakata, ponekad u dijeljenoj grupi koja se zove grupno čavrljanje. To je nešto suprotno od \"objave\"; nešto što osoba javno šalje svim svojim kontaktima putem ˝feeda˝ na društvenoj mreži."
+        },
+        {
+          "question": "_ je slika, simbol ili \"_\" (digitalna odjeća) koja se koristi za predstavljanje sebe na mreži.",
+          "options": ["Avatar, tema", "Simbol, kombinacija", "Ikona, dizajn", "Avatar, obuća"],
+          "answer": "Avatar, tema",
+          "feedback_incorrect": "Još samo malo! Pokušajte ponovno i provjerite možete li pronaći točan odgovor! Avatar ili „tema” malo se razlikuje od profilne slike na platformi društvenih mreža kao što je Facebook. Dok ljudi na Facebooku često koriste svoju sliku, na nekim manje formalnim platformama društvenih medija i u video igrama, korisnici odabiru avatare ili nose \"korisnički izgled\" kako bi se predstavili.",
+          "feedback_correct": "Tako je, odličan posao! Avatar ili „tema” malo se razlikuje od profilne slike na platformi društvenih mreža kao što je Facebook. Dok ljudi na Facebooku često koriste svoju sliku, na nekim manje formalnim platformama društvenih medija i u video igrama, korisnici odabiru avatare ili nose \"korisnički izgled\" kako bi se predstavili."
+        }
+      ]
+    }
+  ],
+  "MultipleChoice": [
+    {
+      "author": "CESIE",
+      "topic": "I principi del fact-checking (la verifica dei fatti)",
+      "questions": [
+        {
+          "question": "Quale delle seguenti opzioni rappresenta un buon modo per verificare se un’immagine vista online è reale?",
+          "options": [
+            "Credere che sia vera perché sembra interessante.",
+            "Utilizzare la ricerca per immagini per trovare i luoghi in cui compare l’immagine.",
+            "Chiedere all3 amic3 se hanno visto l’immagine.",
+            "Presumere che l’immagine sia finta."
+          ],
+          "answers": [
+            "Utilizzare la ricerca per immagini per trovare i luoghi in cui compare l’immagine."
+          ],
+          "feedback_incorrect": "Bel tentativo! Sbagliare a volte ci fa imparare qualcosa. Quando un’immagine che trovi online ti sembra strana, può essere utile eseguire una ricerca per immagini. Questo strumento ti permette di trovare i luoghi in cui l’immagine è stata usata, fornendoti indizi sulla sua autenticità. Continua a fare pratica e diventerai sempre più brav3 a riconoscere una foto reale!",
+          "feedback_correct": "Ottimo lavoro! Svolgere una ricerca per immagini per trovare i luoghi in cui l’immagine appare è un modo intelligente per verificarne l’autenticità. Questo strumento ti consente di vedere se l’immagine è già stata usata o se potrebbe essere stata modificata. Continua a svolgere un buon lavoro per verificare l’autenticità delle informazioni che trovi online!"
+        },
+        {
+          "question": "Qual è la prima cosa da fare per controllare se una notizia che hai letto online è vera?",
+          "options": [
+            "Condividere la notizia con l3 amic3",
+            "Leggere solo il titolo",
+            "Controllare la data e la fonte della storia",
+            "Ignorare la notizia"
+          ],
+          "answers": ["Controllare la data e la fonte della storia"],
+          "feedback_incorrect": "Bel tentativo! Commettere qualche errore è utile perché ci permette di imparare qualcosa. Quando leggi una notizia online, la prima cosa che dovresti fare per verificare se è vera è guardare la data e la fonte da cui è tratta la storia. Controllare la data ti consente di sapere se si tratta di un’informazione attuale, invece verificare la fonte permette di capire se è attendibile. Continua a fare pratica e diventerai più brav3 a verificare i fatti.",
+          "feedback_correct": "Ottimo lavoro! Controllare la data e la fonte della storia è un ottimo punto di partenza per verificare l’autenticità della fonte. Conoscere la data ti permette di sapere se la notizia è attuale e individuare la fonte è utile per comprenderne l’affidabilità. Continua ad applicare queste competenze per essere sicur3 che le informazioni ottenute siano accurate. Ben fatto!"
+        },
+        {
+          "question": "Cosa dovresti fare se trovi una notizia su un sito web, ma non sei sicur3 che sia vera?",
+          "options": [
+            "Controllare la pagina “Chi siamo” del sito web per ottenere informazioni sull3 autor3 della notizia",
+            "Fidarsi del sito web se ha una grafica interessante",
+            "Credere alla notizia perché corrisponde alle tue convinzioni",
+            "Ignorare tutti i siti web"
+          ],
+          "answers": [
+            "Controllare la pagina “Chi siamo” del sito web per ottenere informazioni sull3 autor3 della notizia"
+          ],
+          "feedback_incorrect": "Bel tentativo! Sebbene tu abbia sbagliato, hai la possibilità di imparare dagli errori. Quando cerchi un’informazione su un sito web e non sei sicur3 che sia vera, è una buona idea controllare la pagina “Chi siamo” del sito web.  In questo modo, ricevi informazioni sull’autor3. Continua a fare pratica e diventerai sempre più brav3 a individuare fonti attendibili!",
+          "feedback_correct": "Fantastico! Controllare la pagina “Chi siamo” del sito web per raccogliere informazioni sull3 autor3 è una mossa intelligente. Ti permette di conoscere chi ha scritto l’informazione e di sapere se si tratta di espert3 del settore. Continua a svolgere un buon lavoro, applicando le tue competenze di verifica dei fatti!"
+        }
+      ]
+    },
+    {
+      "author": "CPIP",
+      "topic": "I contenuti falsi più comuni sui media",
+      "questions": [
+        {
+          "question": "L3 cantante che ti piace annuncia sui social media che si sta ritirando dall’industria musicale per motivi di salute. Come reagisci?",
+          "options": [
+            "Controlli i suoi profili social per vedere se sono quelli ufficiali",
+            "Condividi l’informazione con l3 amic3",
+            "Condividi l’informazione sul tuo profilo per raggiungere un pubblico ampio",
+            "Controlli le ultime notizie per vedere se il suo profilo è stato hackerato."
+          ],
+          "answers": [
+            "Controlli i suoi profili social per vedere se sono quelli ufficiali",
+            "Controlli le ultime notizie per vedere se il suo profilo è stato hackerato."
+          ],
+          "feedback_incorrect": "Ci eri vicin3! Non ti preoccupare, tutt3 noi commettiamo errori. ",
+          "feedback_correct": "Wow, hai risposto correttamente! Sei veramente brav3! Spesso vengono creati dei profili fake e l3 sconosciut3 pubblicano contenuti per conto di artist3 famos3."
+        },
+        {
+          "question": "Un3 artista3 famos3 condivide una storia in cui si afferma che i cani possono parlare come gli esseri umani. Probabilmente questa storia è:",
+          "options": ["Noiosa", "Fantastica", "Falsa", "Inverosimile"],
+          "answers": ["Falsa", "Inverosimile"],
+          "feedback_incorrect": "Eri vicin3 alla risposta! Non ti preoccupare, tutt3 noi commettiamo degli errori. Anche se si tratta di persone famose, non significa che abbiano sempre ragione.",
+          "feedback_correct": "Wow, hai risposto correttamente! Sei veramente brav3! Generalmente l3 artist3 famos3 non influenzano negativamente il loro pubblico, diffondendo notizie false. "
+        }
+      ]
+    },
+    {
+      "author": "DANTE",
+      "topic": "Tipologie di disinformazione ",
+      "questions": [
+        {
+          "question": "Come si definiscono una foto o un video modificati per mostrare qualcosa che non è successo?",
+          "options": ["Contenuto manipolato", "Contenuto fuorviante", "Bufale", "Contenuto falso"],
+          "answers": ["Contenuto manipolato"],
+          "feedback_incorrect": "Pensa a quando le immagini o i video vengono modificati per mostrare che qualcosa non è accaduto. Ciò che vediamo viene modificato o alterato.",
+          "feedback_correct": "Un contenuto manipolato consiste in un’immagine o un video modificato o ritoccato per mostrare qualcosa che non è veramente successo. È come giocare con una foto o un video per farli apparire diversi o divertenti, ma a volte le persone applicano queste modifiche per ingannare gli altri."
+        },
+        {
+          "question": "Come si definisce una storia falsa condivisa per scherzo ma a cui le persone credono realmente?",
+          "options": ["Contenuti inventati", "Pettegolezzi", "Satira o parodia", "Contenuti falsi"],
+          "answers": ["Satira o parodia"],
+          "feedback_incorrect": "Quando una persona condivide una notizia falsa per scherzo, ma la gente crede che sia vera, è come se venisse fatto uno scherzo divertente che riguarda una storia apparentemente reale ma non vera. Come si chiamano queste storie divertenti a cui le persone potrebbero credere?",
+          "feedback_correct": "Le satire o le parodie sono storie spassose o scherzi inventati per far ridere le persone. Spesso sembrano serie, ma sono destinate a essere divertenti e a farci ridere."
+        },
+        {
+          "question": "Se un sito web finge di essere un media famoso ma condivide informazioni false, di che tipo di disinformazione si tratta?",
+          "options": [
+            "Contenuto fuorviante",
+            "Contenuto ingannatore",
+            "Satira o parodia",
+            "Contenuti falsi"
+          ],
+          "answers": ["Contenuto ingannatore"],
+          "feedback_incorrect": "A volte un sito web finge di essere una fonte di notizie famosa, ma le notizie che condivide non sono vere. Come viene definito il sito web in questo caso?",
+          "feedback_correct": "Un contenuto ingannatore è simile a una persona che si traveste con un costume, fingendo di essere qualcun altro. Allo stesso modo, un sito web o un profilo di un social media può fingere di essere una nota fonte di notizie o una persona affidabile, ma non esserlo realmente. In questo caso, vengono condivise notizie o informazioni che non sono vere o che sono inventate. Questo può ingannare le persone e far credere loro ciò che non è reale."
+        }
+      ]
+    },
+    {
+      "author": "ODYSSEA",
+      "topic": "I contenuti fuorvianti",
+      "questions": [
+        {
+          "question": "Quale delle seguenti opzioni è utile per verificare l’attendibilità di una notizia?",
+          "options": [
+            "Vedere se la notizia è stata pubblicata su siti web attendibili.",
+            "Controllare la data di pubblicazione della notizia.",
+            "Fidarsi dell’opinione dell3 amic3 sulla notizia.",
+            "Cercare lo stesso argomento su diverse fonti."
+          ],
+          "answers": [
+            "Vedere se la notizia è stata pubblicata su siti web attendibili.",
+            "Controllare la data di pubblicazione della notizia.",
+            "Cercare lo stesso argomento su diverse fonti."
+          ],
+          "feedback_incorrect": "I nostri amici hanno buone intenzioni ma a volte sono anche vittime della disinformazione!",
+          "feedback_correct": "Controllare se la notizia è stata pubblicata su siti web attendibili garantisce che la fonte sia nota per la sua accuratezza. Verificare la data di pubblicazione permette di confermare che l’informazione sia attuale e rilevante. Cercare lo stesso argomento su fonti diverse consente di fare un riferimento incrociato dei fatti, incrementando la credibilità della notizia e fornendo una prospettiva completa. Questi passaggi garantiscono che le notizie ottenute siano accurate e attendibili."
+        },
+        {
+          "question": "Quale delle seguenti fonti sono attendibili per verificare le informazioni?",
+          "options": [
+            "I siti web ufficiali dei governi",
+            "I siti web con tanti annunci pubblicitari",
+            "Le agenzie di stampa riconosciute",
+            "I blog e le pagine personali"
+          ],
+          "answers": ["I siti web ufficiali dei governi", "Le agenzie di stampa riconosciute"],
+          "feedback_incorrect": "I siti web con tante pubblicità e i blog spesso non sono affidabili per verificare le informazioni perché di solito il loro obiettivo principale è quello di generare un fatturato o condividere opinioni personali piuttosto che fornire informazioni accurate e imparziali. La presenza di tanti annunci pubblicitari può indicare un’attenzione sui contenuti clickbait per attrarre la gente, compromettendo la qualità e la credibilità delle informazioni. I blog, essendo piattaforme personali, spesso non hanno una supervisione editoriale e non verificano i fatti rigorosamente, presentando contenuti pieni di errori e inesattezze.",
+          "feedback_correct": "I siti web ufficiali dei governi e le agenzie di stampa riconosciute seguono pratiche predefinite e politiche severe per effettuare controlli incrociati sulle informazioni che pubblicano e si avvalgono di giornalist3 professionist3 che non rischierebbero la loro reputazione, pubblicando notizie false."
+        }
+      ]
+    },
+    {
+      "author": "SYNCIFY",
+      "topic": "Troll e clickbait",
+      "questions": [
+        {
+          "question": "Come reagire al commento di un troll?",
+          "options": [
+            "Rispondere con un commento cattivo",
+            "Ignorare il commento",
+            "Segnalare il commento",
+            "Condividere il commento con l3 amic3"
+          ],
+          "answers": ["Ignorare il commento", "Segnalare il commento"],
+          "feedback_incorrect": "Questa non è l’idea migliore. Se leggi questo tipo di commenti, è meglio ignorarli o segnalarli. Farsi coinvolgere in una conversazione a riguardo o condividere i commenti può peggiorare la situazione.",
+          "feedback_correct": "Ottimo lavoro! Se leggi questo tipo di commento, è meglio ignorarlo o segnalarlo. In questo modo, contribuisci a mantenere internet un luogo piacevole."
+        },
+        {
+          "question": " Come puoi stabilire se si tratta di clickbait?",
+          "options": [
+            "Il titolo è accattivante ma il contenuto è scadente",
+            "È scritto da un3 amic3",
+            "Contiene tante immagini sulla natura",
+            "Il titolo fa una premessa che nell’articolo non viene rispettata"
+          ],
+          "answers": [
+            "Il titolo è accattivante ma il contenuto è scadente",
+            "Il titolo fa una premessa che nell’articolo non viene rispettata"
+          ],
+          "feedback_incorrect": "Sbagliato. Si parla di clickbait quando il titolo è accattivante e ti persuade a cliccarci sopra, ma il reale contenuto di solito è scadente o non corrisponde al titolo.",
+          "feedback_correct": "È corretto! Il clickbait ha un titolo persuasivo che ti convince a cliccarci sopra, ma il contenuto è spesso scadente o non corrisponde alla premessa presente nel titolo."
+        },
+        {
+          "question": "Quali elementi hanno in comune i commenti dei troll?",
+          "options": [
+            "Il commento è molto educato e rispettoso",
+            "Il commento contiene insulti o appellativi spiacevoli",
+            "Il commento vuole provocare una discussione",
+            "Il commento condivide informazioni utili"
+          ],
+          "answers": [
+            "Il commento contiene insulti o appellativi spiacevoli",
+            "Il commento vuole provocare una discussione"
+          ],
+          "feedback_incorrect": "Provaci ancora! Questo tipo di commenti spesso contiene insulti, appellativi spiacevoli o il tentativo di provocare una discussione. I commenti educati e rispettosi di solito non sono scritti dai troll.",
+          "feedback_correct": "È corretto! I commenti scritti dai troll spesso contengono insulti, appellativi spiacevoli o il tentativo di provocare una discussione. Cerca interazioni rispettose ed educate online."
+        }
+      ]
+    },
+    {
+      "author": "TRH",
+      "topic": "Caratteristiche dei social media  ",
+      "questions": [
+        {
+          "question": "Quale delle seguenti opzioni rappresenta un esempio di social media?",
+          "options": ["Instagram", "Google", "TikTok", "Netflix"],
+          "answers": ["Instagram", "TikTok"],
+          "feedback_incorrect": "Ci sei quasi! Prova ancora e vedi se riesci a trovare la risposta corretta! Ricordati che non tutti i servizi di internet sono piattaforme di social media. Le piattaforme di social media ci consentono di entrare in contatto con altre persone, spesso tramite l’uso di messaggi.",
+          "feedback_correct": "È giusto, ottimo lavoro! I social media sono diversi dagli altri servizi presenti online perché ci permettono di connetterci con altre persone, spesso tramite l’uso di messaggi."
+        },
+        {
+          "question": "Cosa puoi fare sui social media?",
+          "options": [
+            "Leggere libri",
+            "Fare dei giochi sullo sport",
+            "Condividere foto e video",
+            "Comunicare con altre persone"
+          ],
+          "answers": ["Condividere foto e video", "Comunicare con altre persone"],
+          "feedback_incorrect": "Ci sei quasi! Prova ancora e vedi se riesci a individuare la risposta corretta! I social media possono essere usati in diversi modi, ma la caratteristica principale consiste nell’entrare in contatto con la gente. In quali modi potresti comunicare con la gente usando i social media?",
+          "feedback_correct": "È giusto, ottimo lavoro! I social media sono usati principalmente per entrare in contatto con la gente, soprattutto attraverso la condivisione di foto e video o lo scambio di messaggi."
+        },
+        {
+          "question": "Quale caratteristica hanno in comune i social media?",
+          "options": ["Inviare messaggi", "Connettersi con amic3", "Cucinare cibo", "Viaggiare"],
+          "answers": ["Inviare messaggi", "Connettersi con amic3"],
+          "feedback_incorrect": "Ci sei quasi – puoi trovare sicuramente la risposta corretta! Molte persone potrebbero pubblicare sui social media diversi contenuti come, ad esempio, le foto dei loro pasti o delle loro vacanze, ma questa non è una caratteristica dei social media. Per esempio, una caratteristica di Snapchat è quella di inviare foto. Provaci ancora!",
+          "feedback_correct": "È giusto, ottimo lavoro! Tra le caratteristiche più comuni e importanti che rendono i social media ciò che sono vi è la loro capacità di inviare messaggi e farci connettere con la gente."
+        },
+        {
+          "question": "Quale delle seguenti opzioni non è un modo per mantenere la propria sicurezza sui social media?",
+          "options": [
+            "Condividere l’indirizzo di casa",
+            "Utilizzare le impostazione della privacy",
+            "Rivelare la posizione",
+            "Segnalare i contenuti inappropriati"
+          ],
+          "answers": ["Condividere l’indirizzo di casa", "Rivelare la posizione"],
+          "feedback_incorrect": "Ci sei quasi! Prova ancora e vedi se riesci a trovare la risposta corretta! Non tutte le azioni che compi sui social media sono negative. Per esempio, segnalare i contenuti inappropriati o utilizzare le impostazioni della privacy sono ottime idee per mantenere la propria sicurezza online. Condividere dettagli privati riguardanti la propria vita, quindi, non è una buona idea e potrebbe metterti in pericolo.",
+          "feedback_correct": "È giusto, ottimo lavoro! Condividere i dettagli privati della tua vita online come, ad esempio, il tuo indirizzo di casa o la tua posizione, è una pessima idea e potrebbe metterti in pericolo. Se vedi qualcosa di inappropriato online, prova a segnalarlo e utilizza sempre le impostazioni della privacy per mantenere i tuoi dati personali al sicuro."
+        }
+      ]
+    }
+  ],
+  "FillInTheBlank": [
+    {
+      "author": "CESIE",
+      "topic": "Primjena medijske pismenosti u praktičnim okruženjima",
+      "questions": [
+        {
+          "question": "Prilikom ocjenjivanja novinskih članaka važno je razmotriti_informacije i provjeriti ih s više pouzdanih izvora prije donošenja zaključaka.",
+          "answers": [["izvor"]],
+          "feedback_incorrect": "Dobar pokušaj! Umjesto da se usredotočite isključivo na izvor informacija, najbolji pristup je razmotriti vjerodostojnost izvora i provjeriti informacije s više pouzdanih izvora prije donošenja zaključaka. Ova metoda osigurava da svoje razumijevanje temeljite na različitim perspektivama i smanjujete rizik od dezinformacija. Uspoređujući informacije iz različitih pouzdanih izvora, možete dobiti sveobuhvatniji uvid u temu i donositi dobro informirane odluke.",
+          "feedback_correct": "Izvrstan posao! Ispravno ste utvrdili da su prilikom ocjenjivanja novinskih članaka, razmatranje izvora informacija i njihova provjera s više pouzdanih izvora ključni koraci prije donošenja zaključaka. Ovaj pristup osigurava da se vaše razumijevanje temelji na vjerodostojnim i dobro podržanim informacijama, čime se smanjuje rizik od dezinformacija. Usporedbom informacija iz različitih pouzdanih izvora možete dobiti uravnoteženiju i točniju perspektivu na tu temu."
+        },
+        {
+          "question": "Prije dijeljenja informacija na društvenim mrežama, ključno je procijeniti sadržaj kako bi se izbjeglo širenje dezinformacija",
+          "answers": [["vjerodostojnost"]],
+          "feedback_incorrect": "Sljedeći put će biti bolje! Umjesto da se pretpostavlja da su sve informacije točne ili da se zanemaruje potreba za provjerom vjerodostojnosti, ključno je procijeniti vjerodostojnost sadržaja prije dijeljenja kako bi se spriječilo širenje dezinformacija. Provjerom pouzdanosti i točnosti informacija prije nego što ih podijelite s drugima, možete pomoći u promicanju pouzdanog sadržaja i pridonijeti informiranijoj mrežnoj zajednici. Primjena ovog pristupa jača vašu sposobnost razlikovanja vjerodostojnih izvora od potencijalno obmanjujućih",
+          "feedback_correct": "Ispravno ste utvrdili da je pri dijeljenju informacija na društvenim mrežama ključno procijeniti vjerodostojnost sadržaja kako bi se izbjeglo širenje dezinformacija. Procjenom vjerodostojnosti informacija prije dijeljenja možete osigurati da je sadržaj točan i pouzdan. Ova praksa promiče odgovorno dijeljenje i doprinosi održavanju integriteta informacija koje cirkuliraju na platformama društvenih medija. Dobro obavljeno!"
+        }
+      ]
+    },
+    {
+      "author": "CPIP",
+      "topic": "Teorije istine",
+      "questions": [
+        {
+          "question": "Prema _, izjava se smatra istinitom ako je usklađena sa stvarnošću ili vidljivim činjenicama.",
+          "answers": [["teoriji korespondencije"]],
+          "feedback_incorrect": "Bili ste blizu! U redu je, svi griješimo. Imajte na umu da dezinformacije mogu manipulirati javnim dnevnim redovima.",
+          "feedback_correct": "Wow, točno ste odgovorili! Vrlo ste dobri u ovome! Dezinformacije mogu iskriviti građanske prioritete."
+        },
+        {
+          "question": "U_ perspektivi, istina se konstruira kroz društvene i kulturne procese, odražavajući norme i vrijednosti zajednice.",
+          "answers": [["konstruktivističk teeorije"]],
+          "feedback_incorrect": "Bili ste blizu! U redu je, svi griješimo. Imajte na umu da dezinformacije mogu manipulirati javnim dnevnim redovima.",
+          "feedback_correct": "Wow, točno ste odgovorili! Vrlo ste dobri u ovome! Dezinformacije mogu iskriviti građanske prioritete."
+        },
+        {
+          "question": "Prema _, istina izjave ovisi o njezinoj koherentnosti unutar logičkog sustava uvjerenja ili izjava.",
+          "answers": [["teoriji koherentnosti"]],
+          "feedback_incorrect": "Bili ste blizu! U redu je, svi griješimo. Radi se o unutarnjem skladu ideja kao kriteriju za utvrđivanje istine.",
+          "feedback_correct": "Wow, točno ste odgovorili! Vrlo ste dobri u ovome! Istinitost izjave ovisi o tome koliko je logički koherentna unutar okvira uvjerenja."
+        }
+      ]
+    },
+    {
+      "author": "DANTE",
+      "topic": "Procjena antidisinformacijskih mehanizama",
+      "questions": [
+        {
+          "question": "Programi medijske pismenosti imaju za cilj poboljšati sposobnost javnosti da kritički_ informira, čineći ih manje podložnima dezinformacijama.",
+          "answers": [["procjenjuje"]],
+          "feedback_incorrect": "Programi medijske pismenosti usmjereni su na poboljšanje vještina koje pomažu pojedincima u procjeni točnosti i vjerodostojnosti informacija. Koja je opcija usklađena s ovim ciljem?",
+          "feedback_correct": "Programi medijske pismenosti obrazovne su inicijative namijenjene podučavanju pojedinaca kako kritički pristupiti, analizirati, vrednovati i stvarati medijske sadržaje."
+        },
+        {
+          "question": "Kako bi se procijenio uspjeh strategija za borbu protiv dezinformiranja, ključno je analizirati utjecaj lažnih informacija prije i nakon provedbe.",
+          "answers": [["doseg"]],
+          "feedback_incorrect": "Učinkovita procjena strategija za borbu protiv dezinformiranja uključuje ispitivanje koliko se šire lažne informacije i njihov učinak na percepciju javnosti. Koji pojam najbolje opisuje ovaj aspekt analize?",
+          "feedback_correct": "Prije provedbe strategija za borbu protiv dezinformiranja, ključno je uspostaviti osnovne metrike kako bi se razumjela trenutna prevalencija i utjecaj lažnih informacija. To može uključivati analizu dosega, angažmana i viralnosti dezinformacija na različitim platformama."
+        }
+      ]
+    },
+    {
+      "author": "DANTE",
+      "topic": "Osmišljavanje projekata za borbu protiv dezinformacija",
+      "questions": [
+        {
+          "question": "Ključna komponenta projekta osmišljenog za borbu protiv dezinformacija je _, koja uključuje edukaciju i obuku javnosti o prepoznavanju lažnih informacija i poboljšanju njihovih vještina medijske pismenosti.",
+          "answers": [["javno obrazovanje"]],
+          "feedback_incorrect": "Ključna komponenta uključuje pružanje znanja i vještina javnosti kako bi im se pomoglo da prepoznaju i razumiju lažne informacije u medijima.",
+          "feedback_correct": "Javno obrazovanje u medijskoj pismenosti podrazumijeva podučavanje pojedinaca kako kritički vrednovati, analizirati i stvarati medijske sadržaje. Cilj je osnažiti ljude da postanu pronicljivi potrošači i proizvođači medija, prepoznajući predrasude, razumijevajući utjecaj medija na javno mnijenje i učinkovito koristeći medije za komunikaciju i izražavanje."
+        }
+      ]
+    },
+    {
+      "author": "ODYSSEA",
+      "topic": "Karakteristike razdoblja nakon istine",
+      "questions": [
+        {
+          "question": "U eri post-istine, utjecaj_ često nadmašuje objektivne činjenice.",
+          "answers": [["emocije"]],
+          "feedback_incorrect": "Emocije su važne u eri nakon istine jer potiču angažman i utječu na mišljenja učinkovitije od objektivnih činjenica.",
+          "feedback_correct": "Emocionalni apeli duboko rezoniraju s pojedincima, usklađujući se s njihovim osobnim uvjerenjima i identitetima. Algoritmi društvenih medija daju prioritet emocionalno nabijenom sadržaju, pojačavajući njegov doseg i utjecaj. Ova emocionalna rezonancija stvara snažne, nezaboravne narative koji često zasjenjuju činjeničnu točnost. Slijedom toga, emocije oblikuju javni diskurs i donošenje odluka u post-istinskom krajoliku."
+        },
+        {
+          "question": "Širenje dezinformacija u eri post-istine ubrzavaju _ mediji.",
+          "answers": [["društveni"]],
+          "feedback_incorrect": "Društveni mediji pojačavaju dezinformacije i odjek, koje jačaju osobna uvjerenja i smanjuju izloženost različitim perspektivama. ",
+          "feedback_correct": "Društveni mediji pojačavaju dezinformacije i odjek, koje jačaju osobna uvjerenja i smanjuju izloženost različitim perspektivama. "
+        }
+      ]
+    },
+    {
+      "author": "ODYSSEA",
+      "topic": "Utjecaj „dezinfodemije“ na zdravlje",
+      "questions": [
+        {
+          "question": "Zbog širenja dezinformacija, neki pojedinci mogu odlučiti napustiti tretmane koji se temelje na _ u korist nedokazanih tretmana.",
+          "answers": [["dokazima"]],
+          "feedback_incorrect": "Razmotrite koje vrste liječenja obično podupiru znanstvena istraživanja i preporučuju ih zdravstveni djelatnici.",
+          "feedback_correct": "Izvrsno! Prepoznali ste važnost tretmana koji su potvrđeni znanstvenim istraživanjima."
+        },
+        {
+          "question": "Lažne informacije o zdravstvenim rizicima mogu uzrokovati rasprostranjenost _, što navodi ljude da izbjegavaju potrebne medicinske tretmane.",
+          "answers": [["panike"]],
+          "feedback_incorrect": "Razmislite o emocionalnom odgovoru koji vodi ljude da izbjegavaju potrebne medicinske tretmane zbog straha.",
+          "feedback_correct": "Odlično! Otkrili ste da rasprostranjena panika može uzrokovati da ljudi izbjegavaju potrebne medicinske tretmane."
+        }
+      ]
+    },
+    {
+      "author": "TRH",
+      "topic": "Važnost istine u novinarstvu",
+      "questions": [
+        {
+          "question": "Kako bi se izbjegla pristranost, novinari bi trebali pružiti _ mišljenja u svom izvještavanju.",
+          "answers": [["izbalansiranost"]],
+          "feedback_incorrect": "Još samo malo! Pokušajte ponovno! Predrasude je vrlo teško u potpunosti eliminirati, jer svi imamo inherentne predrasude kojih možda nismo ni svjesni. Međutim, izbjegavanje pristranosti u novinarstvu olakšava se usredotočujući se na pružanje uravnoteženih i točnih stajališta.",
+          "feedback_correct": "Dobar posao, to je točno! Predrasude je vrlo teško u potpunosti eliminirati, jer svi imamo inherentne predrasude kojih možda nismo ni svjesni. Međutim, izbjegavanje pristranosti u novinarstvu olakšava se usredotočujući se na pružanje uravnoteženih i točnih stajališta."
+        },
+        {
+          "question": "Vjerodostojnost medija često je određena njihovom predanošću _ i transparentnošću.",
+          "answers": [["točnosti"]],
+          "feedback_incorrect": "Još samo malo! Pokušajte ponovno! Mediji koji se bave etičkim novinarstvom trebali bi se u najvećoj mogućoj mjeri usredotočiti na pružanje točnih, transparentnih i vjerodostojnih izvještaja koji se rigorozno provjeravaju.",
+          "feedback_correct": "Dobar posao, to je točno! Mediji koji se bave etičkim novinarstvom trebali bi se u najvećoj mogućoj mjeri usredotočiti na pružanje točnih, transparentnih i vjerodostojnih izvještaja koji se rigorozno provjeravaju."
+        }
+      ]
+    }
+  ]
+}
