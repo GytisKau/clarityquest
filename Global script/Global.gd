@@ -7,4 +7,5 @@ var language_current: String = "EN"
 var translation: Dictionary
 var current_level: String
 var player_id: String = ""
+var use_tracking : bool = false
 #var track_url: String = "http://localhost/ClarityQuest/track.php"

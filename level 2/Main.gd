@@ -5,7 +5,7 @@ extends Node
 @onready var http: HTTPRequest = $HTTPRequest
 
 func _ready():
-	if OS.has_feature("web"):
+	if Global.use_tracking && OS.has_feature("web"):
 		var window = JavaScriptBridge.get_interface("window")
 		var track_url = window.location.href + "track.php"
 

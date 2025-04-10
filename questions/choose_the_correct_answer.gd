@@ -95,6 +95,10 @@ func _on_check_button_pressed() -> void:
 		dis.bg_color = Color(1, 0.8, 0)
 
 	pressed_button.add_theme_stylebox_override("disabled", dis)
+	feedback_button.show()
+	next_button.show()
+	next_button.grab_focus()
+	
 	
 	# Let the user guess again
 	if attempt < 3 && !correct: return
@@ -120,12 +124,7 @@ func _on_check_button_pressed() -> void:
 	# Disable buttons
 	for button: Button in buttons.get_children():
 		button.disabled = true;
-		#if button.pressed.is_connected(CheckAwnswer):
-			#button.pressed.disconnect(CheckAwnswer)	
 	
-	feedback_button.show()
-	next_button.show()
-	next_button.grab_focus()
 	check_button.hide()
 		
 func set_stylebox_border(stylebox: StyleBoxFlat, thickness: int) -> void:

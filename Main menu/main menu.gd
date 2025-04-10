@@ -11,10 +11,10 @@ func _ready():
 	elif Global.shared_variable == true:
 		player.play("Fade in")
 
-	if OS.has_feature("web"):
+	if Global.use_tracking && OS.has_feature("web"):
 		UpdatePlayerID(JavaScriptBridge.get_interface("localStorage"))
 	else:
-		print("The JavaScriptBridge singleton is NOT available")
+		print("Tracking is disabled or this is not the Web")
 		Global.player_id = "guest"
 	
 
