@@ -26,6 +26,8 @@ func _ready() -> void:
 	next_button.text = Global.translation["Next"]
 	_show_question()
 	stylebox_norm = inputs[0].get_theme_stylebox("normal").duplicate(true)
+	DisplayServer.virtual_keyboard_show("Labas")
+	
 
 func initialize(p_question_group: Dictionary, p_feedback: PanelContainer, p_score_label: Label) -> void:
 	question_group = p_question_group
