@@ -77,6 +77,7 @@ func _show_question():
 			var lineEdit = LineEdit.new()
 			lineEdit.expand_to_text_length = true
 			lineEdit.caret_blink = true
+			lineEdit.editing_toggled.connect(fullscreen_handle)
 
 			for sub_answer: String in answer:
 				if lineEdit.max_length < sub_answer.length():
@@ -87,9 +88,9 @@ func _show_question():
 	
 	if DisplayServer.window_get_mode() == DisplayServer.WINDOW_MODE_FULLSCREEN && not inputs.is_empty():
 		was_fullscreen = true
-		print("Changing to Windowed")
-		DisplayServer.window_set_mode(DisplayServer.WINDOW_MODE_WINDOWED)
-		inputs[0].grab_click_focus()
+		#print("Changing to Windowed")
+		#DisplayServer.window_set_mode(DisplayServer.WINDOW_MODE_WINDOWED)
+		#inputs[0].grab_click_focus()
 
 
 func _on_check_button_pressed() -> void:
@@ -151,14 +152,26 @@ func _on_check_button_pressed() -> void:
 	# Let the user guess again
 	if attempt < 3 && !passed: return
 	
-	if was_fullscreen and DisplayServer.window_get_mode() == DisplayServer.WINDOW_MODE_WINDOWED:
-		print("Changing back to Fullscreen")
-		DisplayServer.window_set_mode(DisplayServer.WINDOW_MODE_FULLSCREEN)
+	#if was_fullscreen and DisplayServer.window_get_mode() == DisplayServer.WINDOW_MODE_WINDOWED:
+		#print("Changing back to Fullscreen")
+		#DisplayServer.window_set_mode(DisplayServer.WINDOW_MODE_FULLSCREEN)
 	
 	display_correct_answers()
 	check_button.hide()
 	next_button.grab_focus()
 		
+
+func fullscreen_handle(toggled_on: bool) -> void:
+	if not was_fullscreen: 
+		return
+	
+	match DisplayServer.window_get_mode():
+		DisplayServer.WINDOW_MODE_FULLSCREEN:
+			print("Changing to Windowed")
+			DisplayServer.window_set_mode(DisplayServer.WINDOW_MODE_WINDOWED)
+		DisplayServer.WINDOW_MODE_WINDOWED:
+			print("Changing back to Fullscreen")
+			DisplayServer.window_set_mode(DisplayServer.WINDOW_MODE_FULLSCREEN)
 
 func display_correct_answers() -> void:
 	var answers: Array = question["answers"].duplicate(true)
