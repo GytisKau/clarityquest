@@ -88,10 +88,6 @@ func _show_question():
 	
 	if DisplayServer.window_get_mode() == DisplayServer.WINDOW_MODE_FULLSCREEN && not inputs.is_empty():
 		was_fullscreen = true
-		#print("Changing to Windowed")
-		#DisplayServer.window_set_mode(DisplayServer.WINDOW_MODE_WINDOWED)
-		#inputs[0].grab_click_focus()
-
 
 func _on_check_button_pressed() -> void:
 	# Check empty inputs case
@@ -151,10 +147,6 @@ func _on_check_button_pressed() -> void:
 
 	# Let the user guess again
 	if attempt < 3 && !passed: return
-	
-	#if was_fullscreen and DisplayServer.window_get_mode() == DisplayServer.WINDOW_MODE_WINDOWED:
-		#print("Changing back to Fullscreen")
-		#DisplayServer.window_set_mode(DisplayServer.WINDOW_MODE_FULLSCREEN)
 	
 	display_correct_answers()
 	check_button.hide()

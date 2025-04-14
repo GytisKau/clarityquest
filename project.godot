@@ -17,6 +17,8 @@ The game will be based on UNESCO's Think critically, Click Wisely! Media and Inf
 
 Main topics = truth matters, the misinformation and disinformation ecosystem, media and misinformation, effects of misinformation on individuals and society, media and information literacy and information access."
 run/main_scene="res://Main menu/main menu.tscn"
+run/disable_stdout=true
+run/disable_stderr=true
 config/features=PackedStringArray("4.4")
 boot_splash/fullsize=false
 boot_splash/image="uid://dyw1j2b1btici"

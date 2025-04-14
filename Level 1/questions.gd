@@ -33,12 +33,12 @@ func display_question():
 	const questionType := [
 		"ChooseTheCorrectAnswer",
 		"MultipleChoice",
-		#"FillInTheBlank_corrected"
+		"FillInTheBlank_corrected"
 		]
 		
 	randomize()
 	
-	var type: String = questionType[randi_range(0, 1)]
+	var type: String = questionType[randi_range(0, 2)]
 
 	
 	# Check if need to reset all questions
