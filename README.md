@@ -71,7 +71,7 @@ Questions should be contained in JSON files located in `./questions/[language]/[
 
 The first level `Level 1` contains three level types:
 
-```jsonc
+```yaml
 {
   "ChooseTheCorrectAnswer": [...],
   "MultipleChoice": [...],
@@ -81,7 +81,7 @@ The first level `Level 1` contains three level types:
 
 `Level 2` and `Level 3` contain these three level types:
 
-```jsonc
+```yaml
 {
   "ChooseTheCorrectAnswer": [...],
   "MultipleChoice": [...],
@@ -93,7 +93,7 @@ The `FillInTheBlank_corrected` question type is the same as the `ChooseTheCorrec
 
 ### `ChooseTheCorrectAnswer` structure
 
-```jsonc
+```yaml
 {
   "ChooseTheCorrectAnswer": [
 	{
@@ -142,7 +142,7 @@ The `FillInTheBlank_corrected` question type is the same as the `ChooseTheCorrec
 Only diferance between `ChooseTheCorrectAnswer` and `MultipleChoice` is the multple correct answer array:  
 `"correctOption": "A"` -> `"answers": ["A" "C"]`
 
-```jsonc
+```yaml
 {
   "MultipleChoice": [
 	{
@@ -188,7 +188,7 @@ Only diferance between `ChooseTheCorrectAnswer` and `MultipleChoice` is the mult
 
 ### `FillInTheBlank` structure
 
-```jsonc
+```yaml
 {
  "FillInTheBlank": [
 	{
